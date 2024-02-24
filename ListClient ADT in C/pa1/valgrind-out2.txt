@@ -1,0 +1,75 @@
+==754== Memcheck, a memory error detector
+==754== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==754== Using Valgrind-3.17.0-07f0cdcbb4-20210319X and LibVEX; rerun with -h for copyright info
+==754== Command: ./Lex ../cse-101-public-tests/pa1/infile2.txt outfile2.txt
+==754== 
+--754-- Valgrind options:
+--754--    --leak-check=full
+--754--    -v
+--754-- Contents of /proc/version:
+--754--   Linux version 3.10.0-1160.99.1.el7.x86_64 (mockbuild@kbuilder.bsys.centos.org) (gcc version 4.8.5 20150623 (Red Hat 4.8.5-44) (GCC) ) #1 SMP Wed Sep 13 14:19:20 UTC 2023
+--754-- 
+--754-- Arch and hwcaps: AMD64, LittleEndian, amd64-cx16-lzcnt-rdtscp-sse3-ssse3-avx-avx2-bmi-f16c-rdrand-rdseed
+--754-- Page sizes: currently 4096, max supported 4096
+--754-- Valgrind library directory: /opt/rh/devtoolset-11/root/usr/libexec/valgrind
+--754-- Reading syms from /afs/cats.ucsc.edu/users/b/besaliu/cse101/besaliu/pa1/Lex
+--754-- Reading syms from /usr/lib64/ld-2.17.so
+--754--   Considering /usr/lib/debug/.build-id/62/c449974331341bb08dcce3859560a22af1e172.debug ..
+--754--   .. build-id is valid
+--754-- Reading syms from /opt/rh/devtoolset-11/root/usr/libexec/valgrind/memcheck-amd64-linux
+--754--    object doesn't have a symbol table
+--754--    object doesn't have a dynamic symbol table
+--754-- Scheduler: using generic scheduler lock implementation.
+--754-- Reading suppressions file: /opt/rh/devtoolset-11/root/usr/libexec/valgrind/default.supp
+==754== embedded gdbserver: reading from /tmp/vgdb-pipe-from-vgdb-to-754-by-besaliu-on-unix3
+==754== embedded gdbserver: writing to   /tmp/vgdb-pipe-to-vgdb-from-754-by-besaliu-on-unix3
+==754== embedded gdbserver: shared mem   /tmp/vgdb-pipe-shared-mem-vgdb-754-by-besaliu-on-unix3
+==754== 
+==754== TO CONTROL THIS PROCESS USING vgdb (which you probably
+==754== don't want to do, unless you know exactly what you're doing,
+==754== or are doing some strange experiment):
+==754==   /opt/rh/devtoolset-11/root/usr/libexec/valgrind/../../bin/vgdb --pid=754 ...command...
+==754== 
+==754== TO DEBUG THIS PROCESS USING GDB: start GDB like this
+==754==   /path/to/gdb ./Lex
+==754== and then give GDB the following command
+==754==   target remote | /opt/rh/devtoolset-11/root/usr/libexec/valgrind/../../bin/vgdb --pid=754
+==754== --pid is optional if only one valgrind process is running
+==754== 
+--754-- REDIR: 0x4019e40 (ld-linux-x86-64.so.2:strlen) redirected to 0x580cd495 (???)
+--754-- REDIR: 0x4019c10 (ld-linux-x86-64.so.2:index) redirected to 0x580cd4af (???)
+--754-- Reading syms from /opt/rh/devtoolset-11/root/usr/libexec/valgrind/vgpreload_core-amd64-linux.so
+--754-- Reading syms from /opt/rh/devtoolset-11/root/usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so
+==754== WARNING: new redirection conflicts with existing -- ignoring it
+--754--     old: 0x04019e40 (strlen              ) R-> (0000.0) 0x580cd495 ???
+--754--     new: 0x04019e40 (strlen              ) R-> (2007.0) 0x04c30990 strlen
+--754-- REDIR: 0x4019dc0 (ld-linux-x86-64.so.2:strcmp) redirected to 0x4c31aa0 (strcmp)
+--754-- REDIR: 0x401aa80 (ld-linux-x86-64.so.2:mempcpy) redirected to 0x4c35b30 (mempcpy)
+--754-- Reading syms from /usr/lib64/libc-2.17.so
+--754--   Considering /usr/lib/debug/.build-id/94/70e279388f7f9cb2ed3b2872d0c2095b191ff4.debug ..
+--754--   .. build-id is valid
+--754-- REDIR: 0x4ecb1d0 (libc.so.6:strcasecmp) redirected to 0x4a247af (_vgnU_ifunc_wrapper)
+--754-- REDIR: 0x4ec7f40 (libc.so.6:strnlen) redirected to 0x4a247af (_vgnU_ifunc_wrapper)
+--754-- REDIR: 0x4ecd4d0 (libc.so.6:strncasecmp) redirected to 0x4a247af (_vgnU_ifunc_wrapper)
+--754-- REDIR: 0x4eca9a0 (libc.so.6:memset) redirected to 0x4a247af (_vgnU_ifunc_wrapper)
+--754-- REDIR: 0x4eca950 (libc.so.6:memcpy@GLIBC_2.2.5) redirected to 0x4a247af (_vgnU_ifunc_wrapper)
+--754-- REDIR: 0x4ec9930 (libc.so.6:__GI_strrchr) redirected to 0x4c30350 (__GI_strrchr)
+--754-- REDIR: 0x4ec0740 (libc.so.6:malloc) redirected to 0x4c2afe0 (malloc)
+--754-- REDIR: 0x4ee0a10 (libc.so.6:__GI_strstr) redirected to 0x4c35dc0 (__strstr_sse2)
+--754-- REDIR: 0x4eca030 (libc.so.6:memchr) redirected to 0x4c31b40 (memchr)
+--754-- REDIR: 0x4ecfc30 (libc.so.6:__GI_memcpy) redirected to 0x4c32750 (__GI_memcpy)
+--754-- REDIR: 0x4ec7850 (libc.so.6:strcpy) redirected to 0x4a247af (_vgnU_ifunc_wrapper)
+--754-- REDIR: 0x4ed57d0 (libc.so.6:__strcpy_sse2_unaligned) redirected to 0x4c309b0 (strcpy)
+--754-- REDIR: 0x4ec63c0 (libc.so.6:strcmp) redirected to 0x4a247af (_vgnU_ifunc_wrapper)
+--754-- REDIR: 0x4f79fc0 (libc.so.6:__strcmp_sse42) redirected to 0x4c31a50 (__strcmp_sse42)
+--754-- REDIR: 0x4ec7e60 (libc.so.6:__GI_strlen) redirected to 0x4c308f0 (__GI_strlen)
+--754-- REDIR: 0x4ecab70 (libc.so.6:__GI_mempcpy) redirected to 0x4c35860 (__GI_mempcpy)
+--754-- REDIR: 0x4ec0b60 (libc.so.6:free) redirected to 0x4c2d566 (free)
+==754== 
+==754== HEAP SUMMARY:
+==754==     in use at exit: 0 bytes in 0 blocks
+==754==   total heap usage: 1,003 allocs, 1,003 frees, 25,168 bytes allocated
+==754== 
+==754== All heap blocks were freed -- no leaks are possible
+==754== 
+==754== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

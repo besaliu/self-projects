@@ -1,0 +1,70 @@
+==8404== Memcheck, a memory error detector
+==8404== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==8404== Using Valgrind-3.17.0-07f0cdcbb4-20210319X and LibVEX; rerun with -h for copyright info
+==8404== Command: ./ModelGraphTest -v
+==8404== 
+--8404-- Valgrind options:
+--8404--    --leak-check=full
+--8404--    -v
+--8404-- Contents of /proc/version:
+--8404--   Linux version 3.10.0-1160.99.1.el7.x86_64 (mockbuild@kbuilder.bsys.centos.org) (gcc version 4.8.5 20150623 (Red Hat 4.8.5-44) (GCC) ) #1 SMP Wed Sep 13 14:19:20 UTC 2023
+--8404-- 
+--8404-- Arch and hwcaps: AMD64, LittleEndian, amd64-cx16-lzcnt-rdtscp-sse3-ssse3-avx-avx2-bmi-f16c-rdrand-rdseed
+--8404-- Page sizes: currently 4096, max supported 4096
+--8404-- Valgrind library directory: /opt/rh/devtoolset-11/root/usr/libexec/valgrind
+--8404-- Reading syms from /afs/cats.ucsc.edu/users/b/besaliu/cse101/besaliu/pa2/ModelGraphTest
+--8404-- Reading syms from /usr/lib64/ld-2.17.so
+--8404--   Considering /usr/lib/debug/.build-id/62/c449974331341bb08dcce3859560a22af1e172.debug ..
+--8404--   .. build-id is valid
+--8404-- Reading syms from /opt/rh/devtoolset-11/root/usr/libexec/valgrind/memcheck-amd64-linux
+--8404--    object doesn't have a symbol table
+--8404--    object doesn't have a dynamic symbol table
+--8404-- Scheduler: using generic scheduler lock implementation.
+--8404-- Reading suppressions file: /opt/rh/devtoolset-11/root/usr/libexec/valgrind/default.supp
+==8404== embedded gdbserver: reading from /tmp/vgdb-pipe-from-vgdb-to-8404-by-besaliu-on-unix3
+==8404== embedded gdbserver: writing to   /tmp/vgdb-pipe-to-vgdb-from-8404-by-besaliu-on-unix3
+==8404== embedded gdbserver: shared mem   /tmp/vgdb-pipe-shared-mem-vgdb-8404-by-besaliu-on-unix3
+==8404== 
+==8404== TO CONTROL THIS PROCESS USING vgdb (which you probably
+==8404== don't want to do, unless you know exactly what you're doing,
+==8404== or are doing some strange experiment):
+==8404==   /opt/rh/devtoolset-11/root/usr/libexec/valgrind/../../bin/vgdb --pid=8404 ...command...
+==8404== 
+==8404== TO DEBUG THIS PROCESS USING GDB: start GDB like this
+==8404==   /path/to/gdb ./ModelGraphTest
+==8404== and then give GDB the following command
+==8404==   target remote | /opt/rh/devtoolset-11/root/usr/libexec/valgrind/../../bin/vgdb --pid=8404
+==8404== --pid is optional if only one valgrind process is running
+==8404== 
+--8404-- REDIR: 0x4019e40 (ld-linux-x86-64.so.2:strlen) redirected to 0x580cd495 (???)
+--8404-- REDIR: 0x4019c10 (ld-linux-x86-64.so.2:index) redirected to 0x580cd4af (???)
+--8404-- Reading syms from /opt/rh/devtoolset-11/root/usr/libexec/valgrind/vgpreload_core-amd64-linux.so
+--8404-- Reading syms from /opt/rh/devtoolset-11/root/usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so
+==8404== WARNING: new redirection conflicts with existing -- ignoring it
+--8404--     old: 0x04019e40 (strlen              ) R-> (0000.0) 0x580cd495 ???
+--8404--     new: 0x04019e40 (strlen              ) R-> (2007.0) 0x04c30990 strlen
+--8404-- REDIR: 0x4019dc0 (ld-linux-x86-64.so.2:strcmp) redirected to 0x4c31aa0 (strcmp)
+--8404-- REDIR: 0x401aa80 (ld-linux-x86-64.so.2:mempcpy) redirected to 0x4c35b30 (mempcpy)
+--8404-- Reading syms from /usr/lib64/libc-2.17.so
+--8404--   Considering /usr/lib/debug/.build-id/94/70e279388f7f9cb2ed3b2872d0c2095b191ff4.debug ..
+--8404--   .. build-id is valid
+--8404-- REDIR: 0x4ecb1d0 (libc.so.6:strcasecmp) redirected to 0x4a247af (_vgnU_ifunc_wrapper)
+--8404-- REDIR: 0x4ec7f40 (libc.so.6:strnlen) redirected to 0x4a247af (_vgnU_ifunc_wrapper)
+--8404-- REDIR: 0x4ecd4d0 (libc.so.6:strncasecmp) redirected to 0x4a247af (_vgnU_ifunc_wrapper)
+--8404-- REDIR: 0x4eca9a0 (libc.so.6:memset) redirected to 0x4a247af (_vgnU_ifunc_wrapper)
+--8404-- REDIR: 0x4eca950 (libc.so.6:memcpy@GLIBC_2.2.5) redirected to 0x4a247af (_vgnU_ifunc_wrapper)
+--8404-- REDIR: 0x4ec9930 (libc.so.6:__GI_strrchr) redirected to 0x4c30350 (__GI_strrchr)
+--8404-- REDIR: 0x4ec63c0 (libc.so.6:strcmp) redirected to 0x4a247af (_vgnU_ifunc_wrapper)
+--8404-- REDIR: 0x4f79fc0 (libc.so.6:__strcmp_sse42) redirected to 0x4c31a50 (__strcmp_sse42)
+--8404-- REDIR: 0x4ec0740 (libc.so.6:malloc) redirected to 0x4c2afe0 (malloc)
+--8404-- REDIR: 0x4ec0b60 (libc.so.6:free) redirected to 0x4c2d566 (free)
+--8404-- REDIR: 0x4ed14b0 (libc.so.6:strchrnul) redirected to 0x4c35650 (strchrnul)
+--8404-- REDIR: 0x4ecab70 (libc.so.6:__GI_mempcpy) redirected to 0x4c35860 (__GI_mempcpy)
+==8404== 
+==8404== HEAP SUMMARY:
+==8404==     in use at exit: 0 bytes in 0 blocks
+==8404==   total heap usage: 1,242 allocs, 1,242 frees, 57,608 bytes allocated
+==8404== 
+==8404== All heap blocks were freed -- no leaks are possible
+==8404== 
+==8404== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

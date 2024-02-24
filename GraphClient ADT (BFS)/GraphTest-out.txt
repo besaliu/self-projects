@@ -1,0 +1,17 @@
+
+
+Test DG_getSize: [0;32mPASSED[0m
+Test DG_getSource: [0;32mPASSED[0m
+Test DG_getParent: [0;32mPASSED[0m
+Test DG_getDist: [0;32mPASSED[0m
+Test DG_getPath: [0;32mPASSED[0m
+Test UG_getSize: [0;32mPASSED[0m
+Test UG_getSource: [0;32mPASSED[0m
+Test UG_getParent: [0;32mPASSED[0m
+Test UG_getDist: [0;32mPASSED[0m
+Test UG_getPath: [0;32mPASSED[0m
+
+You passed 10 out of 10 tests
+
+You will receive 40 out of 40 possible points on the ListTests
+
