@@ -1,0 +1,1224 @@
+label	col_00	col_01	col_02	col_03	col_04	col_05	col_06	col_07	col_08	col_09	col_10	col_11	col_12	col_13
+1	89 m^2	0.7724	BADMINTON	Natural Language Processing	-0.3638	1.0984 m^3	1719	999	663	Biotechnology	-0.8759	53	1.1532	-0.0309
+2	2497 m^2	-1.025	Baseball	Technology and Information Management	-0.3266	0.2113 m^3	503	1522	-501	Natural Language Processing	-0.6186	100	1.1743	0.9234
+1	-273 m^2	1.2496	boxing	Natural Language Processing	0.0973	-0.4761 m^3	1080	1713	529	HUMAN COMPUTER INTERACTION	0.454	160	-0.4086	0.6591
+3	65 m^2	1.0552	tennis	Games and Playable Media	-0.9837	-0.3593 m^3	197	1018	1255	Statistics	1.6469	-576	-0.839	-1.4706
+4	165 m^2	0.6072	motor sports	Data Science	0.1424	-0.1465 m^3	557	95	-1025	Applied Mathematics	0.4349	2286	0.7203	1.353
+0	-767 m^2	0.8308	running	Human Computer Interaction, Bioinformatics	-1.5424	1.3622 m^3	-441	1241	745	Games and Playable Media	1.5049	10	1.6042	1.422
+3	3055 m^2	-0.169	baseball	Bioengineering	0.7248	1.6347 m^3	596	922	1732	Bioengineering	-0.0972	-126	0.4491	1.0841
+1	222 m^2	0.6224	boxing	Natural Language Processing	-2.1763	-0.2741 m^3	812	1182	1167	Biotechnology	1.5668	1401	0.6138	-1.0335
+2	-149 m^2	0.1378	volleyball	Technology and Information Management	0.9882	-1.4255 m^3	-71	112	-432	Natural Language Processing	0.4867	1163	1.2054	0.3515
+4	-132 m^2	0.7265	motor sports	Data Science	-0.1766	0.7781 m^3	-1526	1194	-90	Applied Mathematics	0.3921	793	1.4605	0.945
+1	381 m^2	1.5928	boxing	Applied Mathematics	0.3213	-0.3708 m^3	697	759	1134	Human Computer Interaction	1.404	371	1.2924	-0.8207
+0	-628 m^2	1.1018	badminton	Human Computer Interaction, Bioinformatics	0.3284	0.7324 m^3	531	-1273	1594	Games and Playable Media	0.0347	625	1.6942	0.1822
+0	-520 m^2	1.4994	running	Robotics Engineering	1.0815	0.8352 m^3	465	1139	323	Games and Playable Media	0.7441	-360	1.0708	-0.4584
+4	1140 m^2	1.0672	motor sports	Data Science	1.3195	0.1713 m^3	602	303	261	Applied Mathematics	-0.2313	880	1.1408	1.3717
+4	1592 m^2	0.8743	motor sports	DATA SCIENCE	1.2469	1.4663 m^3	-1303	1128	1062	Bioinformatics	0.2849	-57	1.2813	1.9533
+6	486 m^2	-1.5934	soccer	Biotechnology	0.5395	0.8246 m^3	-745	1201	-251	Computer Game Design	-0.789	-592	0.3135	1.3155
+1	-937 m^2	1.5515	BOXING	Applied Mathematics	-0.2043	0.0203 m^3	1944	966	-794	Human Computer Interaction	0.7749	298	2.2845	-0.4351
+2	337 m^2	?	baseball	Technology and Information Management	-0.1188	-0.4325 m^3	1744	-429	187	Natural Language Processing	0.3789	809	1.087	1.1507
+2	1563 m^2	1.5088	baseball	Computational Media	0.6104	-1.1725 m^3	None	-387	867	Natural Language Processing	-0.0815	1176	0.5327	1.025
+3	1319 m^2	0.7464	track & field	Bioengineering	1.4161	0.1586 m^3	300	-1336	875	Statistics	-0.2869	694	1.2428	-0.2896
+3	552 m^2	0.6557	tennis	bIOENGINEERING	1.4854	1.0766 m^3	1088	-1180	395	Statistics	-0.5075	1709	0.2524	-0.3324
+4	661 m^2	0.2722	motor sports	Data Science	1.8598	0.5819 m^3	-573	-827	72	bioinformatics	-0.2241	1178	0.3022	0.3453
+1	428 m^2	-0.3982	boxing	Applied Mathematics	0.2433	0.2043 m^3	1265	2052	337	Technology and Information Management	0.0295	1106	1.5214	0.3353
+1	-452 m^2	0.5419	boxing	Applied Mathematics	0.7626	-0.4489 m^3	742	-1512	856	BIOTECHNOLOGY	1.6091	810	1.1721	-0.5876
+2	-311 m^2	-0.1015	baseball	Computational Media	0.8275	0.6634 m^3	-879	-270	211	Natural Language Processing	0.4686	1201	-0.152	0.2214
+1	-155 m^2	-0.5138	badminton	Natural Language Processing	0.8595	-0.3433 m^3	193	-354	2024	Human Computer Interaction	1.6375	858	0.0999	-0.6024
+1	-294 m^2	0.7086	boxing	Natural Language Processing	-0.3164	-0.0565 m^3	595	486	91	Biotechnology	-0.2305	751	1.043	-0.2183
+0	-600 m^2	-0.2203	basketball	Robotics Engineering	0.8624	2.1743 m^3	264	-749	1038	Games and Playable Media	-0.0898	185	1.3364	1.638
+1	-81 m^2	0.3373	boxing	Natural Language Processing	-0.5566	-0.2709 m^3	1608	2486	419	Computer Science	-0.5161	-492	-0.3056	-0.8962
+0	-589 m^2	1.0108	running	Bioinformatics	1.2329	-1.2623 m^3	285	-29	1196	Games and Playable Media	0.6191	-1098	0.6022	1.031
+3	-430 m^2	0.8084	track & field	Games and Playable Media	0.704	0.0333 m^3	316	-860	637	Bioengineering	-0.6407	-1363	0.7437	0.5143
+2	960 m^2	0.003	volleyball	Computational Media	0.8705	0.1328 m^3	74	3579	-558	Natural Language Processing	-0.6699	1386	-0.0751	2.8132
+1	-43 m^2	1.3436	badminton	Natural Language Processing	0.5047	-0.2738 m^3	-187	1230	-306	Biotechnology	-0.6243	996	0.5738	0.3785
+2	880 m^2	-1.2145	baseball	Computational Media	0.6465	-0.1838 m^3	543	1099	-82	Natural Language Processing	0.9648	859	1.4545	1.8008
+5	714 m^2	1.1697	golf	COMPUTER GAME DESIGN	1.4757	-0.1765 m^3	143	-646	241	Robotics Engineering	1.1916	-60	-0.5932	1.191
+6	3264 m^2	-0.2256	soccer	Computer Science, Electrical Engineering	-0.6263	-0.0486 m^3	67	1373	505	Computer Game Design	-0.7321	-1016	1.0462	-0.7369
+1	-1622 m^2	1.0321	badminton	Natural Language Processing	-0.4504	-0.7359 m^3	-1103	298	1496	Human Computer Interaction	0.5438	1898	1.4089	0.2281
+1	566 m^2	1.3864	boxing	Natural Language Processing	0.7453	-0.4756 m^3	492	1096	1979	Biotechnology	-0.1177	-284	0.5529	-0.335
+1	-155 m^2	0.7046	boxing	Applied Mathematics	0.8007	-0.6416 m^3	950	-904	712	Technology and Information Management	-0.8874	217	1.2403	-0.3325
+0	330 m^2	0.1641	running	Robotics Engineering	0.6337	1.379 m^3	243	526	-389	Games and Playable Media	0.5437	287	0.598	-0.0126
+4	-243 m^2	1.3797	motor sports	Data Science	0.7158	-0.0992 m^3	-95	1274	1566	Bioinformatics	0.1774	876	-0.9706	0.4667
+4	735 m^2	0.2309	motor sports	Data Science	1.4524	0.6598 m^3	1511	1273	1766	Electrical Engineering	-0.2494	426	0.4156	-0.2816
+1	701 m^2	-1.7536	boxing	Applied Mathematics	-0.9882	0.5461 m^3	243	-1153	1594	Technology and Information Management	-0.0528	1558	0.8587	1.5935
+3	-436 m^2	0.1886	track & field	Bioengineering	-0.9237	0.6845 m^3	1233	-694	3	Statistics	0.7334	-825	1.4038	
+3	232 m^2	1.1302	track & field	Bioengineering	1.2486	-0.2811 m^3	-60	268	2818	Statistics	0.8042	269	-0.2588	-1.0395
+0	-299 m^2	0.7024	football	Bioinformatics	-0.6959	1.0856 m^3	807	-620	4	Games and Playable Media	1.6105	-105	2.1501	0.4485
+0	-1199 m^2	1.5963	running	Robotics Engineering, Bioinformatics	1.1085	-0.258 m^3	183	125	1543	Games and Playable Media	-0.0684	-1326	0.9792	0.9171
+6	662 m^2	0.1345	soccer	Electrical Engineering, Computer Science	1.478	0.9481 m^3	-402	1021	862	Computer Game Design	1.7034	674	0.898	-0.5234
+2	437 m^2	1.1316	BASEBALL	Computational Media	2.4713	-0.9807 m^3	1427	2308	172	Natural Language Processing	1.345	1956	0.5521	2.0852
+4	388 m^2	0.2034	motor sports	Data Science	0.0451	0.1867 m^3	1571	412	-58	Bioinformatics	0.4113	n/a	-0.7778	0.6244
+4	-511 m^2	0.3692	motor sports	Data Science	1.9197	-0.9997 m^3	870	2196	913	Bioinformatics	-0.078	1006	0.4324	1.7998
+3	1355 m^2	0.6505	track & field	Games and Playable Media	0.4194	0.585 m^3	316	-5	?	Statistics	-0.2018	-294	0.232	0.5414
+1	-247 m^2	0.6292	boxing	NATURAL LANGUAGE PROCESSING	-0.5207	0.2055 m^3	-267	-473	392	Technology and Information Management	0.8035	1124	1.2863	-0.5962
+6	324 m^2	-0.0206	soccer	Electrical Engineering	0.7788	-1.7651 m^3	313	438	872	Computer Science	0.7264	-588	0.034	1.0739
+4	862 m^2	1.0603	motor sports	Data Science	-0.6924	-1.2669 m^3	-569	574	220	Electrical Engineering	0.8905	-134	0.4714	1.2996
+0	-126 m^2	0.8435	running	Human Computer Interaction, Robotics Engineering	0.2036	0.5366 m^3	1566	1345	2732	Games and Playable Media	0.5382	1334	1.0894	2.5587
+4	-339 m^2	0.8403	motor sports	Data Science	1.0767	-0.0777 m^3	-1634	-1924	366	Bioinformatics	1.4558	-455	0.1938	1.4995
+1	1527 m^2	0.764	boxing	Applied Mathematics	-1.1701	1.3979 m^3	345	253	1030	Biotechnology	-0.7513	332	1.4625	0.4971
+1	-1055 m^2	1.3212	boxing	Natural Language Processing	0.551	0.6984 m^3	1868	-216	-54	Human Computer Interaction	0.6944	50	1.0026	-0.1246
+4	462 m^2	0.7361	basketball	Data Science	1.2754	-0.1574 m^3	138	578	-1141	Applied Mathematics	0.6331	1170	?	0.0507
+1	-84 m^2	0.7661	badminton	Natural Language Processing	-0.373	-0.3343 m^3	1105	129	1584	Biotechnology	-1.48	-339	1.6298	-0.5274
+5	-191 m^2	0.6797	ice hockey	Computer Game Design	1.4013	1.5976 m^3	1721	230	2086	COMPUTER ENGINEERING	-0.4251	417	1.5873	2.2505
+3	1532 m^2	0.128	track & field	Games and Playable Media	-0.8266	2.2922 m^3	-233	-2618	53	Statistics	1.1818	-1096	-0.5355	1.6759
+4	1252 m^2	0.8926	motor sports	Data Science	-0.2438	-0.6576 m^3	2	647	369	Bioinformatics	1.4844	n/a	-0.2092	0.69
+1	3 m^2	0.6961	badminton	Applied Mathematics	0.4111	-0.5292 m^3	616	200	577	Biotechnology	0.6111	656	0.1283	0.562
+5	814 m^2	-0.0355	golf	Computer Engineering	1.0715	0.0489 m^3	721	406	-305	Data Science	0.787	602	0.1741	-0.5297
+6	732 m^2	-1.2823	football	Electrical Engineering	2.6709	0.4157 m^3	-621	2225	-151	Computer Science	0.1403	1172	0.0831	1.0003
+5	721 m^2	1.3721	ice hockey	Computer Engineering, Computer Game Design	0.8737	0.6829 m^3	-410	1472	-1332	Statistics	0.9104	-1068	0.1703	1.3175
+0	-820 m^2	-1.0881	football	Bioinformatics	0.2933	-0.2931 m^3	-920	109	-468	Games and Playable Media	0.584	-865	0.7732	0.1791
+2	1631 m^2	1.6141	baseball	Technology and Information Management	0.0396	-0.5293 m^3	544	179	1240	Natural Language Processing	0.1663	2055	1.6737	0.8485
+6	619 m^2	-0.2715	soccer	Computer Science	0.5958	1.5825 m^3	-404	1268	1794	Computer Science	1.4625	-188	1.3623	-0.316
+5	580 m^2	1.3283	ice hockey	Computer Engineering	-0.9214	0.3655 m^3	-595	196	-617	Robotics Engineering	1.5582	-701	1.0336	0.3045
+3	772 m^2	0.7844	track & field	Games and Playable Media	0.1249	-0.5653 m^3	1075	-91	585	Statistics	0.4382	-1231	-0.6461	0.722
+0	868 m^2	1.4224	running	Bioinformatics, Human Computer Interaction	1.0653	0.2341 m^3	1543	268	1473	Games and Playable Media	0.7808	-435	1.1455	-0.7903
+6	847 m^2	1.0277	soccer	?	1.5602	1.4498 m^3	None	596	903	Computer Science	0.7331	389	-0.0016	-0.5127
+0	208 m^2	2.1384	basketball	Bioinformatics	0.8742	0.9753 m^3	1377	-1009	173	Games and Playable Media	1.8463	371	1.0256	1.8256
+6	1297 m^2	-0.6173	soccer	Biotechnology, Computer Science	0.5656	-0.3635 m^3	-1828	2708	-103	Computer Science	-0.3129	-650	2.0006	1.959
+6	2025 m^2	0.4743	soccer	Electrical Engineering, Biotechnology	0.406	0.8856 m^3	-111	561	1177	Computer Game Design	-0.2783	-505	1.0904	0.1805
+2	532 m^2	0.2579	volleyball	Computational Media	0.0317	2.0742 m^3	523	1390	NULL	Natural Language Processing	0.3597	487	1.7206	3.3661
+0	589 m^2	1.142	football	Human Computer Interaction	0.8528	0.3175 m^3	428	-1224	203	rOBOTICS eNGINEERING	0.7177	554	1.3613	0.6779
+6	423 m^2	-0.3618	soccer	Electrical Engineering	1.4429	-0.6864 m^3	-1143	544	1121	Computer Science	0.7924	-507	-0.4227	-0.2855
+1	-135 m^2	1.9199	boxing	Natural Language Processing	0.7964	0.5449 m^3	656	316	307	Biotechnology	-0.7687	510	0.717	-0.1825
+6	1679 m^2	1.3264	soccer	Biotechnology	-1.701	2.5883 m^3	614	900	-999	Computer Science	0.7281	299	0.6291	-1.3029
+1	256 m^2	0.689	badminton	Applied Mathematics	1.5455	-0.5329 m^3	635	446	393	Human Computer Interaction	-0.315	192	0.848	-0.0672
+0	69 m^2	0.9749	basketball	Robotics Engineering, Bioinformatics	1.3989	1.1452 m^3	-206	-271	1811	Games and Playable Media	0.8369	-620	0.6647	0.4553
+1	1117 m^2	0.0757	badminton	Natural Language Processing	-1.085	0.6086 m^3	948	605	2309	Biotechnology	1.2804	613	1.0463	-0.1223
+2	1295 m^2	-1.1076	volleyball	Technology and Information Management	1.0149	0.1021 m^3	-857	2969	754	Natural Language Processing	0.9762	1853	0.8719	1.665
+4	926 m^2	1.4085	ice hockey	Data Science	0.7499	-0.3383 m^3	70	787	-95	Bioinformatics	-0.234	168	1.2065	1.6797
+5	-424 m^2	-0.5773	golf	Computer Game Design, Computer Engineering	-0.0074	0.1999 m^3	234	1451	777	Computational Media	0.1067	377	0.274	0.5546
+3	988 m^2	0.7586	baseball	Bioengineering	1.528	-0.7968 m^3	948	-476	911	Statistics	-1.2425	900	-0.309	1.2019
+3	2092 m^2	0.9185	tennis	Bioengineering	0.1383	1.9301 m^3	-694	-477	-598	Statistics	1.2272	208	0.9082	0.9471
+1	-236 m^2	2.0207	BADMINTON	Natural Language Processing	0.554	1.2385 m^3	1548	-528	1092	Technology and Information Management	1.6963	-151	1.2117	-0.1314
+1	694 m^2	0.7993	boxing	Natural Language Processing	1.1148	-0.2025 m^3	146	-1591	1324	Technology and Information Management	-0.0109	767	0.9138	1.3086
+5	2339 m^2	0.3259	ice hockey	Computer Game Design, Computer Engineering	0.1402	0.6094 m^3	363	-442	-182	Computational Media	0.6078	-171	0.2033	-0.1006
+3	466 m^2	1.5923	track & field	Games and Playable Media	0.4622	1.7559 m^3	-167	1267	2369	Statistics	0.7099	1593	0.7247	0.3642
+2	1184 m^2	1.4708	volleyball	Technology and Information Management	-0.5724	1.6291 m^3	961	1466	1098	Natural Language Processing	1.3619	1346	1.1849	1.3558
+1	271 m^2	-0.1829	badminton	Natural Language Processing	-0.3049	-1.302 m^3	868	547	628	Human Computer Interaction	-1.0958	1280	0.418	0.9845
+3	47 m^2	0.255	tennis	Games and Playable Media	-0.3063	-0.308 m^3	-1888	-396	436	Statistics	0.0998	-108	-0.4046	0.0781
+1	674 m^2	0.8909	boxing	Natural Language Processing	-1.6296	0.8517 m^3	-13	318	1199	Biotechnology	0.413	48	0.1898	-0.9807
+3	1658 m^2	1.2772	tennis	Bioengineering	-0.2183	-0.8337 m^3	623	1897	75	Statistics	-0.7525	-359	1.4465	-0.7577
+4	1956 m^2	0.4558	track & field	Data Science	0.0964	0.9292 m^3	-481	2790	-1258	?	1.2249	-40	-0.3598	-0.1159
+4	711 m^2	0.8692	motor sports	Data Science	0.8795	-0.6269 m^3	-76	546	773	Bioinformatics	0.0362	1370	0.005	1.0725
+6	2525 m^2	-1.0065	soccer	Electrical Engineering, Biotechnology	-0.2299	1.3849 m^3	877	-312	1134	Computer Science	0.4677	-420	0.8826	0.5712
+3	522 m^2	0.2253	track & field	GAMES AND PLAYABLE MEDIA	-0.2471	1.8261 m^3	-200	-839	11	Bioengineering	1.2067	262	1.0388	-0.1062
+1	946 m^2	1.7868	boxing	Natural Language Processing	-0.2222	-1.2221 m^3	1209	789	1472	Biotechnology	1.6643	1579	1.4989	0.5949
+0	8 m^2	-0.0692	running	Robotics Engineering, Human Computer Interaction	-0.077	0.5782 m^3	4	634	1036	Games and Playable Media	1.4559	-393	0.359	0.6836
+6	-899 m^2	0.1272	soccer	Biotechnology	0.7538	0.3681 m^3	1400	1880	1604	Computer Game Design	1.6596	-514	0.9748	-0.5234
+0	623 m^2	2.0265	running	Bioinformatics	1.9265	0.1332 m^3	-201	514	1617	Games and Playable Media	0.4731	-217	1.4104	0.744
+3	14 m^2	0.3435	track & field	Games and Playable Media	-0.1414	1.0375 m^3	348	871	NULL	Statistics	?	72	0.9019	0.0997
+5	-635 m^2	-0.007	golf	Computer Game Design	2.0841	2.0569 m^3	435	699	-383	Data Science	0.5766	89	1.0799	0.8625
+4	498 m^2	1.8022	motor sports	Data Science	0.5539	-0.5163 m^3	682	1530	546	Applied Mathematics	-0.3431	388	1.0063	1.8482
+6	1125 m^2	0.8905	soccer	Electrical Engineering	-1.3151	1.5552 m^3	1007	1514	-620	Computer Science	1.4926	522	0.5227	1.6178
+6	-621 m^2	0.4408	soccer	Biotechnology	-0.5091	1.4759 m^3	1839	1365	1192	Computer Science	0.6815	-488	1.357	0.5785
+4	-283 m^2	0.9494	motor sports	data science	1.6194	-0.5741 m^3	-233	162	-377	Bioinformatics	0.4384	1667	0.0237	1.4748
+3	133 m^2	-0.2766	track & field	Bioengineering	0.3631	1.4601 m^3	2188	327	1730	Bioengineering	0.8221	192	0.8103	0.1664
+0	-1343 m^2	1.7205	basketball	Human Computer Interaction, Robotics Engineering	0.5328	1.177 m^3	435	?	671	Games and Playable Media	0.1327	496	1.0908	1.0445
+0	-216 m^2	1.5853	basketball	Bioinformatics	-1.2106	1.0543 m^3	-1073	224	1086	Games and Playable Media	0.7349	-480	0.1851	0.3808
+6	1867 m^2	-0.1271	soccer	Biotechnology	1.5298	0.7302 m^3	394	1664	1252	Computer Game Design	0.9903	844	1.613	0.3218
+4	-749 m^2	1.1745	motor sports	Data Science	1.7556	-1.1654 m^3	980	-78	-598	Electrical Engineering	1.2818	645	-1.0501	0.676
+2	541 m^2	0.3249	volleyball	Computational Media	0.6855	1.1221 m^3	-66	-237	1041	Natural Language Processing	0.752	146	-0.1491	-0.0703
+3	1255 m^2	-0.4895	TENNIS	Bioengineering	1.7894	0.7914 m^3	-759	-832	2146	Bioengineering	0.677	701	1.8197	-0.3484
+3	463 m^2	0.0091	track & field	Games and Playable Media	-0.6855	0.3237 m^3	1568	212	33	Statistics	0.7124	384	1.8216	-0.248
+0	-179 m^2	0.6428	football	Bioinformatics, Human Computer Interaction	0.3159	-0.1841 m^3	655	23	612	Games and Playable Media	0.9251	681	1.5158	1.0916
+6	1380 m^2	0.8484	golf	ELECTRICAL ENGINEERING, BIOTECHNOLOGY	-0.0486	-0.8409 m^3	2115	2757	2024	COMPUTER GAME DESIGN	1.1284	-713	1.0798	0.1249
+5	-565 m^2	2.0671	golf	Computer Engineering	0.2124	1.2086 m^3	323	-272	492	Computational Media	0.6174	-265	0.6423	-0.1455
+6	-91 m^2	-0.6066	soccer	Electrical Engineering, Biotechnology	0.1902	1.6759 m^3	329	1128	-313	Computer Game Design	?	1057	0.2203	0.547
+5	1189 m^2	0.4294	ice hockey	Statistics	1.0002	1.0801 m^3	989	947	477	Data Science	1.5403	147	1.2215	0.1596
+5	-939 m^2	-0.6202	golf	Computer Game Design	0.2902	0.1323 m^3	222	824	1358	Electrical Engineering	0.4245	238	0.21	2.0247
+0	-1943 m^2	0.5181	running	Robotics Engineering	0.3314	0.5299 m^3	-1794	413	685	Games and Playable Media	0.4162	-775	1.4349	0.1726
+6	824 m^2	-1.246	soccer	Electrical Engineering, Computer Science	0.6707	1.5037 m^3	907	3145	878	Computer Game Design	0.5325	-177	0.2276	0.7452
+6	-21 m^2	-0.3081	soccer	Computer Science, Biotechnology	-0.0645	-0.4226 m^3	-155	1570	22	Computer Science	1.9665	350	0.5624	0.4397
+3	1301 m^2	1.2	Track & Field	games and playable media	0.6638	1.1989 m^3	-282	-563	1399	sTATISTICS	0.7727	283	0.4538	0.4341
+4	1784 m^2	0.3011	motor sports	Data Science	0.8364	-0.1382 m^3	18	564	-1000	Bioinformatics	-0.3259	521	-0.0152	0.2311
+5	-1264 m^2	-0.75	ice hockey	Computer Game Design	0.9604	1.1449 m^3	360	535	1091	Computer Engineering	-0.1713	-363	2.4444	0.7764
+1	26 m^2	0.6098	soccer	Applied Mathematics	0.2105	1.2587 m^3	1845	226	385	hUMAN cOMPUTER iNTERACTION	0.0344	598	0.757	-1.7807
+3	1321 m^2	1.2985	tennis	Bioengineering	0.7207	0.285 m^3	-655	2061	1875	Bioengineering	-0.152	538	0.6996	-0.0153
+3	n/a	0.1386	tennis	Bioengineering	0.5309	1.0354 m^3	330	2102	690	Bioengineering	1.1326	159	-0.1393	0.8331
+5	-198 m^2	-0.0891	ice hockey	Computer Game Design	0.8453	-0.0256 m^3	155	-354	422	Data Science	0.0623	976	1.076	-0.8929
+3	698 m^2	-0.0501	tennis	Games and Playable Media	-0.0561	0.8907 m^3	721	1677	1395	Bioengineering	-0.2015	785	1.0762	-0.4451
+5	-78 m^2	-1.3092	ice hockey	Computer Game Design	0.5657	1.263 m^3	-1075	1052	363	Biotechnology	-0.0524	1549	0.3322	-0.0415
+5	-111 m^2	0.3615	ice hockey	Computer Engineering, Statistics	-0.8017	1.5276 m^3	-928	-816	None	Computational Media	0.1882	-673	1.13	2.1574
+5	1041 m^2	0.1629	golf	Statistics, Computer Engineering	-0.7738	0.5392 m^3	-815	-814	1439	Computer Engineering	-0.462	-71	0.3457	0.2723
+6	317 m^2	1.4498	soccer	Electrical Engineering	2.4439	0.2718 m^3	827	985	363	Computer Game Design	1.2663	1119	1.3265	-1.7239
+5	264 m^2	0.9849	golf	Statistics	1.4773	0.2077 m^3	NULL	94	1685	Computer Engineering	-0.6763	-382	0.7329	0.6365
+4	-204 m^2	2.1411	motor sports	Data Science	1.7489	2.7402 m^3	211	89	-415	Bioinformatics	0.8901	1035	1.463	-0.1592
+2	761 m^2	0.5381	volleyball	Computational Media	1.6827	0.5738 m^3	-382	704	1072	Natural Language Processing	-0.5227	-16	1.0772	2.3784
+2	517 m^2	-0.0745	baseball	Technology and Information Management	0.5207	0.2951 m^3	-852	993	-1040	Natural Language Processing	0.8752	-290	1.25	0.1013
+6	125 m^2	1.4845	Soccer	Electrical Engineering, Computer Science	1.1102	-0.4559 m^3	1378	1070	203	Computer Game Design	0.3558	413	0.987	-0.6182
+0	-505 m^2	1.72	football	Robotics Engineering	1.0237	0.0258 m^3	611	1039	1703	Games and Playable Media	0.0031	393	1.4531	0.6449
+4	849 m^2	0.0935	motor sports	Data Science	0.9239	-0.9375 m^3	-788	-2142	-51	Applied Mathematics	0.5392	1198	0.4861	-0.3318
+6	512 m^2	0.2453	soccer	Biotechnology	0.9478	-0.5641 m^3	1389	1846	868	Computer Science	1.1862	1509	1.7698	-1.7143
+4	-88 m^2	0.7163	motor sports	Data Science	1.6934	1.7503 m^3	372	-270	834	Electrical Engineering	0.2786	619	-0.2772	2.2577
+3	338 m^2	1.0598	track & field	games and playable media	0.5784	-0.0713 m^3	-419	191	1337	Statistics	-0.1523	-8	0.6479	-0.1501
+1	1992 m^2	0.0175	boxing	Applied Mathematics	0.5621	-0.533 m^3	1639	-78	740	Human Computer Interaction	0.8491	888	0.6542	-0.1418
+6	1266 m^2	0.591	soccer	Biotechnology	1.1083	-0.3183 m^3	-1668	708	1207	Computer Science	1.4761	71	1.0818	0.0762
+6	1875 m^2	0.109	soccer	Biotechnology, Computer Science	-0.5405	1.7972 m^3	-1006	2181	-375	Computer Game Design	0.4287	11	1.0822	-0.5891
+6	408 m^2	-0.305	soccer	Electrical Engineering	-0.0152	0.5076 m^3	238	694	-72	Computer Game Design	0.438	-1161	0.1402	0.4819
+1	117 m^2	1.0529	boxing	Applied Mathematics	-0.9635	-0.2483 m^3	1472	85	573	Technology and Information Management	0.9459	-398	0.7086	-0.5614
+3	928 m^2	-1.5226	track & field	Bioengineering	1.2024	0.7404 m^3	1175	-846	n/a	Statistics	-0.3982	180	None	1.4469
+4	1230 m^2	0.1344	badminton	Data Science	-1.3147	0.001 m^3	-410	-256	-721	Applied Mathematics	1.1367	1392	-0.0169	0.2726
+3	-716 m^2	0.6074	track & field	Games and Playable Media	-0.2211	-0.066 m^3	1228	1275	1714	Statistics	1.8032	-615	1.2538	-0.0794
+6	1762 m^2	0.5706	soccer	Biotechnology	-0.1032	-1.2902 m^3	1311	1591	1451	Computer Game Design	-1.8178	1461	0.6551	-1.2459
+0	-527 m^2	1.5911	basketball	Human Computer Interaction	0.0037	1.2765 m^3	171	103	1657		-0.2703	1002		1.1738
+5	-22 m^2	1.9634	golf	Computer Engineering, Statistics	1.952	0.5515 m^3	-107	112	1444	Computer Engineering	2.3414	1224	0.3662	-0.0825
+6	-105 m^2	1.5766	soccer	Biotechnology, Electrical Engineering	1.6704	1.3667 m^3	96	1552	295	Computer Game Design	-0.4692	-831	-0.0819	-0.7795
+0	450 m^2	2.1281	football	Bioinformatics	0.5127	0.426 m^3	-834	-7	202	Games and Playable Media	0.2752	156	0.0226	-0.1687
+0	-1446 m^2	0.8968	RUNNING	Robotics Engineering, Bioinformatics	0.149	0.9381 m^3	-664	683	734	Games and Playable Media	1.0515	329	0.8735	0.2826
+1	-494 m^2	-0.6278	badminton	Natural Language Processing	1.1893	-0.9309 m^3	1465	-125	939	Technology and Information Management	0.8006	314	1.0472	-0.2742
+6	1000 m^2	-1.1586	soccer	Computer Science	0.7606	-0.318 m^3	813	426	746	Computer Science	1.0817	49	0.4408	-0.2962
+6	98 m^2	-0.3509	soccer	Computer Science	0.6516	1.6384 m^3	190	1658	1093	Computer Science	-1.3956	660	0.828	0.7729
+2	1552 m^2	-1.3149	baseball	Computational Media	0.7978	-0.9761 m^3	1003	1538	203	Natural Language Processing	-0.8514	716	-0.3441	1.2034
+6	1524 m^2	0.1624	soccer	Electrical Engineering, Computer Science	-0.0176	1.141 m^3	-87	880	1113	Computer Game Design	0.4935	-1059	0.5133	1.6309
+5	-939 m^2	-0.5615	golf	Statistics	0.4571	0.3432 m^3	-378	1483	-253	Data Science	0.8498	-718	0.7698	0.4506
+3	1629 m^2	-0.3535	track & field	Games and Playable Media	-0.293	0.8604 m^3	346	-499	232	Statistics	0.7897	181	0.5304	0.2943
+3	-9 m^2	0.738	tennis	Bioengineering	-0.6187	0.8004 m^3	683	1274	957	Statistics	0.4866	1557	1.3741	-0.0298
+2	2343 m^2	0.9561	volleyball	Technology and Information Management	0.1935	0.2508 m^3	65	938	-469	Natural Language Processing	0.5446	145	0.4957	1.1332
+4	1087 m^2	0.8089	motor sports	Data Science	-0.598	-1.2351 m^3	-242	691	?	Applied Mathematics	-0.0027	-492	1.2664	2.0841
+3	1461 m^2	0.4117	tennis	Bioengineering	0.3899	0.8626 m^3	1284	544	955	Bioengineering	1.2376	1088	0.4802	1.0139
+5	-1451 m^2	1.232	golf	Computer Engineering, Computer Game Design	1.4921	0.0601 m^3		-73	1653	Data Science	1.2386	1153	0.3079	1.0338
+0	807 m^2	-0.6725	None	Robotics Engineering	0.996	1.1426 m^3	357	-678	2555	Games and Playable Media	0.2992	-373	1.4871	1.5725
+3	-88 m^2	-1.3407	tennis	BIOENGINEERING	0.8404	0.5357 m^3	1909	196	-30	Statistics	-0.1315	-204	-0.1639	-1.339
+6	-1249 m^2	0.7884	soccer	Computer Science, Biotechnology	0.8802	-0.2742 m^3	774	-221	163	Computer Science	0.092	-741	0.9044	-0.7833
+6	-340 m^2	1.3372	soccer	Computer Science, Electrical Engineering	0.3921	-0.1181 m^3	313	281	-14	Computer Science	0.2498	-34	0.9089	1.0627
+5	139 m^2	-0.0817	golf	Statistics, Computer Game Design	0.556	0.9063 m^3	-375	-1171	487	robotics engineering	1.1221	-1138	0.6289	0.899
+2	-163 m^2	-0.5011	baseball	Computational Media	0.4001	0.6071 m^3	-73	447	-772	Natural Language Processing	0.146	647	-1.0006	0.5133
+4	806 m^2	2.4185	motor sports	Data Science	0.4035	0.8105 m^3	1082	4	-694	Bioinformatics	0.4491	186	0.277	0.8061
+6	1511 m^2	1.2159	soccer	Electrical Engineering, Computer Science	1.0005	0.6205 m^3	277	-469	-24	Computer Science	0.3701	295	1.6303	-0.9407
+2	325 m^2	0.0957	volleyball	Computational Media	0.4457	0.9521 m^3	-1070	1757	-1169	Natural Language Processing	0.9162	2776	1.1148	1.4223
+2	-336 m^2	-1.2324	BASEBALL	Technology and Information Management	2.3687	0.1339 m^3	684	303	282	Natural Language Processing	1.3677	1784	0.9894	0.8171
+5	-952 m^2	0.6519	ice hockey	Statistics	0.7384	0.5051 m^3	335	-1607	1798	Computer Engineering	0.6592	835	0.4288	1.1036
+0	-398 m^2	0.7207	running	Bioinformatics	1.0225	0.7506 m^3	-1112	304	883	Games and Playable Media	-0.511	499	1.0144	0.9384
+2	1148 m^2	0.2227	football	Technology and Information Management	0.3726	0.3684 m^3	-285	-501	986	Natural Language Processing	2.4442	312	0.2556	-1.1157
+3	532 m^2	-0.2928	TENNIS	Games and Playable Media	0.4482	0.9254 m^3	-1000	448	210	Statistics	1.1859	1109	-0.2582	-0.6309
+0	476 m^2	2.5531	basketball	Bioinformatics	1.1035	1.4687 m^3	332	2617	-232	Games and Playable Media	1.064	-890	-0.0994	-0.7511
+1	-1409 m^2	1.2249	badminton	Applied Mathematics	1.3751	-0.2168 m^3	26	2007	578	Human Computer Interaction	0.6797	197	0.98	-0.8556
+3	781 m^2	-1.1892	tennis	Bioengineering	-0.058	-0.3096 m^3	-600	316	2876	Bioengineering	-0.3668	401	0.5226	-0.8757
+4	558 m^2	-0.9829	motor sports	Data Science	1.793	-0.8892 m^3	1727	473	-290	Applied Mathematics	0.5016	741	0.2625	0.8751
+2	772 m^2	0.5078	volleyball	Technology and Information Management	0.871	0.1129 m^3	392	1643	-257	Natural Language Processing	1.4092	1062	-0.2417	N/A
+5	837 m^2	-0.669	ice hockey	Statistics	0.3194	-0.0333 m^3	34	878	963	Data Science	1.091	1186	0.5298	0.8485
+3	508 m^2	0.467	tennis	Bioengineering	0.5136	1.8586 m^3	527	157	1300	Bioengineering	0.8882	-328	0.4992	-0.7754
+3	1113 m^2	0.1684	Track & Field	Games and Playable Media	0.3146	1.5408 m^3	-670	1486	982	Bioengineering	0.4154	13	-0.3665	-0.6281
+6	268 m^2	1.0707	ice hockey	Biotechnology, Electrical Engineering	0.0792	1.6089 m^3	370	-663	-235	Computer Game Design	1.2262	-750	-0.1691	-0.8727
+2	1227 m^2	1.5695	volleyball	Technology and Information Management	-0.1554	0.3685 m^3	-1571	2474	-25	Natural Language Processing	0.21	2054	1.0152	-0.6157
+1	258 m^2	0.7467	motor sports	Natural Language Processing	1.4799	-1.0952 m^3	1079	-649	419	tECHNOLOGY AND iNFORMATION mANAGEMENT	-0.5297	-300	-0.0749	-0.1787
+2	1313 m^2	0.1118	baseball	Computational Media	-0.587	0.5511 m^3	-818	2137	-409	natural language processing	-0.3803	704	0.8023	0.2156
+3	1956 m^2	2.1622	track & field	Games and Playable Media	0.6351	-0.4554 m^3	-41	587	-276	Statistics	-0.2775	-418	1.9768	1.778
+0	382 m^2	0.2592	basketball	Human Computer Interaction	0.6743	-0.7725 m^3	1955	None	1708	Games and Playable Media	-0.2611	-626	0.322	0.1651
+3	-1055 m^2	-0.1175	tennis	Games and Playable Media	-0.0367	-0.1722 m^3	702	1278	567	Statistics	0.0975	428	1.0593	-0.722
+3	88 m^2	0.6573	tennis	Games and Playable Media	-0.1071	1.2853 m^3	680	-852	15	Bioengineering	0.4025	330	2.1728	0.7091
+6	2505 m^2	-0.3523	soccer	Electrical Engineering	-0.2769	0.748 m^3	-159	552	43	Computer Science	0.1765	-240	-0.0182	1.0461
+6	1067 m^2	-0.3746	soccer	Biotechnology	0.5377	1.5496 m^3	221	2569	-333	Computer Science	0.7099	-895	0.8036	0.4913
+6	357 m^2	-0.7376	soccer	Computer Science	0.8959	0.0562 m^3	979	946	719	Computer Game Design	-0.3541	-1020	0.1819	0.4186
+4	1673 m^2	0.0507	motor sports	Computer Engineering, Statistics	0.1317	0.7639 m^3	602	-242	77	Bioinformatics	-0.4711	589	0.7849	0.9453
+6	507 m^2	0.3356	soccer	Computer Science	1.1086	0.1591 m^3	842	514	6	Computer Game Design	0.8054	1583	1.7787	0.8916
+2	865 m^2	1.1501	baseball	Technology and Information Management	0.3618	-0.5748 m^3	-209	1421	625	Robotics Engineering	0.124	321	0.9734	-0.452
+2	1124 m^2	1.4967	basketball	Technology and Information Management	0.1376	1.0398 m^3	-137	493	-814	Natural Language Processing	0.509	-513	1.5023	1.5291
+1	1607 m^2	0.9315	badminton	Natural Language Processing	1.4846	-0.673 m^3	1576	133	1346	Technology and Information Management	0.5687	2080	n/a	0.5025
+2	237 m^2	1.2419	volleyball	Computational Media	-0.8746	-0.0172 m^3	1077	173	21	Natural Language Processing	0.3356	NULL	-0.3693	3.4168
+6	1585 m^2	0.3367	soccer	Computer Science	-0.3565	-0.4358 m^3	-178	1222	-881	Computer Game Design	0.5823	487	1.0783	0.8307
+2	1253 m^2	0.757	volleyball	Technology and Information Management	-0.5243	-0.4619 m^3	-991	1552	498	Natural Language Processing	-0.0619	1686	0.7162	0.3104
+0	-1345 m^2	0.7377	basketball	Human Computer Interaction	1.512	0.9104 m^3	912	403	1307	Games and Playable Media	0.8409	709	0.4781	0.6072
+4	783 m^2	-0.3537	motor sports	Data Science	-0.0878	0.4309 m^3	355	157	1324	Bioinformatics	-0.0729	1065	1.3615	0.6908
+3	622 m^2	1.5907	tennis	Games and Playable Media	-1.3657	0.155 m^3	838	1185	-482	Bioengineering	0.5054	388	0.7192	-2.1991
+6	780 m^2	-0.3248	soccer	Computer Science	-0.0185	1.0003 m^3	421	-194	363	Computer Science	1.1825	620	1.81	0.1644
+5	59 m^2	-0.1961	ice hockey	Computer Game Design, Statistics	0.973	-0.1284 m^3	254	-2160	1664	Computational Media	-0.5269	-664	0.8842	0.2607
+3	145 m^2	-0.3344	track & field	Games and Playable Media	0.4084	0.2907 m^3	132	384	1201	Bioengineering	-0.0255	-1145	0.0365	0.1813
+0	964 m^2	1.262	football	Robotics Engineering, Bioinformatics	0.7211	-0.6303 m^3	-836	-2192	-45	Games and Playable Media	0.8329	1204	0.2721	2.48
+5	-336 m^2	1.023	ice hockey	cOMPUTER eNGINEERING	1.7998	0.7222 m^3	733	-1296	-262	Data Science	0.1154	1627	1.0677	-1.2858
+0	1879 m^2	1.3614	running	Bioinformatics, Robotics Engineering	0.0385	1.9117 m^3	485	-1038	994	Games and Playable Media	-0.7018	1400	1.5224	0.5913
+0	-183 m^2	0.7771	running	Human Computer Interaction	0.7165	1.3876 m^3	-667	745	543	Games and Playable Media	1.4042	-308	1.026	-0.8149
+4	1084 m^2	0.587	motor sports	Data Science	0.4054	-1.4818 m^3	967	989	-471	Electrical Engineering	0.606	491	1.5891	0.4805
+4	1271 m^2	0.9576	motor sports	Data Science	-0.7905	0.6649 m^3	592	-862	1058	Applied Mathematics	1.8037	-281	0.0594	-0.5015
+1	725 m^2	-0.2623	boxing	Applied Mathematics	-0.0197	-1.5063 m^3	547	12	-5	Biotechnology	-0.209	1604	0.6014	0.226
+1	413 m^2	1.7659	boxing	Natural Language Processing	?	-0.2333 m^3	166	-1994	823	Biotechnology	0.1979	1538	0.8474	0.0599
+1	85 m^2	0.583	boxing	Applied Mathematics	-0.0349	0.2273 m^3	1801	1114	729	Technology and Information Management	-0.0468	2417	0.1966	0.0754
+0	-998 m^2	0.4717	basketball	Human Computer Interaction	-0.0523	-0.5318 m^3	-1140	298	597	Games and Playable Media	1.2931	-939	-0.6062	0.4039
+1	-744 m^2	2.0383	boxing	APPLIED MATHEMATICS	1.0819	0.6836 m^3	-1338	1636	1236	Technology and Information Management	0.0335	1679	0.2193	-0.1208
+5	-1182 m^2	-1.0594	ice hockey	Computer Engineering, Statistics	0.1445	-0.3383 m^3	-1387	866	1277	Computational Media	0.8011	623	1.7606	1.7254
+3	544 m^2	0.6107	track & field	games and playable media	0.7183	-0.2568 m^3	1366	-191	905	Statistics	-0.2714	1828	0.9609	0.5158
+6	372 m^2	-0.4471	soccer	Computer Science, Electrical Engineering	1.1911	1.1474 m^3	-706	1284	260	Computer Science	-0.8022	40	0.8532	0.3409
+5	131 m^2	1.3218	ice hockey	Statistics	N/A	0.6591 m^3	1605	-6	953	Data Science	-0.4857	402	0.2935	0.9357
+4	-1108 m^2	-0.0052	motor sports	Data Science	1.2845	-1.6952 m^3	-608	-452	1108	Bioinformatics	0.3862	837	0.4086	2.5457
+4	1150 m^2	-0.7342	soccer	Data Science	1.3708	0.3366 m^3	-1681	-965	225	Bioinformatics	0.4408	1096	1.6369	-0.3342
+6	3545 m^2	0.8268	soccer	Biotechnology	1.3367	1.2979 m^3	-181	2458	-369	Computer Science	0.7157	169	-0.0825	1.1475
+3	-1295 m^2	-0.7025	track & field	Data Science	-0.89	0.7749 m^3	700	7	1316	Statistics	0.5462	-173	0.1575	0.1377
+0	865 m^2	1.6066	running	Robotics Engineering, Bioinformatics	0.0024	1.6312 m^3	-240	-988	881	Games and Playable Media	0.5568	-224	-0.5903	1.4945
+5	1854 m^2	0.4518	ice hockey	Computer Engineering, Computer Game Design	0.1984	0.9075 m^3	778	-571	306	Data Science	-0.0443	238	1.9175	1.3008
+0	-56 m^2	0.5165	football	Bioinformatics	1.0438	0.0374 m^3	147	150	1417	Games and Playable Media	0.6498	209	1.0849	0.822
+4	1752 m^2	-0.1539	motor sports	Data Science	-0.3338	-0.4904 m^3	-86	-551	1003	Applied Mathematics	0.7428	949	0.2746	-0.4672
+6	-508 m^2	0.3179	soccer	Electrical Engineering, Biotechnology	1.5266	0.567 m^3	1373	962	1356	Computer Game Design	0.8186	1312	0.1349	-1.7242
+5	-360 m^2	-0.396	golf	Natural Language Processing	0.6164	1.0635 m^3	2179	-504	803	Computational Media	0.5345	29	1.6666	0.1784
+1	89 m^2	1.239	boxing	Applied Mathematics	1.279	-1.1844 m^3	562	610	1838	Biotechnology	-0.3082	585	1.0256	0.4928
+3	1930 m^2	0.0655	track & field	Games and Playable Media	0.0329	1.0348 m^3	58	358	686	Bioengineering	0.2644	312	-0.2837	0.8976
+1	188 m^2	1.9365	badminton	Applied Mathematics	-1.0401	1.3736 m^3	1721	1120	-78	Computer Game Design	-0.0133	468	0.8248	0.5967
+0	13 m^2	1.7879	football	Robotics Engineering, Bioinformatics	0.4943	-0.0404 m^3	503	-125	1259	Games and Playable Media	1.0985	113	1.0967	0.8321
+0	-847 m^2	0.2736	running	Human Computer Interaction, Bioinformatics	1.4399	0.6746 m^3	1	-83	1593	Games and Playable Media	-0.4167	1013	-0.0695	0.9291
+3	1545 m^2	-0.5628	tennis	Games and Playable Media	0.681	-0.0635 m^3	199	-1489	12	Bioengineering	0.9778	1081	0.2039	0.5167
+6	1631 m^2	-0.0149	soccer	Biotechnology	2.2797	0.7946 m^3	41	-316	488	Computer Science	0.231	189	0.7284	0.1477
+5	-264 m^2	-0.6228	ice hockey	Computer Game Design	-0.347	-0.1605 m^3	-799	-742	589	Computer Science	0.4094	579	0.8411	1.1429
+0	1257 m^2	1.0083	football	BIOENGINEERING	0.6062	0.7722 m^3	-347	1174	265	Games and Playable Media	0.9428	263	0.346	0.3661
+0	2464 m^2	-0.1694	running	Human Computer Interaction	-0.0176	0.7309 m^3	-1446	434	-330	Computer Game Design	-0.7444	267	0.9442	0.574
+6	742 m^2	0.9375	soccer	Electrical Engineering, Computer Science	0.0634	1.5323 m^3	781	637	408	Computer Science	-0.1404	-838	0.7805	0.9119
+3	569 m^2	1.3014	motor sports	Games and Playable Media	-0.5691	-0.1108 m^3	-461	1703	1091	Bioengineering	1.4481	-503	0.7441	0.7839
+3	755 m^2	0.4906	tennis	Bioengineering	1.0413	-0.0782 m^3	1275	302	340	Bioengineering	1.431	2050	0.6727	-0.3942
+4	869 m^2	0.7036	motor sports	Data Science	-0.518	1.8613 m^3	2205	-615	-285	Electrical Engineering	1.2292	1715	0.7344	1.9839
+2	-195 m^2	0.6414	baseball	Technology and Information Management	-1.4103	-0.1191 m^3	-12	-333	1208	Natural Language Processing	-0.9805	-575	0.1623	1.0584
+5	795 m^2	1.2231	golf	Computer Engineering, Statistics	1.0075	-0.6039 m^3	1818	1066	1686	Computational Media	1.2327	653	0.6422	0.4819
+3	1287 m^2	-0.7829	tennis	Games and Playable Media	0.1165	1.9989 m^3	-360	-881	1518	Statistics	0.021	655	?	1.1224
+5	1167 m^2	-0.1283	golf	Statistics, Computer Game Design	-0.1871	0.9775 m^3	-436	743	1664	Data Science	0.9714	-96	0.7346	-0.4232
+1	417 m^2	0.5327	boxing	Applied Mathematics	-0.1165	1.1748 m^3	-50	-137	1630	Computer Science	0.0312	-155	-0.1618	0.6649
+5	1654 m^2	-0.9788	ice hockey	Computer Game Design, Statistics	0.3675	0.209 m^3	-189	318	-288	Robotics Engineering	-0.0603	-826	0.0455	1.6184
+0	52 m^2	1.5347	running	BIOINFORMATICS	0.8871	1.9584 m^3	1914	1373	607	Games and Playable Media	-0.6628	871	2.2235	-0.8847
+3	825 m^2	-0.9575	tennis	Games and Playable Media	1.9281	0.3187 m^3	-116	-285	-521	Statistics	0.7697	1131	-0.0322	0.4952
+6	441 m^2	1.5602	soccer	Electrical Engineering, Computer Science	1.4927	0.0677 m^3	393	1806	-958	Computer Game Design	0.291	1044	0.6464	2.2052
+6	344 m^2	1.1497	soccer	Electrical Engineering	1.144	1.1384 m^3	655	2843	-310	Computer Science	?	542	0.4808	0.0928
+5	-527 m^2	0.4559	golf	Computer Game Design, Statistics	-1.4652	-0.9521 m^3	-1039	-331	553	Computer Engineering	-0.5935	838	0.5146	?
+3	1107 m^2	-0.1541	tennis	Bioengineering	0.3108	-0.9616 m^3	560	-797	-38	Statistics	0.9927	-377	1.1465	1.6747
+5	-886 m^2	1.6859	boxing	Computer Game Design, Computer Engineering	0.1837	-0.3275 m^3	-1245	-111	927	Computer Engineering	-0.1089	0	0.3467	0.4283
+3	88 m^2	-0.6032	track & field	Games and Playable Media	-0.6704	-0.1432 m^3	27	-294	1632	Statistics	-0.1889	462	0.7163	-0.1041
+6	-204 m^2	0.657	soccer	Electrical Engineering, Computer Science	0.6317	0.0806 m^3	-566	2865	1239	Computer Science	0.1388	-622	1.2668	1.3636
+2	580 m^2	-0.3647	volleyball	Computational Media	0.4926	0.437 m^3	-142	456	1564	Natural Language Processing	-0.7804	1	1.4981	0.8701
+4	743 m^2	-0.0872	motor sports	?	1.1837	1.5298 m^3	-104	-332	344	Bioinformatics	0.9473	858	-0.4445	1.1135
+0	710 m^2	-0.1046	football	Bioinformatics	0.3968	0.5428 m^3	1104	461	548	Computer Science	0.9212	-747	1.1263	0.7807
+1	928 m^2	2.0966	boxing	Applied Mathematics	-0.2835	0.3016 m^3	1318	-17	499	Biotechnology	1.847	1406	0.7693	-0.0204
+4	?	2.2235	motor sports	Data Science	0.3351	0.8169 m^3	-821	477	797	Bioinformatics	-1.0577	95	-0.0164	1.188
+5	928 m^2	-1.074	ice hockey	Computer Game Design	-1.1398	1.806 m^3	-16	147	432	Computational Media	1.5272	-221	0.8863	1.3964
+2	2498 m^2	-0.0957	baseball	Computational Media	0.4298	-0.5318 m^3	-522	1331	77	Natural Language Processing	-0.2869	799	1.5074	-1.1586
+3	730 m^2	-0.7191	track & field	Games and Playable Media	0.65	-0.6007 m^3	-414	275	425	Bioengineering	0.2707	1951	1.3567	0.675
+2	N/A	0.7497	baseball	Technology and Information Management	-0.2966	1.054 m^3	-1196	151	-361	Natural Language Processing	0.5942	209	0.2941	-0.5971
+3	534 m^2	-0.4046	track & field	Bioengineering	1.8962	1.8528 m^3	1027	1359	332	Bioengineering	-0.9064	-501	1.0459	0.1203
+5	-984 m^2	1.3516	ice hockey	Computer Engineering, Computer Game Design	-0.0809	1.0948 m^3	-157	-915	1664	Data Science	-0.072	980	0.1694	-0.9788
+4	61 m^2	-1.6435	motor sports	Data Science	1.0517	-1.077 m^3	-1030	-124	607	Electrical Engineering	-0.1886	1308	0.7218	0.0553
+2	2225 m^2	-0.6727	baseball	tECHNOLOGY AND iNFORMATION mANAGEMENT	0.0381	0.0702 m^3	-144	1185	1001	Natural Language Processing	0.0808	854	0.8534	1.0482
+1	754 m^2	-0.7574	boxing	Natural Language Processing	0.925	-1.2692 m^3	119	660	1051	Electrical Engineering	1.9376	1621	0.3541	0.7347
+2	229 m^2	0.8036	baseball	Computational Media	-1.6852	-0.5672 m^3	-309	1406	-364	Natural Language Processing	0.2351	901	0.8378	-0.1154
+1	-582 m^2	1.0751	boxing	Applied Mathematics	-0.0522	-0.2962 m^3	-410	896	1014	Biotechnology	0.6731	-150	1.2718	0.8053
+4	897 m^2	0.8669	motor sports	Data Science	-0.0872	-0.275 m^3	-343	-1035	507	Bioinformatics	0.9726	142	-0.0729	1.2158
+2	790 m^2	-0.2785	baseball	Technology and Information Management	0.74	0.223 m^3	864	396	-137	natural language processing	1.7063	324	0.4808	-0.1017
+4	480 m^2	-0.6025	?	Data Science	0.0819	0.1316 m^3	-148	-94	-1259	Electrical Engineering	-0.0498	-205	-0.0386	-0.0811
+5	1767 m^2	-0.8604	ice hockey	Computer Game Design, Statistics	2.914	0.8129 m^3	-832	-369	1333	Computer Engineering	0.4854	487	1.8553	1.5605
+6	753 m^2	-0.4746	soccer	Electrical Engineering	0.0693	2.2272 m^3	-383	-1415	339	Computer Game Design	1.8804	-12	0.1501	-0.0577
+5	351 m^2	-0.6182	ice hockey	Statistics	0.1799	0.0593 m^3	341	2354	179	Robotics Engineering	-0.1233	914	0.8742	1.6437
+2	-344 m^2	0.5889	baseball	Technology and Information Management	-0.1234	1.636 m^3	-225	420	251	Natural Language Processing	0.5284	27	1.7351	0.0553
+1	1785 m^2	0.5165	badminton	Natural Language Processing	-0.0153	0.0797 m^3	-49	423	1295	Technology and Information Management	0.3823	1811	0.3531	2.251
+3	567 m^2	0.4601	track & field	Games and Playable Media	0.7146	2.5206 m^3	-1538	-787	NULL	Statistics	0.6768	300	0.199	-0.6149
+0	-820 m^2	1.1621	football		1.3197	0.2761 m^3	669	204	293	Games and Playable Media	0.8442	1409	-0.3437	0.159
+3	144 m^2	-0.3964	track & field	Games and Playable Media	-0.3774	0.2925 m^3	1686	904	-412	Statistics	0.7296	938	1.0235	0.3504
+3	213 m^2	0.6685	tennis	Bioengineering	-0.5699	0.9904 m^3	-562	-619	884	Bioengineering	0.1772	-1692	0.899	0.6697
+2	1567 m^2	1.1493	VOLLEYBALL	Computational Media	1.3812	1.453 m^3	4	1912	-1206	Natural Language Processing	0.1114	-182	0.9657	1.4923
+6	1328 m^2	-0.9021	soccer	Electrical Engineering	0.7381	2.2985 m^3	674	1902	908	Computer Science	0.4287	618	-1.5811	-0.4944
+0	?	1.3126	football	Bioinformatics, Robotics Engineering	-0.9327	0.0619 m^3	874	-291	-668	Games and Playable Media	0.1035	-566	1.1821	-0.046
+2	1506 m^2	0.6883	VOLLEYBALL	Technology and Information Management	0.6617	0.5382 m^3	1808	317	594	Natural Language Processing	0.1508	-57	0.9375	0.4843
+3	938 m^2	1.3796	running	Games and Playable Media	0.131	-0.0143 m^3	-1223	1136	897	Bioengineering	-0.4523	263	0.4716	0.454
+5	135 m^2	0.0775	golf	Statistics, Computer Engineering	0.8048	1.6654 m^3	-1413	-1230	2186	Computational Media	1.0667	NULL	1.3936	-0.681
+5	637 m^2	-1.1234	golf	NULL	0.5909	0.1306 m^3	524	138	679	Computer Engineering	0.7498	657	0.406	2.4506
+3	-123 m^2	1.9893	tennis	Games and Playable Media	-0.546	0.2355 m^3	-371	1008	884	Bioengineering	1.0123	-458	-0.0198	-0.5129
+2	590 m^2	0.4239	baseball	Technology and Information Management	-0.4824	-0.1531 m^3	544	-90	-398	Natural Language Processing	1.2414	1057	2.4154	-0.0274
+0	686 m^2	1.6294	football	Human Computer Interaction	0.0156	0.1997 m^3	171	646	1432	GAMES AND PLAYABLE MEDIA	0.3408	963	1.1112	0.2716
+4	-221 m^2	-0.2447	motor sports	Data Science	0.7768	-0.0956 m^3	843	-218	971	Bioinformatics	0.9578	284	0.3641	1.1366
+4	1052 m^2	1.0307	motor sports	Data Science	0.9875	0.1418 m^3	421	238	-2411	Applied Mathematics	0.0187	3047	-0.2206	1.6874
+5	1077 m^2	-1.0696	ice hockey	Computer Engineering, Computer Game Design	-0.5531	0.6289 m^3	-330	-284	1470	Data Science	1.0402	136	1.2264	-0.712
+6	1156 m^2	1.3011	soccer	Electrical Engineering	-1.4713	-0.9755 m^3	-11	1410	740	Computer Game Design	-1.6674	-368	1.6261	-0.9847
+5	963 m^2	-0.0168	ice hockey	Statistics, Computer Engineering	1.2357	0.9376 m^3	290	950	324	Computational Media	1.0903	-1307	n/a	1.5412
+2	310 m^2	0.1934	baseball	Technology and Information Management	1.5138	-0.4927 m^3	1723	1336	557	Natural Language Processing	0.1904	-114	1.502	-0.3654
+0	-1961 m^2	0.5046	football	Bioinformatics, Human Computer Interaction	-0.4239	-0.6923 m^3	-454	773	1411	Games and Playable Media	1.5269	-1055	0.3608	1.1728
+5	-162 m^2	0.2023	ice hockey	Computer Game Design, Statistics	1.1507	-0.1369 m^3	1349	295	335	Computational Media	0.7666	56	1.2822	0.2211
+0	-843 m^2	1.8372	running	Robotics Engineering	-0.0003	1.0116 m^3	229	-658	732	Games and Playable Media	1.0117	404	-0.7087	-0.2124
+4	541 m^2	-0.5194	motor sports	Data Science	1.0685	1.516 m^3	-311	222	-975	Electrical Engineering	1.5704	1051	0.8715	1.9515
+5	-419 m^2	1.2803	golf	Data Science	1.2163	1.254 m^3	-612	973	-60	Computer Engineering	0.0162	-176	0.5788	0.8539
+0	658 m^2	1.6265	Football	Human Computer Interaction	-0.552	0.3914 m^3	-911	-1034	389	Games and Playable Media	0.5176	531	-0.7983	0.8553
+4	400 m^2	0.9397	motor sports	Data Science	-0.8895	-0.2364 m^3	-652	84	1119	Electrical Engineering	1.063	186	-0.0898	1.044
+0	-55 m^2	2.377	running	Bioinformatics	0.7678	0.5262 m^3	303	-850	1463	Games and Playable Media	-0.5634	551	0.0345	1.7704
+1	205 m^2	-0.029	baseball	Applied Mathematics	1.5566	-0.5797 m^3	-549	-349	1935	TECHNOLOGY AND INFORMATION MANAGEMENT	0.8391	510	0.4611	-0.5987
+5	-549 m^2	0.9069	ice hockey	Computer Engineering, Statistics	0.599	2.2792 m^3	800	1395	886	Data Science	0.8791	96	0.3689	0.786
+3	1237 m^2	2.0167	track & field	Bioengineering	-0.2745	0.4016 m^3	-170	1551	2518	Bioengineering	0.6743	-33	-0.1036	-0.5799
+0	-1827 m^2	1.4887	football	Robotics Engineering, Bioinformatics	0.0684	0.0276 m^3	1913	458	768	Games and Playable Media	0.596	-241	1.4514	-0.08
+5	268 m^2	0.4909	golf	computer engineering, computer game design	0.8786	1.7662 m^3	209	-488	987	Data Science	-0.1119	250	0.5685	0.7728
+2	754 m^2	0.1882	baseball	Computational Media	2.4256	1.7831 m^3	1655	1213	872	Statistics	0.4872	441	-0.3046	1.8292
+0	-1213 m^2	1.9305	football	Bioinformatics, Robotics Engineering	1.1639	1.8353 m^3	-351	856	2553	Games and Playable Media	1.9532	185	None	-0.2396
+0	31 m^2	-0.2515	football	Bioinformatics	1.3628	0.6952 m^3	659	1802	378	Games and Playable Media	2.1058	156	0.6946	NULL
+5	-68 m^2	1.0906	ICE HOCKEY	?	-1.2176	0.3573 m^3	4	?	109	Data Science	0.1695	1351	1.3198	-1.0062
+3	1907 m^2	1.0495	tennis	Games and Playable Media	-1.3203	1.2065 m^3	-501	-26	925	Statistics	-0.1079	-1201	1.1139	-1.1707
+5	600 m^2	-0.7549	golf	Computer Game Design, Statistics	1.4942	0.6478 m^3	-275	-692	898	Computer Engineering	-0.9587	-1250	0.9399	-0.5062
+0	-787 m^2	1.3594	running	Robotics Engineering	0.9977	0.4586 m^3	247	-1503	358	Games and Playable Media	-0.3377	-678	1.2473	1.5102
+4	257 m^2	-0.5791	motor sports	Data Science	-0.5939	0.2587 m^3	-987	91	140	Bioinformatics	0.6589	629	-0.2079	1.0897
+3	1562 m^2	-0.5964	tennis	Bioengineering	0.7128	-0.5897 m^3	1021	-58	677	Statistics	0.0043	-309	0.3915	0.5369
+3	375 m^2	-1.1726	soccer	Bioengineering	-1.2029	0.1216 m^3	-495	1312	528	Statistics	-0.57	20	-0.3814	-0.4416
+3	1550 m^2	0.6617	tennis	Games and Playable Media	-0.7273	1.1516 m^3	-1060	1263	1222	Bioengineering	0.5198	876	0.5666	0.3806
+2		0.4582	volleyball	Technology and Information Management	1.0639	-1.4065 m^3	-212	1089	664	Natural Language Processing	0.4318	-675	0.5651	-0.732
+1	-107 m^2	-1.063	badminton	Applied Mathematics	-1.4895	-1.7678 m^3	-741	653	1048	Biotechnology	-0.0498	450	1.5735	0.4215
+1	-1033 m^2	1.5526	boxing	Applied Mathematics	0.7556	-0.1966 m^3	594	1206	817	Human Computer Interaction	0.1046	612	0.7694	-0.7291
+3	1771 m^2	-0.7055	tennis	Bioengineering	0.2978	0.4381 m^3	-1053	-387	1270	Bioengineering	0.7024	-864	1.4646	-0.503
+5	-345 m^2	0.7424	golf	Computer Game Design, Statistics	0.4452	0.4352 m^3	434	1560	332	Computer Engineering	-0.4027	718	-0.4305	1.5034
+0	345 m^2	0.2017	basketball	Robotics Engineering	1.091	0.9753 m^3	-821	-88	687	Games and Playable Media	-0.0754	120	1.2878	-1.2228
+4	1902 m^2	0.9361	motor sports	dATA sCIENCE	-0.8447	0.6079 m^3	-216	-1260	724	Electrical Engineering	-0.7475	1392	0.7391	2.4066
+1	-13 m^2	1.0298	badminton	Applied Mathematics	0.8936	-0.1562 m^3	225	910	885	Technology and Information Management	0.4918	-512	2.5393	0.4797
+0	-1223 m^2	1.153	basketball	Bioinformatics	-0.0916	-0.6205 m^3	-769	-535	94	Games and Playable Media	0.444	-162	2.3545	1.1642
+3	392 m^2	1.098	track & field	Games and Playable Media	2.4751	1.1691 m^3	157	217	508	bIOENGINEERING	1.3369	-74	1.0115	-0.2456
+1	-249 m^2	0.1101	badminton	Applied Mathematics	-0.0017	1.2139 m^3	-793	2522	167	Human Computer Interaction	-0.1985	1267	-0.276	-0.3067
+1	1029 m^2	1.1825	badminton	Applied Mathematics	0.6152	0.2911 m^3	125	519	1324	Biotechnology	-0.9414	1879	-0.7154	-0.1839
+0	-6 m^2	1.7568	running	Bioinformatics	-1.5417	0.5461 m^3	732	984	1471	Games and Playable Media	1.209	808	1.0023	0.3216
+2	926 m^2	-1.0524	baseball	Technology and Information Management	0.2817	2.0568 m^3	1337	572	-474	Natural Language Processing	-0.5919	-587	0.9989	0.6978
+2	1386 m^2	0.4322	volleyball	Technology and Information Management	1.1066	0.6394 m^3	1228	259	-1058	Natural Language Processing	0.4956	818	0.7741	1.1766
+3	None	0.4601	track & field	Bioengineering	0.5149	-0.5493 m^3	1780	-946	1119	Statistics	-0.9119	-430	0.4111	-1.3754
+2	176 m^2	0.4855	baseball	Computational Media	-0.1543	0.6019 m^3	959	241	1610	Natural Language Processing	1.3826	561	-0.279	2.1529
+4	-239 m^2	-0.6913	motor sports	Data Science	0.7149	0.3378 m^3	823	1467	950	Applied Mathematics	-0.5304	1630	1.4596	1.2245
+1	-48 m^2	1.5518	badminton	Applied Mathematics	-0.0878	-0.4067 m^3	1746	1024	1572	Technology and Information Management	-0.2823	1189	0.5642	-1.2713
+1	739 m^2	-0.2052	badminton	Applied Mathematics	0.4803	1.9124 m^3	1313	773	1402	Human Computer Interaction	-0.145	325	1.0439	0.841
+6	1313 m^2	0.1878	soccer	Biotechnology	0.8256	0.6622 m^3	-713	1684	950	Computer Science	1.3264	-638	1.0121	-0.1126
+1	232 m^2	0.5375	boxing	Applied Mathematics	0.9454	-0.0153 m^3	402	238	840	Biotechnology	-0.4314	1046	0.4506	0.1473
+3	-927 m^2	0.8385	tennis	Data Science	2.2341	0.3448 m^3	176	1682	1668	Statistics	0.3973	-400	0.5563	0.4668
+4	601 m^2	1.0013	motor sports	Data Science	1.3468	-0.346 m^3	971	-666	271	Bioinformatics	1.6637	1015	0.8733	0.548
+4	-1148 m^2	-0.6669	motor sports	Data Science	0.9052	1.4211 m^3	-258	-953	-675	Applied Mathematics	0.4978	245	-0.3228	0.4376
+6	1142 m^2	-0.4547	soccer	Biotechnology	1.6047	1.8418 m^3	-437	2690	50	Computer Game Design	-1.2968	862	-0.0387	1.0111
+1	-80 m^2	1.2551	boxing	Applied Mathematics	0.771	-0.2974 m^3	230	-457	1426	Human Computer Interaction	0.4566	350	0.8198	1.3111
+1	578 m^2	1.1225	boxing	Natural Language Processing	0.3393	-1.7256 m^3	375	-686	835	Biotechnology	-0.4789	645	1.2531	1.0798
+6	-183 m^2	-0.6939	soccer	Biotechnology, Electrical Engineering	1.508	0.9712 m^3	1038	-70	-186	Computer Game Design	-0.0203	-187	0.4984	-0.4336
+2	2225 m^2	-0.2961	volleyball	Technology and Information Management	0.1928	0.1594 m^3	-1097	-1030	532	Natural Language Processing	-0.0639	1132	-0.9429	-0.0838
+1	-940 m^2	1.1749	boxing	Applied Mathematics	-1.3849	-0.1675 m^3	1295	-575	237	Biotechnology	0.2231	-126	0.4622	-0.2603
+6	61 m^2	0.0109	soccer	Computer Science	1.3865	-1.3895 m^3	-1908	1375	-748	Computer Game Design	1.542	-1250	0.0148	-0.2691
+6	605 m^2	-0.3879	soccer	Computer Science	-1.1661	-0.6961 m^3	177	816	93	Computer Science	1.3838	-578	0.5145	-0.519
+1	1174 m^2	0.2327	boxing	Natural Language Processing	0.418	-1.3958 m^3	-424	915	679	Human Computer Interaction	-1.3418	2187	0.8427	-0.538
+4	-263 m^2	0.5353	motor sports	DATA SCIENCE	-0.279	0.8732 m^3	40	-1280	-288	Applied Mathematics	0.1597	1864	-0.2572	1.132
+2	104 m^2	-0.4026	volleyball	Computational Media	1.0721	0.1242 m^3	-591	1098	281	Natural Language Processing	1.6414	823	1.2019	N/A
+6	906 m^2	-1.7717	soccer	Electrical Engineering, Computer Science	-0.4306	1.408 m^3	-1146	305	1356	Computer Science	0.8419	-128	-0.0807	-0.2417
+1	154 m^2	-0.608	boxing	Natural Language Processing	-0.1677	0.6272 m^3	-211	965	2358	Technology and Information Management	0.4406	1571	1.0332	-0.0428
+5	-1952 m^2	-0.6656	ice hockey	Computer Engineering	-0.6432	2.4493 m^3	488	-235	960	Data Science	0.5256	-640	1.2761	0.1757
+1	375 m^2	-0.0057	badminton	Natural Language Processing	0.2291	0.8769 m^3	1603	-11	-67	Biotechnology	0.3859	692	1.2384	0.0695
+2	961 m^2	0.9819	baseball	Computational Media	-0.9559	-0.6216 m^3	664	545	-491	Natural Language Processing	0.6523	189	-1.1892	-0.6417
+5	-1351 m^2	-0.3758	golf	Computer Game Design	0.6877	0.9594 m^3	1328	704	413	Computer Engineering	0.8539	122	0.6279	1.2683
+2	691 m^2	0.1707	volleyball	Computational Media	1.7761	0.1302 m^3	-344	274	-657	Natural Language Processing	-0.1597	95	1.3309	-0.3561
+2	1493 m^2	1.3285	volleyball	Computational Media	0.3511	0.4325 m^3	-767	2738	423	Natural Language Processing	1.0956	773	1.3396	1.249
+4	-339 m^2	0.5177	MOTOR SPORTS	Data Science	0.1903	0.6344 m^3	-525	837	34	Electrical Engineering	0.4683	-1088	-0.1868	0.9107
+4	66 m^2	-0.8377	motor sports	Data Science	2.0645	0.5792 m^3	82	146	177	Electrical Engineering	0.4268	939	0.0505	2.0262
+4	1446 m^2	-0.0356	motor sports	Data Science	0.7046	1.3757 m^3	1261	-7	119	Electrical Engineering	0.3359	-221	-0.3159	0.131
+6	164 m^2	0.2793	soccer	Electrical Engineering, Computer Science	0.6888	0.6003 m^3	-1457	1215	-155	Computer Game Design	1.6088	-198	-0.1613	0.4012
+3	1423 m^2	-1.0683	track & field	Games and Playable Media	0.8053	1.1163 m^3	126	-965	887	Bioengineering	-0.2416	-1172	-0.409	0.0982
+5	698 m^2	1.8762	ice hockey	Statistics	-0.5296	0.5035 m^3		-298	2076	Computer Engineering	0.5775	234	0.7705	1.1276
+1	137 m^2	2.4122	badminton	Natural Language Processing	1.6201	-0.1841 m^3	293	-1051	311	Computer Science	-0.0773	144	0.3554	-0.5315
+4	2267 m^2	1.6926	motor sports	Data Science	0.787	-0.1733 m^3	276	85	-337	Electrical Engineering	0.2758	911	1.1936	0.7404
+5	-572 m^2	-0.1634	volleyball	Statistics, Computer Engineering	0.9691	3.461 m^3	67	203	41	Games and Playable Media	1.0132	-472	0.8169	0.2583
+4	834 m^2	1.1385	motor sports	Data Science	1.2032	0.2766 m^3	-1000	1630	428	Electrical Engineering	-0.8008	2474	1.2291	2.5371
+4	1392 m^2	0.7141	motor sports	Biotechnology, Electrical Engineering	2.1485	0.559 m^3	684	-179	-182	Electrical Engineering	0.3293	386	0.724	0.64
+6	740 m^2	0.9514	soccer	Computer Science, Biotechnology	-1.4837	1.0611 m^3	-1258	1950	-887	Computer Game Design	1.0251	-668	-0.0101	-0.7284
+5	211 m^2	None	golf	Statistics, Computer Engineering	1.8892	2.1876 m^3	1621	-26	546	Robotics Engineering	0.7202	-47	0.6351	-0.4256
+5	413 m^2	1.6393	football	Statistics	0.2913	1.1201 m^3	2037	917	1160	Robotics Engineering	0.3135	-120	0.2482	1.2174
+3	-559 m^2	-1.3741	track & field	Bioengineering	-0.5214	1.2117 m^3	349	-1132	1596	Statistics	0.8368	-770	0.2843	
+4	479 m^2	1.4662	motor sports	Data Science	-0.6818	-0.136 m^3	-634	22	194	Applied Mathematics	?	744	-0.4845	0.184
+5	336 m^2	1.9143	ice hockey	Computer Game Design, Statistics	1.0948	0.1093 m^3	37	-31	519	Computer Engineering	0.8003	1204	0.6037	1.1069
+5	973 m^2	-0.4197	ice hockey	COMPUTER GAME DESIGN, COMPUTER ENGINEERING	-0.1394	0.1943 m^3	127	-249	1542	Computational Media	0.6452	199	0.7453	2.115
+5	-967 m^2	-0.5583	golf	Statistics	?	0.5081 m^3	1687	15	-328	Computer Engineering	1.8891	249	0.5837	-0.0797
+4	22 m^2	0.4368	motor sports	Data Science	0.8544	1.4478 m^3	-2043		1069	Electrical Engineering	-0.07	-184	0.9835	1.0599
+3	371 m^2	-0.0445	track & field	Bioengineering	-0.7023	-0.1086 m^3	-578	-499	1048	Statistics	1.7289	595		-0.1639
+6	252 m^2	n/a	soccer	Electrical Engineering	0.5794	0.1466 m^3	1692	3019	-236	Computer Game Design	-0.1939	1599	-0.3998	-0.0043
+0	94 m^2	-0.4465	basketball	Human Computer Interaction	0.0425	0.3858 m^3	1051	-1988	170	Games and Playable Media	0.8798	423	0.3902	-0.009
+6	851 m^2	0.8631	motor sports	Computer Science, Electrical Engineering	0.2159	0.5619 m^3	1336	-219	-200	Computer Game Design	1.0025	-322	1.1359	N/A
+3	1251 m^2	0.0284	volleyball	Bioengineering	2.5844	0.7281 m^3	-815	70	1100	Bioengineering	1.2659	234	1.2995	-0.4544
+2	-503 m^2	1.1872	baseball	Technology and Information Management	2.1207	-0.2216 m^3	-216	2025	1279	Natural Language Processing	1.9364	1163	1.0719	-0.8535
+3	695 m^2	-0.1126	tennis	Games and Playable Media	-0.7995	0.8485 m^3	-320	84	313	Bioengineering	1.6486	131	0.4777	-0.3783
+6	-657 m^2	0.1583	soccer	Electrical Engineering	1.4847	1.6689 m^3	113	714	-415	computer science	1.1461	534	0.6411	-0.7266
+5	-208 m^2	-1.2292	golf	Statistics	0.8825	1.3178 m^3	-1474	-2367	61	Data Science	0.793	905	0.6274	0.55
+3	-565 m^2	1.1896	tennis	bioengineering	-0.2375	0.8307 m^3	-984	143	132	Bioengineering	0.2049	-421	-0.0143	-0.6385
+6	1962 m^2	0.419	soccer	BIOTECHNOLOGY, ELECTRICAL ENGINEERING	2.3553	-0.1161 m^3	-918	1929	-166	Computer Game Design	0.44	-42	0.5955	-0.0247
+5	-416 m^2	0.6946	golf	Computer Game Design, Statistics	-0.1524	0.9873 m^3	772	-686	199	Data Science	0.9301	82	0.3567	0.8026
+0	-838 m^2	1.8845	football	Robotics Engineering, Human Computer Interaction	0.4214	1.3696 m^3	-852	-350	-756		-0.0047	-311	0.7564	0.0489
+5	278 m^2	0.5627	golf	Statistics	-0.1864	0.1331 m^3	864	-1161	1004	Computer Engineering	0.4362	1506	0.1551	-0.2005
+6	1306 m^2	n/a	soccer	Computer Science	0.5267	1.7685 m^3	-688	2119	851	Computer Science	1.8205	-721	0.595	-0.7627
+2	1594 m^2	0.2493	baseball	Computational Media	0.1153	-1.7717 m^3	62	1493	1397	Natural Language Processing	1.7055	2243	0.1081	-0.303
+5	874 m^2	-0.9091	ice hockey	Statistics	0.0455	-0.1732 m^3	-225	1020	1261	Data Science	1.6222	41	1.3045	1.637
+3	424 m^2	0.6158	tennis	BIOENGINEERING	0.7318	0.6389 m^3	472	694	575	Bioengineering	-1.0148	555	0.0152	1.0377
+5	202 m^2	-0.1734	ice hockey	Computer Engineering	1.9273	0.2795 m^3	-694	-656	1304	Computational Media	0.2379	479	None	1.1017
+6	-30 m^2	-1.1797	soccer	Electrical Engineering, Computer Science	-1.3394	1.6292 m^3	1405	2138	456	Computer Game Design	1.6434	-1144	1.2386	0.1106
+2	1236 m^2	1.2996	baseball	Computational Media	-0.081	-0.23 m^3	-345	3891	156	Natural Language Processing	0.9295	1186	0.5736	1.1105
+3	-450 m^2	0.5906	track & field	Bioengineering	0.5987	-0.2822 m^3	-309	456	968	Statistics	0.6863	893	0.1328	-0.3825
+5	-782 m^2	0.5093	ice hockey	Computer Engineering, Statistics	-0.0885	0.2474 m^3	-57	956	905	dATA sCIENCE	1.3636	387	0.0734	1.189
+1	498 m^2	0.8831	badminton	Applied Mathematics	0.1637	-0.0678 m^3	662	62	1843	Biotechnology	-0.2367	350	2.3551	-0.2567
+4	2021 m^2	0.5485	None	Data Science	1.1346	-0.0526 m^3	-1750	-241	1968	Electrical Engineering	1.0488	1092	1.0055	0.22
+3	1599 m^2	0.7977	track & field	Bioengineering	1.334	0.7234 m^3	2165	987	441	Bioengineering	-0.7297	729	0.3495	-0.6783
+0	618 m^2	2.3688	basketball	Robotics Engineering, Bioinformatics	1.4416	1.7037 m^3	364	-108	1540	Games and Playable Media	-0.1208	-399	0.4181	-0.0397
+6	1690 m^2	0.5404	soccer	Biotechnology	-0.7446	-0.3144 m^3	365	2511	-30	Computer Science	0.2099	477	0.9847	0.1456
+5	485 m^2	1.005	ice hockey	Computer Engineering	0.3488	2.1845 m^3	-1037	426	1359	Computational Media	0.1001	1079	0.2926	-0.4144
+0	-71 m^2	0.5111	basketball	Robotics Engineering	1.0489	-0.4025 m^3	-375	1676	258	Games and Playable Media	0.8622	881	0.7405	2.1941
+6	1457 m^2	2.6983	soccer	Electrical Engineering, Computer Science	1.6309	-0.1118 m^3	1048	1009	1623	Computer Science	0.7518	1003	1.0628	-1.5016
+4	2633 m^2	0.2444	motor sports	Data Science	0.4942	-0.5604 m^3	590	1904	226	Applied Mathematics	0.8526	331	-0.5122	0.1397
+4	531 m^2	-0.0477	motor sports	Data Science	1.0885	-0.9434 m^3	-380	-946	-678	Applied Mathematics	0.4155	737	1.5052	-0.1769
+3	1422 m^2	0.0346	track & field	Games and Playable Media	-0.0194	2.3576 m^3	-1321	478	356	Bioengineering	0.4227	59	-0.5314	-0.26
+1	317 m^2	0.6939	badminton	Applied Mathematics	-0.7836	-1.4539 m^3	255	-1810	575	Biotechnology	0.1855	567	2.0077	0.2106
+5	-311 m^2	0.4316	ice hockey	Computer Game Design	-0.8413	-0.0377 m^3	-1949	1652	1591	Data Science	0.6291	1225	0.9788	-0.7038
+5	1146 m^2	-1.4218	golf	COMPUTER GAME DESIGN	-0.037	0.2241 m^3	-217	608	1148	computer engineering	0.4542	221	1.7841	-0.3319
+5	-351 m^2	1.2538	ice hockey	Computer Engineering	0.1898	0.1093 m^3	1615	2946	1269	Computer Engineering	1.5462	-77	1.4935	0.1376
+4	2087 m^2	-0.7817	motor sports	Data Science	-1.1588	-0.8344 m^3	-1118	-1230	967	Electrical Engineering	1.094	N/A	1.069	0.3705
+4	1436 m^2	1.3639	motor sports	Data Science	-0.1998	-0.4194 m^3	374	-851	-495	Natural Language Processing	0.3225	1716	-0.7798	0.75
+2	804 m^2	-0.29	baseball	Computational Media	-1.0232	-0.187 m^3	-210	1384	164	Natural Language Processing	0.0339	655	0.8378	-0.4741
+1	616 m^2	0.3605	soccer	Applied Mathematics	0.4928	0.5126 m^3	994	1062	911	NULL	-1.1038	726	-0.1494	-1.2034
+0	-452 m^2	1.2617	football	bIOINFORMATICS, hUMAN cOMPUTER iNTERACTION	1.1822	-1.0997 m^3	133	-771	1438	Games and Playable Media	1.3322	270	0.5132	0.228
+2	2111 m^2	1.0741	volleyball	Technology and Information Management	-1.3252	-0.9363 m^3	-174	2334	-578	Natural Language Processing	0.6747	791	1.0356	1.0645
+3	1810 m^2	0.0364	tennis	Games And Playable Media	-1.3426	0.1732 m^3	2114	-396	2141	Bioengineering	2.1474	0	-0.263	-0.0007
+6	463 m^2	0.3333	soccer	Computer Science	1.8441	1.626 m^3	73	1255	865	Electrical Engineering	0.807	-127	0.4805	-0.7213
+4	991 m^2	1.2955	motor sports	Data Science	1.1431	0.7569 m^3	788	69	1229	Applied Mathematics	1.547	399	-0.2197	1.6201
+4	-1374 m^2	0.5283	motor sports	Data Science	-0.2284	0.1489 m^3	696	546	-766	Electrical Engineering	1.5884	-56	1.0366	1.3314
+1	792 m^2	1.4934	boxing	Applied Mathematics	0.3841	-0.1139 m^3	-351	2508	538	Technology and Information Management	-0.6273	-1024	0.8717	-0.2182
+5	-1968 m^2	-1.0773	ice hockey	Computer Game Design	N/A	-0.4695 m^3	-993	-846	1100	Computational Media	-0.4608	1291	1.5101	2.0904
+1	-1259 m^2	1.0248	boxing	Applied Mathematics	-0.1252	-0.1442 m^3	n/a	1878	-1698	Biotechnology	0.7271	1100	0.3674	-0.1914
+6	84 m^2	0.5075	soccer	Computer Science	0.4042	-0.2956 m^3	-91	2076	381	Games and Playable Media	1.3189	-404	1.6347	0.7
+0	457 m^2	0.3256	football	Robotics Engineering	0.4853	0.4783 m^3	595	-59	1760	Games and Playable Media	0.4729	123	1.1103	-0.1003
+1	575 m^2	0.3131	BOXING	Natural Language Processing	-1.4572	-2.5601 m^3	-150	438	1409	Technology and Information Management	-0.3737	679	2.1153	-1.0984
+1	615 m^2	0.9498	NULL	Natural Language Processing	1.1123	0.9724 m^3	804	1237	370	Statistics	-0.3394	661	1.3208	2.0021
+3	2161 m^2	0.1111	tennis	Bioengineering	0.7233	0.8924 m^3	137	-1027	776	Bioengineering	1.1576	-685	1.0304	-0.6322
+5	286 m^2	0.3635	ice hockey	Statistics, Computer Engineering	0.2933	0.3012 m^3	297	677	-447	Computational Media	1.0576	676	1.6295	1.1871
+4	1245 m^2	-0.5984	motor sports	Data Science	-0.6889	-0.2848 m^3	1220	-133	348	Electrical Engineering	0.052	1302	0.7363	-1.1168
+3	1559 m^2	0.2931	tennis	Bioengineering	-0.0638	-0.3952 m^3	940	-481	717	Bioengineering	-0.6646	425	0.3645	1.4865
+6	1176 m^2	0.9319	soccer	Biotechnology	1.0343	0.2071 m^3	650	1248	-62	Computer Science	0.7636	417	1.1282	-1.4598
+5	-535 m^2	-0.6899	ice hockey	Computer Engineering	0.4131	1.3378 m^3	-375	-956	978	COMPUTER ENGINEERING	1.2193	792	1.389	0.0961
+1	-51 m^2	0.6476	boxing	Applied Mathematics	-1.1198		1111	184	1566	Human Computer Interaction	-0.9507	1180	1.3845	-1.3926
+6	645 m^2	-0.5508	soccer	Computer Science, Biotechnology	0.7578	0.3525 m^3	1690	3476	262	Computer Science	1.6981	-700	0.5457	-0.0305
+0	768 m^2	0.5845	running	Human Computer Interaction	0.1412	1.3566 m^3	398	-64	-59	Games and Playable Media	1.3155	-370	0.8993	1.0134
+6	1005 m^2	0.2006	soccer	Biotechnology, Computer Science	1.377	0.1835 m^3	163	1122	-164	Computer Science	0.9213	60	0.2248	-0.8637
+1	-622 m^2	0.6288	boxing	Applied Mathematics	1.1352	-0.423 m^3	1597	-798	685	Human Computer Interaction	-0.148	310	0.8089	-0.7677
+5	-117 m^2	0.3883	ice hockey	Computer Game Design	0.1206	-0.1484 m^3	714	-793	1696	Data Science	0.1774	1439	0.4174	-0.8403
+5	686 m^2	1.2114	golf	Computer Engineering	0.0833	1.5514 m^3	502	-1224	1483	Data Science	1.2871	937	2.5916	0.8833
+2	232 m^2	1.0681	golf	Technology and Information Management	-0.0978	1.2413 m^3	630	1684	332	Natural Language Processing	-0.1878	1078	1.6002	2.0244
+5	-633 m^2	0.8404	ice hockey	Computer Game Design, Statistics	0.4734	0.9543 m^3	21	137	1643	Computational Media	0.2282	514	0.4699	1.6588
+6	2286 m^2	0.3061	soccer	Biotechnology, Electrical Engineering	-0.1836	1.191 m^3	572	772	-270	COMPUTER GAME DESIGN	0.5716	424	1.9004	0.3726
+5	NULL	2.0481	golf	Statistics	0.1355	-0.1757 m^3	-604	505	1039	Computational Media	0.4183	-1179	-0.6158	1.9493
+2	520 m^2	1.3042	motor sports	Computational Media	0.6534	-0.7578 m^3	-995	1119	273	Natural Language Processing	0.9229	726	0.2795	0.7665
+4	729 m^2	2.5265	motor sports	Data Science	0.7894	-0.553 m^3	1359	2167	516	Applied Mathematics	-0.5053	1456	-0.387	0.9848
+4	1822 m^2	-1.7401	motor sports	Data Science	-0.2684	-0.7547 m^3	-327	-531	79	Games and Playable Media	-0.328	588	0.11	0.5078
+5	466 m^2	-0.6674	ice hockey	Computer Game Design, Computer Engineering	0.5057	0.1288 m^3	-679	1038	388	Computer Engineering	0.6543	148	-1.038	1.7561
+5	-1491 m^2	0.3218	ice hockey	Computer Game Design, Computer Engineering	1.7262	-0.2009 m^3	-1419	57	764	Data Science	0.5519	-123	1.4499	0.1773
+5	219 m^2	-1.0823	golf	Statistics, Computer Engineering	0.4692	NULL	714	-418	1958	Computational Media	0.7148	-809	1.1497	-0.9554
+5	-346 m^2	2.3251	golf	Statistics, Computer Game Design	0.295	1.6383 m^3	902	620	-682	Computer Engineering	-0.7136	-47	0.0865	0.9189
+1	666 m^2	1.5401	baseball	Natural Language Processing	0.2651	0.3896 m^3	900	-1124	1274	Computational Media	-0.1229	1057	0.6778	-1.0801
+3	1061 m^2		track & field	Games and Playable Media	0.6452	1.0762 m^3	-1484	688	1343	Bioengineering	1.004	823	0.7038	-1.1951
+3	1980 m^2	-0.459	tennis	Games and Playable Media	0.1645	0.547 m^3	-691	-756	-185	Bioengineering	0.2958	704	0.8313	0.1359
+4	1203 m^2	0.3316	motor sports	Data Science	0.2116	-1.0985 m^3	340	204	1546	Electrical Engineering	-0.337	1069	-0.0428	1.0031
+2	797 m^2	1.1	volleyball	Computational Media	-0.9207	0.7688 m^3	-2110	1571	1053	Natural Language Processing	-0.5846	720	0.9728	0.3107
+0	-208 m^2	-1.1287	running	Robotics Engineering, Bioinformatics	0.2826	-0.7865 m^3	276	1243	565	Robotics Engineering	0.4155	919	1.3591	-0.1126
+3	816 m^2	2.1322	None	Games and Playable Media	0.7036	0.5201 m^3	-130	-857	1064	Statistics	0.6286	-183	1.2226	-0.5173
+6	646 m^2	1.3781	soccer	Biotechnology	0.9664	1.1502 m^3	3061	327	-462	Computer Game Design	1.3181	-741	0.7501	-0.2488
+1	-970 m^2	0.1793	badminton	Natural Language Processing	0.1681	0.5802 m^3	626	374	1297	Technology and Information Management	0.7267	1362	0.3482	-1.8489
+2	1092 m^2	-0.1333	baseball	Technology and Information Management	1.1819	0.6111 m^3	48	-602	833	Computer Game Design	0.3106	1123	0.2073	-0.2327
+4	-483 m^2	-0.2083	motor sports	Data Science	0.625	-0.8214 m^3	86	636	1428	Bioinformatics	0.7041	0	1.7625	0.7639
+1	622 m^2	1.8586	boxing	Applied Mathematics	1.3602	0.3603 m^3	2	379	366	Biotechnology	1.3081	206	1.2683	-0.8319
+1	-385 m^2	1.5015	badminton	Applied Mathematics	-0.3644	0.5568 m^3	1044	-193	719	Technology and Information Management	0.9332	108	1.0367	0.5069
+2	661 m^2	-0.0521	volleyball	Computational Media	0.6847	-0.483 m^3	-1531	894	-1487	Natural Language Processing	1.0458	659	0.7132	1.743
+6	1234 m^2	-0.9159	soccer	Computer Science	-0.1218	-0.4059 m^3	-627	653	-1644	Computer Game Design	0.7933	196	1.7413	-0.1589
+6	1572 m^2	1.4567	soccer	Computer Science	0.7571	1.7299 m^3	-922	1594	1856	Computer Game Design	0.8668	-547	0.6234	-1.5422
+2	-337 m^2	0.6892	volleyball	Technology and Information Management	0.8064	0.1 m^3	-75	1516	-659	Natural Language Processing	0.6833	759	0.0886	-0.2363
+4	-711 m^2	2.0496	motor sports	Data Science	2.3252	0.3979 m^3	602	-921	623	Applied Mathematics	0.7679	-7	0.4482	1.7035
+5	-505 m^2	0.2731	golf	Computer Engineering	0.1393	0.7189 m^3	2064	-1387	801	Natural Language Processing	1.0992	562	1.1854	-1.5493
+5	1169 m^2	0.2085	golf	Computer Engineering	0.9535	-1.1192 m^3	-1100	-784	84	Computational Media	0.9375	-485	1.3744	1.779
+6	1597 m^2	0.4038	soccer	Biotechnology, Electrical Engineering	-0.8043	1.0844 m^3	893	425	133	Computer Game Design	-0.123	-578	0.7808	0.9141
+0	626 m^2	0.1941	running	Human Computer Interaction	1.7007	0.6848 m^3	761	467	469	Games and Playable Media	0.15	-168	0.8151	1.7533
+6	233 m^2	0.9286	soccer	Electrical Engineering	-0.2211	1.4255 m^3	-120	191	277	Computer Game Design	0.8332	-878	1.0331	-0.5623
+0	-154 m^2	0.4107	running	Human Computer Interaction, Bioinformatics	1.5686	0.1954 m^3	1076	-878	1646	Games and Playable Media	1.012	-1038	2.4559	1.601
+1	-202 m^2	1.3955	badminton	Natural Language Processing	-1.8395	-0.4522 m^3	124	-430	929	Human Computer Interaction	0.5063	1116	0.4969	0.8317
+2	2278 m^2	-0.6735	baseball	Computational Media	-1.5717	0.5074 m^3	1132	784	-486	Natural Language Processing	-0.3667	847	-0.3115	2.147
+5	-794 m^2	1.0389	ice hockey	Computer Game Design, Statistics	1.8163	2.0608 m^3	84	-447	-50	Computer Engineering	1.4048	-905	0.409	1.0767
+2	249 m^2	2.1798	volleyball	Technology and Information Management	1.275	-0.9193 m^3	-1082	581	-414	Natural Language Processing	0.8991	1806	0.4907	1.483
+6	662 m^2	0.6897	Soccer	Biotechnology	0.5215	1.1326 m^3	-403	2561	1708	Computer Game Design	1.3272	1199	0.237	-0.79
+1	-242 m^2	1.495	badminton	aPPLIED mATHEMATICS	-1.17	-0.7502 m^3	-319	1242	1870	Technology and Information Management	0.7969	-636	0.0524	1.4506
+3	2165 m^2	-1.0312	track & field	Games and Playable Media	-0.5516	-0.2391 m^3	1422	-267	1334	Bioengineering	1.1835	308	0.8231	0.0488
+1	-602 m^2	1.1805	badminton	Applied Mathematics	1.0034	-0.7198 m^3	-95	1762	657	Technology and Information Management	0.7038	1287	0.0959	1.5562
+3	362 m^2	0.2155	tennis	Games and Playable Media	0.3408	0.0066 m^3	-330	1529	776	Statistics	-0.9877	141	1.155	-0.8901
+0	404 m^2	-0.4606	running	Human Computer Interaction, Bioinformatics	-1.5308	1.0459 m^3	154	1040	-578	Games and Playable Media	0.0302	-105	-0.1271	0.6046
+0	698 m^2	0.7102	basketball	Bioinformatics	1.4085	1.2153 m^3	275	-872	1254	Statistics	2.1627	-349	0.9627	1.0002
+3	1631 m^2	1.2044	track & field	Games and Playable Media	0.0274	-0.6038 m^3	592	1099	399	Statistics	0.91	283	0.0373	0.1586
+0	675 m^2	0.6569	football	Natural Language Processing	0.9737	1.3587 m^3	-28	-28	706	Games and Playable Media	-0.4206	299	1.4928	0.687
+0	11 m^2	1.4812	basketball	Bioinformatics	0.861	0.2441 m^3	-1363	1327	1700	Games and Playable Media	0.5935	-834	0.9631	2.1316
+2	908 m^2	0.6084	volleyball	Technology and Information Management	0.283	0.5911 m^3	1542	-683	-520	Natural Language Processing	0.0095	683	0.8693	1.4732
+0	316 m^2	0.2589	football	Human Computer Interaction, Robotics Engineering	-0.0967	0.4647 m^3	464	1258	185	Games and Playable Media	1.0293	289	0.8717	1.9001
+2	397 m^2	None	volleyball	Computational Media	-0.1053	0.9067 m^3	-675	2126	989	Natural Language Processing	0.5755	-873	0.8562	1.1266
+3	1039 m^2	-0.5934	tennis	Games and Playable Media	0.6362	1.4997 m^3	439	-1109	1828	Bioengineering	0.4827	1003	1.7505	-1.9608
+1	-1191 m^2	0.6386	badminton	Applied Mathematics	1.875	-0.246 m^3	-145	1395	-90	Biotechnology	0.3246	209	0.9898	-0.7362
+5	336 m^2	0.3295	golf	computer game design, computer engineering	2.021	2.4251 m^3	516	478	1213	Computational Media	0.9838	130	0.8578	1.692
+1	-91 m^2	-0.0711	badminton	Applied Mathematics	0.8638	-0.3106 m^3	-331	92	-1336	Human Computer Interaction	0.9614	969	1.3286	0.4171
+0	509 m^2	0.6851	basketball	Bioinformatics, Human Computer Interaction	1.134	0.4562 m^3	1588	2175	1269	Games and Playable Media	0.3452	286	1.0055	2.0218
+2	1020 m^2	-1.0342	volleyball	Computational Media	0.6404	0.1007 m^3	1462	1830	1716	Natural Language Processing	1.0943	680	1.8425	1.2573
+5	103 m^2	0.6362	ice hockey	Computer Engineering	0.1495	0.0481 m^3	-1045	-795	1243	Data Science	0.6766	327	1.1747	2.5529
+4	1221 m^2	-0.0372	motor sports	Data Science	0.65	0.4265 m^3	-510	-445	19	Bioinformatics	0.8589	841	0.2225	-0.0428
+6	1031 m^2	0.4291	soccer	Biotechnology	0.4663	-0.1813 m^3	-718	1254	52	Computer Game Design	0.4487	306	1.112	0.6061
+4	1092 m^2	1.0807	motor sports	Data Science	2.1064	-0.3913 m^3	-552	?	-832	Electrical Engineering	1.6229	1244	-0.0342	-0.2149
+5	553 m^2	0.5424	golf	COMPUTER ENGINEERING, COMPUTER GAME DESIGN	-0.0495	0.8442 m^3	477	-1705	639	Data Science	0.3262	13	2.233	0.5444
+2	662 m^2	-0.0415	baseball	Computational Media	0.7407	1.3802 m^3	1136	2608	889	Natural Language Processing	1.1156	322	0.0894	0.691
+3	275 m^2	-0.3303	TENNIS	Bioengineering	-0.353	-0.3121 m^3	3	2573	-248	Statistics	-0.4817	600	-0.564	0.8732
+5	-311 m^2	0.6013	ice hockey	Computer Engineering, Statistics	0.0739	-1.1261 m^3	66	-37	1472	Robotics Engineering	0.6442	-219	1.2524	0.7537
+6	675 m^2	0.6349	soccer	Robotics Engineering	2.1376	0.7333 m^3	-242	1336	1614	Computer Game Design	2.1383	523	1.3051	-0.5572
+5	-160 m^2	0.0122	ice hockey	Computer Game Design	-0.3412	0.8805 m^3	-1459	-982	428	Data Science	0.7074	325	0.402	0.232
+1	6 m^2	0.2048	badminton	Applied Mathematics	0.1201	-0.3025 m^3	126	668	-295	Human Computer Interaction	1.1014	2053	0.2232	0.7033
+2	1601 m^2	1.8826	volleyball	Computational Media	0.2662	0.1449 m^3	-790	333	907	Natural Language Processing	1.3944	1585	0.2171	1.5355
+5	743 m^2	2.4896	golf	computer game design	-0.831	2.847 m^3	115	139	143	NULL	0.017	-581	1.5076	-0.0787
+6	1777 m^2	-0.2766	running	Electrical Engineering	1.6462	1.7065 m^3	857	673	79	Computer Game Design	-0.2354	-169	1.3882	-0.3524
+0	-86 m^2	1.2549	football	human computer interaction	0.3647	2.2571 m^3	894	310	2824	Games and Playable Media	0.8703	316	0.2092	0.5269
+1	-501 m^2	n/a	badminton	Applied Mathematics	-1.0473	1.699 m^3	1336	-1421	886	Biotechnology	0.948	531	0.5137	-1.0097
+5	461 m^2	2.2868	Ice Hockey	Computer Engineering, Computer Game Design	1.1922	0.42 m^3	-113	136	328	Computational Media		140	1.2049	-0.0727
+4	571 m^2	-0.357	motor sports	Data Science	0.2848	1.2181 m^3	-560	-1709	740	Bioengineering	0.8564	-1140	0.0918	0.592
+1	379 m^2	1.5894	running	Natural Language Processing	1.6864	-2.2398 m^3	2045	623	394	Technology and Information Management	-0.7689	1140	2.0245	-0.8804
+1	812 m^2	?	boxing	Natural Language Processing	-1.2789	0.2059 m^3	929	1185	519	Technology and Information Management	-0.0872	-599	0.7487	0.9864
+2	2944 m^2	-0.9915	volleyball	Technology and Information Management	0.7662	0.213 m^3	-1560	-157	196	Natural Language Processing	0.9312	-548	1.4668	1.0707
+3	510 m^2	2.1308	tennis	Bioengineering	-1.9899	0.631 m^3	573	-1045	1045	Statistics	-0.6459	-1116	0.7559	-0.8879
+5	-883 m^2	1.8407	Golf	Computer Engineering, Computer Game Design	1.5805	1.2454 m^3	-1547	1981	1225	Computational Media	0.9879	437	0.4419	1.0294
+1	-67 m^2	1.3474	tennis	Applied Mathematics	1.0499	-1.5615 m^3	421	-437	-108	Biotechnology	-0.9463	784	0.0905	-0.4002
+4	-484 m^2	0.6998	motor sports	Data Science	2.1427	-0.518 m^3	-49	910	-790	Bioinformatics	1.1586	1029	0.1495	2.1531
+2	-427 m^2	0.4104	baseball	Computational Media	1.2304	-0.8418 m^3	-1207	852	443	Natural Language Processing	-0.9593	1359		-0.2999
+1	-99 m^2	1.9795	badminton	Natural Language Processing	0.5803	0.4413 m^3	469	151	1553	Natural Language Processing	-0.2177	-12	-0.1395	0.1321
+1	-2302 m^2	0.9535	motor sports	Applied Mathematics	-1.5987	0.4283 m^3	1014	-941	376	Technology and Information Management	0.8526	-435	-0.1573	0.1832
+5	370 m^2	1.6822	golf	Computer Game Design	0.7054	2.0541 m^3	-1383	1026	390	Data Science	0.6777	1090	0.6565	1.0068
+4	448 m^2	0.9795	motor sports	Data Science	0.9391	-0.0866 m^3	-452	-414	-856	Applied Mathematics	1.6169	1123	-0.3113	1.902
+3	1229 m^2	-0.2884	tennis	Games and Playable Media	-0.3572	0.1753 m^3	879	-466	945	Bioengineering	0.9967	-866	0.2382	0.0125
+2	-1096 m^2	1.3859	volleyball	Computational Media	-0.8553	0.0541 m^3	271	191	570	Natural Language Processing	-0.0795	1078	1.3308	-0.1493
+2	490 m^2	0.0563	football	Computational Media	0.0849	1.4417 m^3	852	1833	577	Natural Language Processing	0.7283	297	-0.0536	1.5702
+5	-266 m^2	0.8407	golf	Statistics, Computer Game Design	-0.4205	1.758 m^3	1113	295	694	Computer Engineering	0.5267	-1306	1.485	1.7071
+3	1061 m^2	-1.2682	track & field	Bioengineering	2.2101	0.489 m^3	1434	708	279	Statistics	0.0791	439	0.5757	0.423
+4	-269 m^2	0.6308	motor sports	Data Science	1.8837	-0.2188 m^3	676	-1477	1331	Electrical Engineering	0.8424	896	0.6084	1.2344
+1	644 m^2	0.5566	badminton	Applied Mathematics	-0.2653	0.0696 m^3	1468	-512	1621	Biotechnology	0.5356	1519	0.685	-1.06
+5	-1217 m^2	0.7391	ice hockey	Applied Mathematics	-0.4009	2.0244 m^3	828	1697	1383	Computer Engineering	0.3602	-924	-0.4261	-0.0289
+1	867 m^2	1.6549	n/a	Natural Language Processing	-0.0907	0.4565 m^3	1032	848	1539	tECHNOLOGY AND iNFORMATION mANAGEMENT	0.9773	-65	1.0891	-0.7228
+6	-802 m^2	1.2413	boxing	Computer Science, Biotechnology	1.6142	1.72 m^3	-883	992	-304	n/a	1.3047	-193	0.5218	0.1806
+5	-655 m^2	0.8149	golf	Computer Engineering, Statistics	-0.0851	0.9368 m^3	2170	-439	1740	Computational Media	-0.8906	-330	0.6179	0.8614
+2	760 m^2	1.8594	baseball	Computational Media	0.9533	-2.3073 m^3	-7	1664	-65	NATURAL LANGUAGE PROCESSING	0.8029	909	1.326	0.3267
+6	1360 m^2	1.1095	soccer	Biotechnology, Computer Science	-0.0213	1.0728 m^3	-407	-205	334	Computer Game Design	0.3882	626	0.9192	0.3161
+5	1064 m^2	0.44	golf	Computer Engineering	0.2177	0.6703 m^3	-1696	-411	1096	Computer Engineering	1.3856	348	-0.3312	1.1878
+0	-340 m^2	1.0163	boxing	Human Computer Interaction	0.2277	1.5464 m^3	550	1048	1192	Games and Playable Media	0.6467	NULL	1.1056	1.0688
+1	394 m^2	1.2858	boxing	Natural Language Processing	-1.2947	0.8344 m^3	618		1052	Technology and Information Management	0.6483	226	0.2192	-0.4067
+0	347 m^2	2.7162	running	Human Computer Interaction	1.3462	0.5272 m^3	-224	-395	1365	Games and Playable Media	0.6244	77	2.1869	0.9364
+0	1357 m^2	0.8143	baseball	Bioinformatics	1.1527	0.1643 m^3	-253	403	115	Games and Playable Media	1.2004	1411	0.8394	0.9819
+4	438 m^2	0.5748	motor sports	Data Science	-0.2656	-0.1158 m^3	-664	482	583	Applied Mathematics	0.6003	1663	0.682	0.6041
+0	777 m^2	1.4475	basketball	Human Computer Interaction, Robotics Engineering	-0.2108	0.3953 m^3	131	1121	1592	Games and Playable Media	0.8661	258	0.6966	0.7465
+1	-962 m^2	0.5003	badminton	Applied Mathematics	-1.936	0.2442 m^3	952	-1136	837	Statistics	0.2368	221	0.9554	-0.1378
+0	-31 m^2	0.7324	football	Bioinformatics, Robotics Engineering	1.1487	0.1113 m^3	288	-493	1149	Games and Playable Media	-0.2874	1075	1.1602	0.8607
+4	1040 m^2	-1.2639	motor sports	Data Science	0.1222	0.54 m^3	2024	868	-947	Games and Playable Media	0.77	1294	0.3661	0.6528
+4	1140 m^2	0.5286	motor sports	Data Science	0.7861	0.1264 m^3	-573	783	-169	Electrical Engineering	0.568	644	-0.2033	1.3737
+1	744 m^2	0.9033	badminton	Natural Language Processing	-0.4332	-1.2395 m^3	1613	444	1238	Biotechnology	1.4855	346	1.3663	0.7613
+0	1109 m^2	1.1647	running	Robotics Engineering	-1.3994	-0.4635 m^3	-641	-553	1216	Games and Playable Media	0.1131	-1016	2.5295	1.667
+3	1617 m^2	0.7688	track & field	BIOENGINEERING	-0.5738	0.8146 m^3	-202	174	1055	bioengineering	0.5214	-208	1.0543	0.924
+3	1013 m^2	0.1715	tennis	Games and Playable Media	-0.183	0.2669 m^3	1042	None	1378	Bioengineering	-0.6815	438	1.1467	0.111
+2	2471 m^2	-0.2181	Baseball	Computational Media	0.3505	-0.643 m^3	-722	1317	526	Natural Language Processing	2.8341	521	-0.7486	-0.3184
+6	-819 m^2	0.4817	soccer	Biotechnology, Computer Science	0.1562	-0.2383 m^3	927	3341	493	Computer Game Design	0.3604	-454	0.9175	0.3711
+1	541 m^2	1.0357	ICE HOCKEY	Applied Mathematics	1.3744	-0.7129 m^3	-516	284	-203	Biotechnology	0.3821	1456	1.1847	0.2244
+2	308 m^2	0.3237	volleyball	Computational Media	0.0014	0.0763 m^3	891	4253	342	Natural Language Processing	0.8775	912	-0.1292	0.6547
+5	-204 m^2	1.3517	golf	Computer Game Design	0.3532	1.7231 m^3	-644	779	1525	Robotics Engineering	1.1316	-472	0.1372	0.4885
+1	-1240 m^2	-0.1299	volleyball	Applied Mathematics	-1.0338	None	-237	-750	773	Technology and Information Management	0.9956	1113	0.5233	0.0068
+2	821 m^2	0.0128	baseball	Technology and Information Management	-0.3451	0.6665 m^3	-147	1162	161	Natural Language Processing	0.6696	315	0.9006	1.5835
+6	1603 m^2	-0.0705	soccer	Biotechnology	-0.426	0.3633 m^3	688	1936	1383	Computer Game Design	-0.0426	506	0.7782	0.2618
+1	-317 m^2	1.2699	badminton	Applied Mathematics	-0.6753	-1.7027 m^3	1862	-147	1542	Technology and Information Management	0.868	530	0.8384	0.1641
+4	1723 m^2	1.1215	motor sports	Data Science	2.7281	0.6287 m^3	-962	248	339	Games and Playable Media	0.6058	1897	0.3267	0.4135
+6	2189 m^2	2.2725	soccer	Computer Science, Biotechnology	0.8954	1.0016 m^3	1553	150	-177	Computer Game Design	0.5426	582	0.7333	-0.8856
+4	320 m^2	0.793	motor sports	Data Science	2.4805	0.7245 m^3	-766	-474	489	Bioinformatics	-0.002	1101	0.258	1.3513
+3	1288 m^2	0.7121	tennis	Bioengineering	-1.1825	1.4424 m^3	1186	543	889	Statistics	1.3699	911	0.7111	2.0908
+4	1045 m^2	1.4914	motor sports	Data Science	0.5633	-0.3362 m^3	306	1943	-207	Bioinformatics	1.0741	1061	0.3153	0.262
+0	-96 m^2	1.5272	running	Robotics Engineering, Bioinformatics	0.8944	0.8187 m^3	2	-221	1496	Games and Playable Media	1.7893	-1000	0.9201	1.7919
+0	-1870 m^2	0.9602	basketball	Human Computer Interaction, Robotics Engineering	0.4122	0.934 m^3	1131	2345	405	Games and Playable Media	-1.024	152	1.0231	0.9665
+5	14 m^2	-1.118	golf	Computer Engineering, Computer Game Design	0.5299	2.086 m^3	-731	-32	1495	Robotics Engineering	0.5088	408	0.6073	-0.0632
+0	475 m^2	1.2661	basketball	Bioinformatics, Human Computer Interaction	0.4331	-0.2056 m^3	-604	-481	1644	Games and Playable Media	-0.2689	-190	-0.0141	-1.0956
+0	945 m^2	1.291	running	Bioinformatics, Robotics Engineering	1.5739	1.1012 m^3	212	693	681	Games and Playable Media	0.0945	1095	1.517	0.4684
+0	1335 m^2	1.8032	basketball	Robotics Engineering	-1.2319	-0.837 m^3	-1115	-390	-89	Games and Playable Media	0.6487		1.4206	0.1876
+0	32 m^2	0.1532	Basketball	Robotics Engineering	0.7829	-0.1303 m^3	-278	-252	956	Games and Playable Media	1.2727	-946	0.3254	-0.6281
+5	387 m^2	0.7213	ice hockey	Computer Game Design	-0.3705	-0.2777 m^3	971	157	1384	Computational Media	0.5824	409	1.5009	0.5134
+2	545 m^2	0.6896	volleyball	Computational Media	0.7517	0.63 m^3	991	1066	-1040	Natural Language Processing	0.4185	-38	0.8414	-0.4576
+1	602 m^2	1.0925	boxing	Applied Mathematics	0.3794	0.0092 m^3	1383	1128	1418	Technology and Information Management	-0.866	-185	-0.3188	-0.2111
+2	-290 m^2	-1.0459	soccer	Technology and Information Management	1.1261	-0.229 m^3	11	168	-58	Natural Language Processing	0.8278	325	n/a	0.4874
+2	982 m^2	0.6592	baseball	Technology and Information Management	-0.9259	0.0561 m^3	213	1106	795	Natural Language Processing	0.5157	-523	-0.0548	0.9604
+6	-531 m^2	0.9788	soccer	Electrical Engineering	1.9283	0.0282 m^3	78	1993	382	Computer Science	-0.3402	-484	0.6528	-0.5968
+0	509 m^2	0.8998	basketball	Bioinformatics	-0.6056	1.695 m^3	-21	775	1108	Games and Playable Media	0.3698	194	-0.0752	-0.4702
+3	1386 m^2	1.2977	tennis	Bioengineering	-0.2707	1.1321 m^3	1702	2326	534	Bioengineering	NULL	656	1.3726	-0.0685
+3	1119 m^2	0.5222	tennis	Games and Playable Media	-0.4304	-0.803 m^3	1991	959	505	Bioengineering	0.4949	1029	0.3208	0.5552
+0	545 m^2	0.0691	basketball	Bioinformatics	-0.1502	1.5343 m^3	787	-112	-468	Games and Playable Media	1.9898	-82	0.9111	2.1969
+3	21 m^2	-0.2845	track & field	Bioengineering	0.9603	-0.1586 m^3	295	-819	205	Statistics	0.6788	1111	1.1686	-0.2661
+2	77 m^2	-0.1656	volleyball	Technology and Information Management	-0.8311	-0.6014 m^3	-828	960	398	Natural Language Processing	0.8819	1507	0.4383	0.1604
+1	596 m^2	1.8724	boxing	Natural Language Processing	1.3103	-0.7443 m^3	-60	663	-80	Human Computer Interaction	-0.793	1765	0.8466	0.9444
+5	19 m^2	1.317	ice hockey	Statistics, Computer Game Design	1.2301	2.4973 m^3	-431	-959	724	Bioengineering	0.9201	-207	1.5433	1.2285
+6	1273 m^2	1.0123	soccer	Biotechnology	1.0067	1.6505 m^3	406	888	564	Computer Science	0.7532	1714	0.1175	0.0747
+3	611 m^2	0.4336	tennis	Bioengineering	-1.6639	2.2375 m^3	-97	-1180	1025	Statistics	0.5844	-13	0.1387	-1.1598
+1	-342 m^2	1.3335	boxing	Applied Mathematics	0.218	0.9736 m^3	2872	678	250	Biotechnology	0.4139	777	0.9523	-1.0736
+0	1931 m^2	2.0109	football	Robotics Engineering	0.901	-1.173 m^3	639	690	830	Games and Playable Media	0.8747	99	0.1677	0.61
+2	-44 m^2	0.7074	baseball	Technology and Information Management	0.9046	0.8893 m^3	74	1777	-593	Natural Language Processing	-0.3257	n/a	-0.4129	1.2381
+4	-745 m^2	0.9933	motor sports	Data Science	1.4653	-0.377 m^3	38	-1125	834	Electrical Engineering	1.3422	-4	-0.4395	0.2608
+5	-297 m^2	-0.2242	ice hockey	Statistics, Computer Engineering	-0.0641	-0.7142 m^3	?	2422	137	Data Science	-0.4115	475	0.7123	1.1819
+1	-836 m^2	None	BOXING	Natural Language Processing	-0.6786	-0.3599 m^3	1361	-1072	-9	Technology and Information Management	-0.3153	116	0.7285	0.163
+0	946 m^2	-0.2961	basketball	Bioinformatics	-0.3879	0.1074 m^3	61	-934	553	Games and Playable Media	0.9395	243	0.3717	1.1282
+4	574 m^2	0.2339	motor sports	Data Science	0.1986	0.2874 m^3	572	798	-818	Bioinformatics	1.1528	367	0.7072	0.2123
+5	1252 m^2	-0.956	ice hockey	Statistics, Computer Engineering	-0.4606	0.4887 m^3	145	1817	548	Robotics Engineering	-0.0451	-878	0.1385	1.714
+4	-344 m^2	-0.2231	motor sports	Data Science	1.8656	-0.6645 m^3	1888	-1644	-163	Games and Playable Media	1.179	15	1.2936	0.4455
+4	601 m^2	-0.5331	motor sports	Data Science	-0.4881	0.2322 m^3	245	179	-441	Bioinformatics	0.1848	1975	0.4774	0.6883
+5	44 m^2	0.0264	golf	Computer Game Design	0.8302	1.2401 m^3	-294	-147	-619	Data Science	1.658	571	0.8291	0.2409
+6	482 m^2	-0.759	soccer	Biotechnology, Computer Science	0.4604	0.3083 m^3	969	867	-37	Computer Engineering	0.3685	1946	0.5713	-1.3767
+4	-265 m^2	1.17	motor sports	Data Science	1.8543	-0.8726 m^3	-696	1539	800	Applied Mathematics	-0.2655	518	-0.6869	0.1867
+5	114 m^2	0.4903	golf	Statistics, Computer Engineering	0.9069	1.515 m^3	141	281	-613	Computational Media	-0.104	1303	1.4717	1.2414
+6	562 m^2	0.5965	football	Biotechnology, Electrical Engineering	0.7521	0.4781 m^3	283	1792	764	Computer Game Design	0.1452	353	0.7429	-0.1503
+3	-213 m^2	-1.2089	badminton	Bioengineering	0.3552	0.489 m^3	363	800	-641	Computer Science	2.5027	610	0.927	1.0416
+0	-304 m^2	-0.1586	basketball	Human Computer Interaction	1.0117	0.0918 m^3	700	204	996	Games and Playable Media	-0.1693	-357	1.6099	-0.2768
+3	1118 m^2	0.6752	track & field	Games and Playable Media	-0.3169	-0.0861 m^3	-704	638	813	Bioengineering	1.1214	1260	2.1097	1.2969
+0	293 m^2	1.1193	basketball	Human Computer Interaction, Bioinformatics	1.2815	1.0855 m^3	-1490	794	1761	Games and Playable Media	0.2303	-1666	-0.2427	0.804
+3	895 m^2	-0.8797	track & field	Bioengineering	0.4008	1.3589 m^3	924	975	1371	Statistics	0.6931	-440	1.0328	-0.6759
+0	-2015 m^2	1.648	running	Robotics Engineering, Bioinformatics	-0.2313	2.4141 m^3	982	1507	-70	Games and Playable Media	0.8885	-1095	0.7223	0.952
+2	2055 m^2	0.2748	volleyball	Technology and Information Management	-0.4549	-0.1478 m^3	-668	417	978	nATURAL lANGUAGE pROCESSING	0.8901	919	-0.3148	0.8416
+3	589 m^2	-1.4066	running	Games and Playable Media	0.322	0.1697 m^3	424	-58	1347	Bioengineering	-0.308	71	1.4342	0.7471
+6	516 m^2	-0.1744	soccer	Electrical Engineering, Biotechnology	-0.1941	3.1392 m^3	NULL	1101	251	Computer Science	0.3083	185	0.4941	-0.7446
+5	99 m^2	1.4306	golf	Computer Engineering, Statistics	-1.7178	0.2525 m^3	1503	-832	1173	Robotics Engineering	1.011	110	1.5984	0.071
+0	-505 m^2	1.147	basketball	Robotics Engineering, Bioinformatics	0.4053	-1.0026 m^3	-2079	-1209	2722	Games and Playable Media	1.3554	103	0.6619	1.3144
+4	782 m^2	0.3779	golf	Data Science	-0.0275	0.2376 m^3	93	115	1635	Bioinformatics	1.7134	480	1.1754	0.0339
+3	-10 m^2	0.0775	tennis	Games and Playable Media	0.1885	0.6827 m^3	-1453	1502	-446	Statistics	0.3113	-99	0.6053	0.4856
+0	668 m^2	1.1483	running	Human Computer Interaction	-0.3948	0.7201 m^3	-132	221	2182	Games and Playable Media	0.5944	753	1.618	0.1774
+0	591 m^2	0.4932	basketball	Robotics Engineering	0.6326	1.5163 m^3	-216	1508	1142	Games and Playable Media	0.0799	395	0.7115	1.5318
+3	1203 m^2	0.6965	track & field	Games and Playable Media	1.2622	1.9508 m^3	517	124	1710	Statistics	0.9986	-1351	-1.1849	-0.1951
+1	-1150 m^2	-0.4178	boxing	Natural Language Processing	-0.5296	-0.8744 m^3	2471	-1247	-30	Human Computer Interaction	0.9405	994	0.8134	1.0651
+6	1422 m^2	0.4634	soccer	Electrical Engineering	0.1806	0.1833 m^3	343	1672	876	Computer Science	0.8881	-70	0.4421	-0.5522
+4	797 m^2	-0.3312	motor sports	Data Science	0.0653	-0.5029 m^3	-820	-1097	-225	Electrical Engineering	0.8589	363	0.0084	0.0538
+4	-61 m^2	0.3258	motor sports	Data Science	0.5864	0.0886 m^3	526	-1116	-196	Bioinformatics	0.0638	1752	0.1622	1.7158
+5	266 m^2	1.0294	ice hockey	Computer Engineering, Statistics	2.0243	1.0569 m^3	-205	-1962	-461	Computer Engineering	0.3904	-1349	0.5192	1.5725
+6	1615 m^2	-0.0454	soccer	Biotechnology	0.9893	1.0453 m^3	-431	2013	1509	Computer Science	0.98	508	1.7982	0.9442
+5	1062 m^2	0.7157	golf	Computer Game Design	-0.2512	1.4286 m^3	773	-882	-196	Computer Engineering	-0.0772	112	0.3399	0.2855
+3	1211 m^2	-0.0707	tennis	Bioengineering	0.7114	0.0316 m^3	812	650	1927	Bioengineering	0.2169	405	0.6889	-0.2215
+6	369 m^2	-0.054	soccer	Computer Science	-0.3781	0.3045 m^3	-1344	265	-344	Computer Game Design	0.6742	2036	0.3429	-0.8551
+2	536 m^2	1.9962	motor sports	Bioinformatics	0.5476	-1.457 m^3	-446	341	-259	Natural Language Processing	-0.1852	-727	0.5322	0.7216
+0	129 m^2	1.5961	basketball	Robotics Engineering	2.2233	0.5356 m^3	-1670	207	1918	Games and Playable Media	0.9583	-632	0.1852	1.8351
+0	-1441 m^2	0.4907	running	Human Computer Interaction	-0.8854	-0.379 m^3	396	-116	615	Games and Playable Media	0.5281	-788	0.6538	1.4577
+5	313 m^2	-1.089	football	Computer Engineering, Statistics	1.048	1.1193 m^3	888	-739	931	Computer Engineering	-0.5227	-690	1.1344	0.5773
+1	309 m^2	0.2504	badminton	Applied Mathematics	-1.849	-0.4446 m^3	900	-394	1896	Human Computer Interaction	0.553	166	1.2591	0.5938
+6	615 m^2	-0.4574	soccer	Biotechnology	1.133	0.1264 m^3	2051	960	-335	Computer Game Design	None	-299	1.2664	-0.5295
+5	430 m^2	1.6674	ice hockey	Computer Game Design	1.7977	0.9034 m^3	-436	1330	829	Data Science	1.5801	927	0.2598	-0.2182
+1	678 m^2	1.8275	boxing	Natural Language Processing	-0.8523	0.2378 m^3	2120	150	1849	bIOTECHNOLOGY	0.0524	426	0.8044	-0.1541
+0	1471 m^2	0.2359	football	Bioinformatics, Human Computer Interaction	0.1167	1.6754 m^3	-635	-244	1780	Games and Playable Media	1.1312	968	0.2928	0.1767
+4	598 m^2	0.7146	motor sports	Data Science	0.3037	-0.6229 m^3	-365	741	628	Applied Mathematics	0.2315	1638	-1.1978	1.7026
+6	-132 m^2	1.1262	soccer	Biotechnology, Electrical Engineering	1.5896	0.3972 m^3	1720	-621	989	Computer Game Design	1.5698	-315	0.2258	-0.05
+0	367 m^2	0.8185	running	Bioinformatics, Human Computer Interaction	0.4519	-2.3438 m^3	934	-451	1121	Games and Playable Media	1.3839	54	0.0217	0.7847
+3	1813 m^2	0.387	tennis	Games and Playable Media	-0.2137	1.4743 m^3	810	-663	159	Statistics	0.6719	-1390	0.9525	0.0978
+5	814 m^2	0.1771	ice hockey	Computer Game Design, Computer Engineering	0.3357	1.1213 m^3	1103	674	1108	Computational Media	0.8235	-1531	1.457	0.2153
+5	-608 m^2	-0.3597	ice hockey	Computer Engineering, Computer Game Design	0.3011	0.5056 m^3	-540	386	-380	Computer Engineering	1.2063	54	-0.0793	1.8002
+0	-879 m^2	1.4095	basketball	Bioinformatics	-0.6066	-0.3899 m^3	-382	429	768	Games and Playable Media	0.4804	295	0.5553	1.1887
+5	-1862 m^2	-1.1221	golf	Statistics, Computer Engineering	1.2521	0.7921 m^3	-871	1467	1304	Data Science	0.0264	504	1.5807	0.9683
+2	400 m^2	0.6147	volleyball	Computational Media	-0.2079	-0.6451 m^3	-972	2514	1201	Natural Language Processing	0.9995	380	-0.1373	-0.086
+4	1242 m^2	-1.6373	motor sports	Data Science	0.9338	NULL	649	1873	-223	Applied Mathematics	0.2198	1357	0.6317	1.0232
+1	-695 m^2	0.5116	soccer	Natural Language Processing	-0.0455	-0.1041 m^3	2041	-1221	987	Technology and Information Management	0.9472	2298	0.2852	1.1249
+2	1227 m^2	0.1383	baseball	Technology and Information Management	-0.5495	-0.0291 m^3	-727	1053	322	Natural Language Processing	0.2869	1362	1.2856	0.671
+5	-1091 m^2	-0.6158	golf	Statistics, Computer Game Design	1.3391	1.1693 m^3	848	72	536	Robotics Engineering	-0.5027	731	1.7917	0.2884
+4	432 m^2	0.6599	motor sports	NULL	-0.1841	0.8656 m^3	-693	1166	-580	Bioinformatics	-0.0101	432	0.1866	-0.732
+3	1546 m^2	2.534	track & field	Games and Playable Media	0.289	0.0038 m^3	742	-459	895	Robotics Engineering	0.8488	-547	0.8718	0.9484
+6	1306 m^2	0.2751	soccer	Biotechnology, Electrical Engineering	1.1306	1.5104 m^3	1566	140	243	Natural Language Processing	0.7515	-530	0.3055	-0.5727
+0	367 m^2	0.7421	football	Human Computer Interaction, Robotics Engineering	-0.1752	1.2882 m^3	1037	166	1876	Games and Playable Media	1.4832	-744	0.7995	0.6311
+0	-1189 m^2	-0.9157	football	Bioinformatics, Robotics Engineering	0.24	-0.6729 m^3	178	-380	798	Games and Playable Media	0.6546	571	0.7905	1.5161
+4	889 m^2	0.0842	motor sports	Data Science	1.8265	1.306 m^3	566	-482	1890	Electrical Engineering	1.8284	827	-0.8289	1.483
+6	-587 m^2	0.6257	soccer	Biotechnology, Electrical Engineering	0.6823	0.6707 m^3	-800	975	-150	Computer Game Design	0.092	1119	0.8173	-0.6259
+6	-313 m^2	1.5802	soccer	Biotechnology, Computer Science	2.096	-0.1669 m^3	-70	194	-512	Computer Game Design	0.93	746	0.8768	0.1243
+5	-133 m^2	-0.1129	ice hockey	Statistics, Computer Game Design	0.3147	1.2118 m^3	585	-324	593	Robotics Engineering	0.6236	895	0.0388	1.2713
+3	356 m^2	0.6677	track & field	Bioengineering	0.3769	-0.9311 m^3	-632	156	2819	Bioengineering	0.5671	30	0.5306	-0.1858
+5	-1529 m^2	-0.3134	ice hockey	Computer Engineering, Computer Game Design	2.1251	0.1236 m^3	-479	2051	776	Data Science	0.1627	?	0.476	0.8576
+2	1707 m^2	1.4315	volleyball	Technology and Information Management	1.3575	-1.6775 m^3	1199	2190	-1572	Natural Language Processing	0.5906	-235	0.7477	0.3225
+6	801 m^2	-1.0379	soccer	Electrical Engineering	-1.0127	?	224	23	-841	Computer Science	0.3208	-658	1.4953	-0.4909
+2	637 m^2	0.302	volleyball	Computational Media	1.0383	-0.4207 m^3	935	279	-169	Natural Language Processing	-0.118	927	1.0479	1.2837
+6	1498 m^2	-0.0034	SOCCER	Computer Science, Electrical Engineering	1.4985	1.5452 m^3	-851	1695	189	Computer Science	-0.0103	-580	0.1609	0.352
+1	-1824 m^2	-0.1233	badminton	Natural Language Processing	1.2979	-0.1476 m^3	1084	-463	878	Biotechnology	1.4572	219	0.9746	-1.0625
+4	-182 m^2	-1.312	motor sports	Data Science	-0.6004	0.0639 m^3	557	-214	440	Applied Mathematics	0.9291	292	0.7356	0.2314
+6	1956 m^2	0.704	soccer	Electrical Engineering	1.4103	0.9729 m^3	1277	1006	-679	Computer Science	1.2996	-140	1.3045	-0.4391
+6	855 m^2	-0.2743	soccer	Computer Engineering, Computer Game Design	0.2014	-0.2849 m^3	28	-218	381	Computer Game Design	0.628	250	-0.3358	-0.5325
+1	-177 m^2	1.7094	boxing	Applied Mathematics	0.6547	0.7752 m^3	857	188	282	Games and Playable Media	1.2672	None	0.6085	-0.4211
+3	587 m^2	-0.5361	track & field	Bioengineering	0.087	0.2387 m^3	-203	93	1006	Statistics	1.252	879	0.2152	-0.3018
+2	-591 m^2	1.5442	Volleyball	Computational Media	1.7026	-0.139 m^3	-283	407	210	Natural Language Processing	-0.4426	-89	-0.0424	0.701
+1	136 m^2	1.8546	track & field	APPLIED MATHEMATICS	0.2388	0.2592 m^3	1373	1246	131	Human Computer Interaction	-0.1484	1172	1.2765	0.6375
+3	1476 m^2	-0.6444	tennis	Bioengineering	0.6551	0.8514 m^3	760	2966	2065	Bioengineering	-0.7571	94	0.8139	0.7559
+2	1584 m^2	-0.2371	track & field	Technology and Information Management	1.4418	-0.489 m^3	393	1533	553	Natural Language Processing	-0.6203	852	-0.3167	-0.3693
+6	?	-2.1525	soccer	Biotechnology	-0.8845	0.6508 m^3	-480	1747	752	Computer Science	0.7175	508	1.1249	-0.8146
+5	660 m^2	-0.1454	boxing	Computer Engineering, Statistics	0.0222	1.8965 m^3	-498	N/A	1048	Computational Media	-0.6771	886	0.0226	1.0245
+3	-116 m^2	0.5981	tennis	Games and Playable Media	0.0847	0.9946 m^3	47	-1346	751	Statistics	0.7754	-346	0.0765	-0.4285
+5	-432 m^2	0.6945	ice hockey	Computer Engineering, Computer Game Design	1.7951	0.0804 m^3	66	-828	2254	Data Science	0.9239	362	0.48	0.3796
+5	168 m^2	0.3162	golf	Computer Game Design	0.0909	0.5105 m^3	-417	-802	104	Computational Media	0.263	1864	0.948	1.5129
+6	570 m^2	-1.2773	soccer	Biotechnology	0.5384	0.0414 m^3	-1019	2336	-225	Computer Game Design	-0.439	-717	1.623	-0.057
+1	-332 m^2	0.063	badminton	Applied Mathematics	-0.1577	-0.0948 m^3	-163	1361	1384	Technology and Information Management	-1.287	600	0.998	-1.1048
+0	-475 m^2	1.384	running	Human Computer Interaction	0.1712	0.6522 m^3	751	-460	378	Games and Playable Media	0.7065	-301	0.9274	1.1652
+1	-2126 m^2	0.0016	boxing	Applied Mathematics	0.7383	0.6564 m^3	1534	544	1387	Biotechnology	0.1342	771	0.0733	0.4279
+1	230 m^2	0.9569	boxing	Applied Mathematics	?	-0.7409 m^3	778	-356	608	Biotechnology	0.3926	307	0.2198	-0.3841
+2	292 m^2	-0.0408	BASEBALL	Computational Media	0.8271	-0.9121 m^3	988	2554	-97	Natural Language Processing	1.0127	2017	1.3077	0.3668
+0	-144 m^2	1.7269	basketball	Bioinformatics	0.1459	-0.3402 m^3	-267	140	1144	Games and Playable Media	1.1402	1720	0.5146	-0.7511
+5	817 m^2	?	ice hockey	Statistics	-1.1311	0.5104 m^3	3	550	1204	Computer Engineering	0.5982	929	0.3121	0.8964
+4	231 m^2	2.3447	motor sports	Data Science	0.3919	-0.3106 m^3	46	-1118	1256	Bioinformatics	0.6012	362	0.7503	2.1836
+0	-579 m^2	-0.7817	football	Robotics Engineering, Human Computer Interaction	0.1881	-0.0097 m^3	25	604	896	Games and Playable Media	1.6986	216	0.1806	0.6983
+6	-224 m^2	-0.0131	soccer	Electrical Engineering	0.9098	0.63 m^3	-544	1132	16	Computer Game Design	1.2595	-1342	0.9696	0.4068
+3	-748 m^2	0.2221		Games and Playable Media	1.2153	1.0669 m^3	-223	51	-467	Statistics	-0.6129	-841	0.4948	1.4254
+1	1328 m^2	0.5034	badminton	Natural Language Processing	-0.2444	1.2036 m^3	1418	-1384	-124	Human Computer Interaction	-1.245	486	0.7772	-0.3023
+0	1207 m^2	1.3149	basketball	Bioinformatics, Robotics Engineering	-1.0749	0.7264 m^3	323	1140	1012	Games and Playable Media	0.269	-755	-0.9073	1.4484
+1	3 m^2	0.3235	badminton	Natural Language Processing	-0.0864	-0.718 m^3	868	585	652	HUMAN COMPUTER INTERACTION	-0.346	427	1.8387	1.3217
+0	-111 m^2	1.3939	running	Robotics Engineering	-0.7536	1.8875 m^3	1335	1532	1529	Games and Playable Media	0.3101	73	1.7752	1.5179
+2	1017 m^2	1.7734	volleyball	Computational Media	-1.0492	0.3614 m^3	-87	927	-202	Natural Language Processing	0.6504	1050	1.1501	1.352
+2	2073 m^2	0.7808	baseball	Computational Media	0.4831	-0.0472 m^3	-363	1950	410	Natural Language Processing	1.1197	653	0.1265	1.2516
+4	23 m^2	-0.3374	motor sports	Data Science	0.0828	-0.5513 m^3	1644	2482	393	Electrical Engineering	0.1835	-1501	0.6586	-1.585
+6	813 m^2	-1.1961	soccer	Computer Science	0.4633	0.779 m^3	-344	69	-279	Computer Game Design	-0.2379	33	0.3814	1.6109
+2	1688 m^2	0.673	baseball	Computational Media	0.1554	-1.0408 m^3	1705	-133	-1001	Natural Language Processing	1.4064	-113	2.323	0.2139
+3	1191 m^2	1.4073	tennis	Bioengineering	-0.1914	1.3372 m^3	-1736	1258	1451	Bioengineering	1.5373	-859	1.1425	-0.1374
+1	166 m^2	0.9717	boxing	Natural Language Processing	-0.5853	0.1112 m^3	-111	1669	197	Technology and Information Management	-0.1585	617	-0.8917	-0.5605
+5	779 m^2	0.5178	ice hockey	Statistics, Computer Engineering	0.1428	2.1591 m^3	512	-117	1457	Computational Media	1.7821	-97	0.6809	0.0685
+4	841 m^2	1.6132	Motor Sports	Data Science	1.422	1.4616 m^3	368	-28	261	Bioinformatics	0.5392	-811	0.22	1.3835
+3	-520 m^2	0.6087	tennis	Games and Playable Media	-0.5816	0.6043 m^3	-862	-400	1071	Statistics	0.4134	-1711	-0.3409	1.5078
+6	1121 m^2	-0.106	?	Electrical Engineering	0.6411	0.9333 m^3	1128	45	1438	Computer Game Design	0.4706	-223	1.483	-1.1897
+3	1066 m^2	-0.1883	tennis	Games and Playable Media	0.2926	0.8683 m^3	1013	449	588	Statistics	0.4754	-618	-0.8872	
+3	2687 m^2	1.1462	tennis	Games and Playable Media	0.2124	0.4864 m^3	308	733	461	Statistics	-0.1338	1413	0.0273	0.3987
+4	2242 m^2	1.0083	motor sports	Data Science	-0.0815	-1.0798 m^3	27	-1400	1420	Bioinformatics	-0.2103	970	-1.3467	1.1287
+1	1141 m^2	-0.4521	boxing	Natural Language Processing	-2.0015	0.3956 m^3	-1592	-288	1002	Technology and Information Management	0.0506	110	0.6007	0.4989
+5	-1653 m^2	0.2433	golf	Computer Game Design	1.7476	1.1796 m^3	796	414	813	Data Science	0.8809	-1622	0.7044	2.2437
+5	429 m^2	1.018	GOLF	cOMPUTER gAME dESIGN	0.1551	0.6376 m^3	-716	-2255	232	Data Science	1.3369	-322	0.3192	0.9878
+0	-1409 m^2	1.1332	football	Bioinformatics	-0.0651	1.7477 m^3	797	-450	1081	Games and Playable Media	-0.244	-1275	0.4213	1.7277
+3	-307 m^2	0.9837	tennis	Games and Playable Media	0.2159	-0.3187 m^3	1058	-572	1827	Statistics	0.634	-142	1.0471	0.2372
+2	-93 m^2	0.859	motor sports	Technology and Information Management	0.1096	1.1081 m^3	58	490	-674	Natural Language Processing	1.3652	1552	1.5011	2.8131
+1	-391 m^2	1.3135	track & field	Applied Mathematics	1.1029	0.0057 m^3	287	67	862	Technology and Information Management	0.3748	172	1.0916	0.6853
+5	65 m^2	0.6446	ice hockey	Computer Game Design	-0.5332	0.0795 m^3	-578	439	-493	Computer Engineering	0.5031	1309	0.121	1.491
+5	876 m^2	1.2627	ice hockey	Statistics	0.5494	-0.8801 m^3	1251	538	-182	Data Science	0.3128	256	0.3463	0.5443
+2	909 m^2	0.2852	Volleyball	Computational Media	1.2753	-1.1612 m^3	60	1695	461	Natural Language Processing	1.1564	1930	2.2631	0.5081
+2	1391 m^2	0.244	volleyball	Technology and Information Management	0.0619	1.0377 m^3	1602	1944		Natural Language Processing	-0.3442	-10	0.9877	2.1033
+5	253 m^2	-0.7469	golf	Computer Engineering, Statistics	0.4137	-0.663 m^3	-875	45	2203	Robotics Engineering	0.5623	-180	0.5794	2.1615
+1	540 m^2	1.6453	soccer	Applied Mathematics	0.6665	0.3464 m^3	-760	-435	-671	Biotechnology	-0.0944	1160	0.609	-0.8753
+4	532 m^2	1.2984	motor sports	Data Science	0.169	0.8704 m^3	1230	134	735	Bioinformatics	0.9492	71	1.2577	1.9174
+0	-545 m^2	-0.2517	basketball	Robotics Engineering	0.2922	1.2239 m^3	-579	147	1808	Games and Playable Media	0.5465	-608	1.5925	2.081
+6	206 m^2	-0.4493	soccer	Computer Science, Biotechnology	1.2428	-0.0646 m^3	-100	697	-130	Computer Science	1.4713	-1274	0.6398	0.1077
+1	-535 m^2	0.5056	badminton	Applied Mathematics	0.3469	0.0899 m^3	1512	836	-1048	Technology and Information Management	0.3217	683	-0.4624	-0.3453
+2	396 m^2	-1.0554	volleyball	Computational Media	0.6814	0.2566 m^3	816	1356	9	nATURAL lANGUAGE pROCESSING	1.7064	1653	0.3843	0.6228
+2	387 m^2	-0.2202	volleyball	Computational Media	0.7038	-0.4331 m^3	-1582	1492	-1887	Natural Language Processing	0.5062	261	0.1368	0.9382
+6	815 m^2	0.3202	soccer	Computer Science	1.2356	0.4542 m^3	449	281	-465	Computer Game Design	0.1323	401	1.201	0.7147
+2	-153 m^2	-0.897	volleyball	Computational Media	2.127	-0.7277 m^3	371	899	146	Natural Language Processing	-0.1227	1773	?	1.0512
+5	1290 m^2	0.8392	GOLF	Computer Game Design, Statistics	0.8217	-1.4073 m^3	-775	764	-19	Data Science	2.4518	166	1.0617	-0.4402
+3	392 m^2	0.1511	ice hockey	Games and Playable Media	0.9449	1.2822 m^3	1137	19	1637	NULL	-0.1304	614	-0.6696	0.3006
+3	N/A	-0.2966	soccer	Games and Playable Media	-0.6001	-0.6094 m^3	-581	-445	154	Statistics	-0.2228	184	0.5007	1.4007
+5	370 m^2	0.9749	golf	Computer Game Design	1.4374	0.5334 m^3	2791	-760	1849	Robotics Engineering	-0.4163	479	0.8864	1.5035
+5	-103 m^2	-0.8922	ice hockey	Statistics	1.5634	-0.2141 m^3	-412	1094	857	Computer Engineering	1.3604	-1054	-0.1371	0.6991
+2	755 m^2	0.3731	volleyball	Technology and Information Management	0.7287	0.0933 m^3	1202	244	-838	Natural Language Processing	-0.1563	1868	1.2397	1.0625
+4	1253 m^2	2.9562	motor sports	Computer Science	1.4901	-1.284 m^3	164	1286	13	Bioinformatics	0.2285	1476	1.0363	-0.6192
+0	-268 m^2	0.9779	running	Bioinformatics, Robotics Engineering	-1.1396	1.3678 m^3	-59	-513	-1399	Games and Playable Media	0.5818	-742	0.9143	-0.773
+0	465 m^2	2.1849	football	Bioinformatics, Human Computer Interaction	0.4706	-1.1274 m^3	817	1265	-17	Games and Playable Media	1.0825	-691	1.979	0.5043
+2	563 m^2	0.0852	volleyball	Computational Media	0.3389	-0.6855 m^3	14	-524	912	Natural Language Processing	0.5237	849	0.8899	-0.6834
+0	-313 m^2	1.5803	track & field	Bioinformatics	-0.1377	-0.4136 m^3	100	1418	-591	Games and Playable Media	0.2766	172	1.872	0.9705
+2	28 m^2	-1.3285	baseball	Computational Media	0.6014	-0.1546 m^3	413	2177	1166	Natural Language Processing	-0.9157	578	-0.5113	-0.1885
+5	77 m^2	-1.9253	tennis	Statistics, Computer Game Design	0.753	1.2581 m^3	871	506	1365	Data Science	-0.2465	-414	0.969	-0.6164
+5	-23 m^2	0.0846	golf	Statistics, Computer Game Design	1.2341	0.0614 m^3	930	2465	1273	Computer Engineering	2.1437	1269	2.2761	0.2759
+1	1008 m^2	1.1544	football	Applied Mathematics	1.1305	0.4157 m^3	950	2410	1696	Human Computer Interaction	1.2189	2072	0.7135	0.4134
+4	1277 m^2	0.213	motor sports	Data Science	-0.4129	-0.5452 m^3	339	-1495	113	Electrical Engineering	-0.6029	287	0.1542	1.0333
+4	-815 m^2	-0.4013	motor sports	Data Science	0.8584	1.0315 m^3	-92	887	217	Electrical Engineering	0.2645	1208	0.3105	0.7865
+3	-234 m^2	0.7752	track & field	Bioengineering	0.2085	0.9453 m^3	1575	782	1873	Bioengineering	-0.3716	-435	0.6744	0.7882
+4	-752 m^2	1.673	motor sports	Data Science	0.4727	0.8427 m^3	-305	-963	442	Applied Mathematics	1.4255	782	0.7596	-0.2909
+3	916 m^2	1.5193	track & field	Games and Playable Media	1.4739	1.1174 m^3	-478	-120	732	Bioengineering	-0.3628	585	-0.325	0.3115
+4	1679 m^2	1.9033	motor sports	Data Science	-1.4308	-0.7144 m^3	765	1625	-2024	Bioinformatics	0.0844	776	2.1381	-0.5579
+2	1194 m^2	-1.1632	Volleyball	Computational Media	0.0265	1.6028 m^3	263	311	-658	Natural Language Processing	1.5215	1571	1.5481	-0.1642
+5	-272 m^2	0.3159	golf	Computer Game Design	-1.4005	-0.3102 m^3	729	-303	543	Computational Media	0.2013	-446	0.0551	1.7504
+5	-249 m^2	1.8326	golf	Computer Game Design	-0.2283	-0.3064 m^3	1390	-151	-547	Computational Media	0.2787	472	1.9106	0.7909
+6	2137 m^2	-0.1439	soccer	Computer Science	2.036	-0.0988 m^3	-431	1631	-624	Computer Science	1.2631	44	-0.0319	-0.0369
+1	-175 m^2	0.6769	badminton	natural language processing	1.1588	-0.4105 m^3	-938	362	1548	Biotechnology	1.2193	1276	0.6517	0.1894
+3	529 m^2	0.0211	tennis	Bioengineering	-0.616	0.661 m^3	360	1290	1253	Statistics	1.2356	-101	0.7411	-0.0175
+5	-1019 m^2	1.3292	ice hockey	Computer Engineering, Computer Game Design	-0.9689	n/a	-213	155	1042	Computational Media	0.1568	-282	0.9987	1.2072
+6	696 m^2	0.0962	soccer	Electrical Engineering, Computer Science	0.2476	1.5758 m^3	-596	3870	938	computer science	0.266	498	1.613	-0.328
+4	265 m^2	1.0637	motor sports	Data Science	2.136	-1.1434 m^3	-870	2295	-39	Applied Mathematics	2.1363	156	?	1.5126
+4	696 m^2	0.5811	motor sports	Data Science	0.9181	-0.5812 m^3	775	1234	1029	Bioengineering	1.7804	-470	-0.3941	-0.5626
+6	385 m^2	0.426	soccer	Electrical Engineering, Biotechnology	0.7293	-0.3289 m^3	-187	231	964	Computer Game Design	0.3275	-205	0.6779	0.2483
+3	1395 m^2	0.291	track & field	Bioengineering	-0.5332	0.1144 m^3	3	510	281	Bioengineering	0.286	-1083	2.3198	0.3796
+4	1325 m^2	0.132	motor sports	Data Science	0.3305	0.1259 m^3	-895	-1193	-213	Applied Mathematics	0.6711	1669	0.9005	1.1989
+0	-238 m^2	-0.7196	football	Robotics Engineering	-0.685	-0.4574 m^3	758	521	335	Games and Playable Media	0.6691	214	0.9726	0.0853
+2	-126 m^2	1.1406	VOLLEYBALL	Technology and Information Management	0.9076	1.2182 m^3	-528	1125	-890	Natural Language Processing	1.8083	413	0.9979	2.7692
+0	-1195 m^2	0.9485	football	Human Computer Interaction	1.0666	-0.3223 m^3	702	901	-527	Games and Playable Media	-0.2099	None	1.6397	2.49
+2	814 m^2	-0.8544	volleyball	Computational Media	1.2266	1.7758 m^3	1027	1419	-169	Computer Engineering	0.4298	787	0.3939	0.1154
+4	2343 m^2	0.7643	motor sports	Data Science	1.1352	-0.3568 m^3	83	443	94	Applied Mathematics	0.4752	158	1.2445	?
+3	-607 m^2	0.631	tennis	Bioengineering	0.9185	0.4106 m^3	-321	199	899	Bioengineering	1.5009	676	0.6909	0.6543
+5	-61 m^2	-1.2003	golf	Computer Engineering	-0.048	1.6417 m^3	-1764	3467	903	Computer Science	1.0026	791	0.2382	1.0674
+2	-423 m^2	-0.897	track & field	Technology and Information Management	-0.7369	0.2576 m^3	1171	-72	77	Natural Language Processing	0.7977	-922	-0.1857	1.2408
+2	-268 m^2	-1.5065	baseball	Technology and Information Management	1.2187	-1.7684 m^3	198	2644	1028	Natural Language Processing	-0.4408	-306	1.1409	1.9208
+4	388 m^2	0.5694	tennis	DATA SCIENCE	1.8901	1.2134 m^3	194	1178	293	Bioinformatics	1.1833	815	1.8094	0.9442
+4	1692 m^2	0.3137	motor sports	Data Science	0.2026	-0.263 m^3	-1165	756	827	electrical engineering	0.4901	1201	0.5118	1.7076
+6	651 m^2	-0.4321	soccer	Electrical Engineering, Computer Science	0.2164	-0.209 m^3	-577	712	-409	Computer Game Design	0.8114	-121	2.3705	0.7315
+2	541 m^2	0.7786	volleyball	Technology and Information Management	1.2696	-0.1824 m^3	-770	19	338	Natural Language Processing	1.0249	-634	0.7564	2.1125
+4	400 m^2	1.126	motor sports	Data Science	-0.3799	-0.6823 m^3	-346	1200	533	Bioinformatics	1.0842	-107	0.319	0.8088
+4	-1216 m^2	1.0236	motor sports	Data Science	-0.4356	1.5075 m^3	221	1202	-1724	Electrical Engineering	0.6983	153	-0.4241	0.6137
+2	712 m^2	0.9815	baseball	Technology and Information Management	0.5441	0.5027 m^3	343	1060	-540	Natural Language Processing	-0.8119	133	0.5831	0.8229
+4	381 m^2	-0.4997	motor sports	Data Science	-0.1753	-1.7045 m^3	-398	94	-611	Bioinformatics	1.4155		-0.7946	0.7926
+4	1529 m^2	-0.2603	motor sports	Data Science	1.4862	-0.053 m^3	300	-150	807	Bioinformatics	0.5867	-26	-0.6217	0.5775
+5	348 m^2	0.3247	soccer	Computer Game Design	1.2079	-0.2476 m^3	1027	108	1231	Data Science	0.7019	230	1.2374	1.635
+3	896 m^2	-0.4173	tennis	Games and Playable Media	-0.2544	1.2827 m^3	-93	936	593	Computer Engineering	-0.578	-530	0.2909	0.8654
+0	-1290 m^2	2.0909	football	Human Computer Interaction, Robotics Engineering	-1.5909	-0.4914 m^3	-358	418	-663	Games and Playable Media	1.0365	252	0.143	1.1899
+1	-681 m^2	1.7418	Boxing	Natural Language Processing	-0.545	0.0109 m^3	-1096	-558	859	Biotechnology	0.8415	-127	0.8159	-0.9563
+5	261 m^2	0.6239	ice hockey	Statistics	2.1609	-1.0157 m^3	-666	1282	120	Computer Engineering	2.1937	-719	0.3695	0.2878
+5	-1239 m^2	0.5169	ice hockey	Statistics	-0.0776	0.416 m^3	-936	-371	428	?	0.9702	105	0.6298	1.1598
+1	886 m^2	2.4831	badminton	Applied Mathematics	0.7483	-0.4288 m^3	721	805	-280	Biotechnology	1.3394	-885	0.9379	0.301
+5	-1677 m^2	0.9612	golf	Computer Engineering	-0.6262	0.0984 m^3	-396	184	667	Computational Media	-0.895	984	1.0549	-0.127
+3	824 m^2	1.0388	track & field	Games and Playable Media	-0.4531	0.6988 m^3	-1086	-1556	1562	Bioengineering	0.6408	1220	0.8063	-0.1988
+6	885 m^2	0.7263	soccer	Electrical Engineering, Computer Science	0.0124	2.13 m^3	968	-253	506	Computer Game Design	0.74	-184	0.5667	-0.1227
+2	1266 m^2	-0.0508	baseball	Computational Media	0.2361	-0.6907 m^3	1219	1463	-79	Natural Language Processing	-1.1849	927	0.6265	0.0254
+3	894 m^2	1.2937	tennis	BIOENGINEERING	1.3271	2.7923 m^3	-528	-106	-293	Statistics	1.3668	4	0.3031	0.4344
+6	1294 m^2	0.6309	soccer	Biotechnology	1.6844	1.3444 m^3	1106	-680	-637	computer game design	0.674	-399	1.2813	-0.7496
+4	10 m^2	0.087	motor sports	Data Science	1.7438	-0.5789 m^3	-783	1160	837	Applied Mathematics	1.0263	-155	1.5471	1.2843
+5	-163 m^2	0.4263	golf	Statistics, Computer Game Design	1.3	0.0581 m^3	824	150	73	Robotics Engineering	1.6209	601	0.6823	1.0042
+6	155 m^2	0.9961	soccer	Electrical Engineering, Biotechnology	-0.4327	-0.035 m^3	-433	-595	816	Computer Science	1.1628	200	-0.3945	0.5151
+4	302 m^2	0.7668	motor sports	Data Science	1.9321	0.615 m^3	-542	932	447	Electrical Engineering	1.3566	-159	0.1431	-0.2742
+0	-684 m^2	-0.8958	basketball	Bioinformatics, Robotics Engineering	0.3732	1.361 m^3	-971	807	217	Games and Playable Media	-1.0195	-1373	1.5751	0.3677
+5	1232 m^2	0.0609	ice hockey	Computer Game Design	0.6143	-1.0075 m^3	464	638	747	Computational Media	0.4449	242	-0.0382	1.9721
+6	2034 m^2	n/a	None	Computer Science, Biotechnology	0.3384	-0.9788 m^3	1243	1728	-959	Computer Science	0.5694	-412	0.831	-0.7272
+2	1394 m^2	-0.5543	badminton	Computational Media	1.0132	-0.2581 m^3	-675	156	-981	Natural Language Processing	-0.3309	-191	1.0608	-0.5633
+1	-822 m^2	0.47	badminton	Applied Mathematics	0.0344	0.4625 m^3	1788	-910	224	Human Computer Interaction	0.1908	1276	1.5594	-0.0068
+1	454 m^2	0.4756	badminton	Applied Mathematics	1.4954	-1.2115 m^3	127	997	1569	Human Computer Interaction	0.8481	382	0.6924	-0.3633
+6	2304 m^2	0.14	soccer	Electrical Engineering, Biotechnology	-1.12	0.3575 m^3	670	1919	981	Computer Science	1.1163	1174	0.0088	1.3029
+4	1370 m^2	-0.7677	motor sports	Data Science	1.46	-0.4085 m^3	609	458	-661	Electrical Engineering	0.4404	646	0.6427	-0.8007
+2	34 m^2	0.848	baseball	Computational Media	-0.4662	-0.459 m^3	1279	78	-120	Natural Language Processing	0.923	989	1.8633	0.5106
+2	2603 m^2	-0.7774	volleyball	Technology and Information Management	1.2138	-0.5545 m^3	-118	1312	383	Natural Language Processing	-0.0643	1124	0.5992	0.0082
+6	158 m^2	0.1733	soccer	Computer Science, Electrical Engineering	1.1606	0.4134 m^3	-139	2215	1567	Computer Game Design	0.4329	803	1.3831	1.2502
+0	-183 m^2	1.8748	running	Bioinformatics, Robotics Engineering	-0.0544	1.8843 m^3	-1218	329	1668	Biotechnology	0.9907	-456	1.1562	0.37
+0	-1631 m^2	2.0358	running	Robotics Engineering, Bioinformatics	-0.3735	0.19 m^3	1079	1407	1201	Games and Playable Media	1.5125	-570	0.2109	2.0275
+1	-181 m^2	0.7674	badminton	Applied Mathematics	0.6383	-0.0425 m^3	1326	-1851	-958	Biotechnology	1.9127	636	0.623	?
+4	861 m^2	1.3554	motor sports	Data Science	1.4355	0.4885 m^3	1343	-1521	-1325	gAMES AND pLAYABLE mEDIA	0.9875	-354	1.2212	0.2314
+2	771 m^2	-0.6587	baseball	Computational Media	0.5134	-1.0601 m^3	-597	-233	-407	Natural Language Processing	0.8639	243	0.9223	-0.1423
+2	388 m^2	1.2646	volleyball	Technology and Information Management	0.7742	0.1481 m^3	186	1538	604	Natural Language Processing	-0.4228	-1029	-0.1229	1.0357
+4	524 m^2	0.3662	motor sports	Data Science	0.7816	0.5842 m^3	997	1022	1154	Electrical Engineering	1.4721	515	-0.5177	-0.1349
+1	-398 m^2	0.285	boxing	Natural Language Processing	-0.0694	-0.3424 m^3	869	-494	-1415	Biotechnology	0.5358	-770	0.2654	-0.0317
+1		0.2565	badminton	Natural Language Processing	-1.16	-0.0765 m^3	643	-537	754	Biotechnology	1.3894	2474	-0.7274	0.9971
+4	1582 m^2	-0.2835	motor sports	Data Science	-0.1387	0.2844 m^3	-335	-10	-681	Bioinformatics	0.2016	1860	-0.1719	0.8393
+2	1328 m^2	1.1001	baseball	Computational Media	1.1565	-1.1315 m^3	362	1579	-330	Natural Language Processing	1.3076	775	1.1723	1.7929
+2	698 m^2	0.1843	baseball	Computational Media	0.6806	-0.0757 m^3	-956	-480	765	Natural Language Processing	1.1863	1090	0.6568	-0.3358
+1	305 m^2	1.1282	boxing	natural language processing	-0.3163	0.4412 m^3	553	-46	324	Technology and Information Management	1.2373	-410	-0.4038	1.3391
+2	174 m^2	-0.2115	volleyball	Technology and Information Management	-0.5588	-0.5832 m^3	-424	836	-1165	Natural Language Processing	1.1959	1438	-0.5916	1.4949
+5	807 m^2	0.1493	golf	Computer Engineering	-0.407	-0.133 m^3	-791	484	1591	Data Science	0.1456	1338	1.6871	1.3848
+6	994 m^2	-0.1243	soccer	Biotechnology	1.8968	1.636 m^3	275	1259	878	Computer Game Design	1.035	262	0.7377	0.7719
+4	1730 m^2	0.956	Motor Sports	Data Science	0.4081	0.4448 m^3	-355	741	71	Natural Language Processing	0.9132	460	1.7676	0.1835
+1	836 m^2	2.155	boxing	Applied Mathematics	1.0424	0.8848 m^3	1952	342	1104	Human Computer Interaction	1.6289	1342	1.4085	0.5389
+6	2100 m^2	0.6917	soccer	Computer Science	-0.2892	1.4604 m^3	824	2237	-4	Computer Game Design	0.8108	-544	2.0549	-1.6736
+3	566 m^2	-0.3051	tennis	Games and Playable Media	1.3819	-0.9692 m^3	244	244	-217	Bioengineering	1.2154	35	0.0843	0.1946
+4	1518 m^2	0.9755	motor sports	Data Science	1.0167	-0.9633 m^3	-1574	-92	1052	Bioinformatics	0.766	420	0.1541	2.0789
+1	-438 m^2	1.8192	badminton	Applied Mathematics	1.3183	0.4479 m^3	3077	1284	349	Human Computer Interaction	0.542	-551	1.4607	0.5129
+4	240 m^2	1.3283	motor sports	Data Science	?	0.2887 m^3	-529	-812	1011	Electrical Engineering	0.9183	838	0.7592	0.3321
+6	501 m^2	-1.4118	soccer	Biotechnology	0.4473	1.3948 m^3	-587	1949	1958	Computer Science	-0.3762	611	0.9501	-0.6722
+2	181 m^2	-0.8665	volleyball	Computational Media	-0.2486	-1.563 m^3	1023	-594	2541	Natural Language Processing	0.6733	1857	0.6742	1.6054
+3	658 m^2	-0.9982	tennis	Bioengineering	-0.39	1.1032 m^3	434	2381	370	Statistics	0.7467	28	0.1533	-0.2726
+0	641 m^2	0.3035	basketball	Human Computer Interaction, Bioinformatics	1.0593	-0.0789 m^3	1538	-239	528	Games and Playable Media	0.1305	1278	-0.6736	1.4968
+6	-504 m^2	0.7771	soccer	Biotechnology, Electrical Engineering	0.2906	1.1927 m^3	981	59	-847	Computer Game Design	0.3964	-276	0.4483	1.5928
+5	-310 m^2	-1.4868	golf	Computer Game Design	0.3867	1.836 m^3	151	-973	2013	Computer Engineering	0.121	280	-0.1873	1.082
+1	-906 m^2	0.922	badminton	Natural Language Processing	-1.2918	0.5468 m^3	-815	1078	562	Technology and Information Management	0.6209	1150	1.4473	0.101
+2	1742 m^2	0.4129	boxing	Technology and Information Management	1.4562	-0.2941 m^3	522	1546	-1329	Natural Language Processing	-0.0429	1806	1.2008	-1.0452
+4	479 m^2	0.8766	motor sports	Data Science	0.9514	-0.2531 m^3	1268	971	1677	Bioinformatics	0.4806	281	1.4811	2.4356
+0	1413 m^2	1.8769	basketball	Robotics Engineering	0.7028	0.95 m^3	325	-31	-420	Games and Playable Media	0.0342	-939	0.784	1.2068
+2	553 m^2	-0.968	volleyball	Computational Media	-0.0407	1.3196 m^3	1595	1058	-296	Natural Language Processing	1.5312	552	1.3822	0.0668
+1	603 m^2	1.0827	badminton	Natural Language Processing	-1.1374	-0.6866 m^3	-545	194	1305	Biotechnology	0.1112	1655	-0.5691	1.191
+5	-174 m^2	0.9949	ice hockey	Statistics, Computer Game Design	-0.9785	0.272 m^3	-566	107	351	Data Science	0.0484	-1304	0.5374	0.212
+6	591 m^2	-0.4987	soccer	Computer Science, Electrical Engineering	1.7187	-1.4035 m^3	-517	46	-630	Computer Science	1.236	1375	-0.9553	-1.1365
+2	582 m^2	0.04	baseball	Computational Media	0.8058	-0.4847 m^3	-859	1689	-808	Computer Science	0.8748	932	1.85	-0.5055
+0	-276 m^2	1.5294	football	Human Computer Interaction	0.5441	1.5346 m^3	879	42	670	Games and Playable Media	0.7513	638	1.0851	0.5848
+2	1607 m^2	-0.2906	motor sports	Technology and Information Management	0.6937	None	1401	1250	216	Biotechnology	1.767	1566	1.4512	0.9796
+1	361 m^2	0.9207	badminton	Applied Mathematics	0.4682	-0.7451 m^3	1517	-656	743	Biotechnology	0.2917	1319	0.8549	0.7498
+1	-668 m^2	1.4065	boxing	Applied Mathematics	0.4466	-0.4114 m^3	431	-1136	286	Human Computer Interaction	0.5347	1686	-0.4042	1.2528
+6	598 m^2	0.3113	soccer	Electrical Engineering, Biotechnology	1.7363	1.3141 m^3	150	2034	-297	Computer Science	0.4106	3	0.9327	0.0634
+5	-305 m^2	0.1072	golf	Computer Game Design, Computer Engineering	0.3436	1.156 m^3	451	780	-270	Robotics Engineering	1.6201	1107	0.5498	0.4239
+6	1374 m^2	0.0131	motor sports	Computer Science, Electrical Engineering	1.7561	0.6012 m^3	257	595	-221	Computer Game Design	1.3807	1152	0.1151	-2.3489
+6	-631 m^2	0.0473	running	Computer Science	-0.6851	1.0606 m^3	-285	-152	-1294	Computer Game Design	-0.7742	949	1.9856	0.6868
+4	-307 m^2	-0.8025	motor sports	Data Science	-0.5479	0.3281 m^3	-258	385	826	Electrical Engineering	0.4523	1006	1.444	0.2874
+6	960 m^2	0.1118	basketball	Computer Science, Electrical Engineering	0.6058	-0.0288 m^3	275	826	-100	N/A	0.4847	938	0.0257	0.6059
+6	963 m^2	-0.4467	soccer	Electrical Engineering, Biotechnology	0.21	0.4355 m^3	1495	1349	922	Computer Science	0.474	485	1.2137	0.1928
+4	-304 m^2	-0.2237	motor sports	Data Science	-0.157	0.7003 m^3	-744	2308	535	Bioinformatics	1.3374	1341	0.3267	2.1165
+5	480 m^2	-1.1062	motor sports	Computer Game Design	1.9074	0.9878 m^3	-396	454	768	Robotics Engineering	-0.5426	204	0.9633	1.1675
+2	-628 m^2	-0.646	baseball	Technology and Information Management	0.3549	-0.6203 m^3	202	3996	1335	nATURAL lANGUAGE pROCESSING	1.5092	1702	0.3383	-0.3049
+2	-230 m^2	1.4121	baseball	Technology and Information Management	1.5363	-0.1694 m^3	840	462	1377	NATURAL LANGUAGE PROCESSING	0.0645	143	0.6988	1.1911
+5	-80 m^2	0.4608	ice hockey	Computer Engineering	0.2566	0.7057 m^3	611	1667	1148	Computer Engineering	1.3195	322	1.0346	0.5478
+2	157 m^2	-0.0515	baseball	Technology and Information Management	0.4095	-0.0367 m^3	-220	1385	617	Natural Language Processing	0.3388	856	0.0754	0.4557
+0	338 m^2	2.6151	football	Robotics Engineering	1.2126	-0.2195 m^3	-820	-532	351	Games and Playable Media	0.9894	-285	1.1663	0.9238
+0	1063 m^2	0.9418	football	Human Computer Interaction	0.4115	1.1794 m^3	-708	80	-364	Games and Playable Media	0.123	1685	1.348	0.3534
+3	-216 m^2	0.1747	tennis	Bioengineering	0.1904	1.4752 m^3	918	-347	1057	Natural Language Processing	0.1238	170	1.9845	-0.498
+2	37 m^2	0.6852	baseball	Technology and Information Management	3.0359	-0.8017 m^3	773	2503	-1101	Natural Language Processing	0.6654	49	1.393	0.3864
+4	370 m^2	0.5628	MOTOR SPORTS	Data Science	0.23	-1.5225 m^3	-2301	1028	867	Applied Mathematics	-0.1643	257	0.1488	-0.0435
+5	147 m^2	1.186	ice hockey	Statistics	2.3708	0.1478 m^3	1234	-263	1190	Data Science	0.6405	-1425	0.5282	0.7516
+6	-513 m^2	-0.0352	baseball	Computer Game Design	0.9467	-0.0024 m^3	18	-67	1052	Computer Game Design	1.4111	-1310	1.8988	-0.6641
+5	804 m^2	0.9943	ice hockey	Bioinformatics	0.9892	0.062 m^3	-38	519	-572	Data Science	-0.856	-917	0.9127	1.2388
+1	-244 m^2	1.7336	badminton	Applied Mathematics	-0.2179	-0.1876 m^3	342	491	69	Biotechnology	-0.6859	1869	-0.1861	0.0692
+1	-306 m^2	0.4735	boxing	natural language processing	2.8086	1.6048 m^3	936	18	8	Human Computer Interaction	0.3291	1215	0.0338	-1.4113
+2	937 m^2	0.3806	volleyball	Technology and Information Management	-0.0577	0.7083 m^3	-1354	1714	1286	Natural Language Processing	0.6271	191	1.5971	1.3847
+2	-320 m^2	-0.1202	baseball	Technology and Information Management	0.3353	-0.297 m^3	-1536	69	-556	computer science	-0.5819	470	1.2173	1.7453
+0	-843 m^2	0.7049	football	Robotics Engineering, Human Computer Interaction	0.6922	0.7725 m^3	1993	509	222	gAMES AND pLAYABLE mEDIA	0.4698	-509	1.2556	0.1156
+2	867 m^2	n/a	volleyball	Technology and Information Management	-0.3663	-0.1572 m^3	636	948	601	Natural Language Processing	0.2314	400	0.5193	1.0625
+3	599 m^2	0.6311	tennis	Bioengineering	1.3085	0.4831 m^3	-356	-626	1153	Statistics	0.1927	-486	0.394	-0.355
+1	-370 m^2	1.6652	badminton	Applied Mathematics	0.4998	-0.692 m^3	-49	737	1421	Biotechnology	-0.4815	340	0.7451	0.4035
+0	267 m^2	1.7326	football	Bioinformatics	0.6882	1.1588 m^3	394	-1441	1320	Games and Playable Media	1.4344	-399	0.7763	1.4576
+3	1466 m^2	0.1577	track & field	Games and Playable Media	0.094	0.1177 m^3	-365	-1529	827	Bioengineering	0.3123	164	-0.0459	-0.8781
+1	-252 m^2	1.8179	badminton	Applied Mathematics	0.2212	0.0989 m^3	-407	687	449	Biotechnology	0.6535	-581	0.5507	-0.5934
+0	-709 m^2	-0.0264	running	Human Computer Interaction	0.063	0.07 m^3	-914	1013	1280	Games and Playable Media	1.0339	356	0.9218	1.2646
+6	1039 m^2	-0.0628	soccer	Computer Science	0.4428	0.3492 m^3	-1149	1075	320	Computer Science	0.8775	178	0.3144	-0.2215
+2	312 m^2	-2.46	baseball	Technology and Information Management	-0.732	1.395 m^3	-728	651	-29	Natural Language Processing	?	117	1.1777	-0.5764
+5	1553 m^2	-0.7496	ice hockey	NULL	0.7536	1.7567 m^3	599	418	1518	Data Science	0.5743	558	1.1104	0.4344
+3	-135 m^2	-0.6515	track & field	Bioengineering	1.9886	-0.9253 m^3	260	746	2265	Bioengineering	0.169	73	?	n/a
+6	2073 m^2	1.0824	soccer	Computer Science, Electrical Engineering	1.059	1.0593 m^3	-377	1765	200	Computer Game Design	0.9664	-94	N/A	0.3856
+1	517 m^2	-0.6553	BADMINTON	Applied Mathematics	-0.1524	0.4727 m^3	3038	1153	999	Human Computer Interaction	-0.8899	535	0.0562	-0.068
+1	1565 m^2	-0.3224	motor sports	Natural Language Processing	-2.5972	-0.2271 m^3	1282	1222	1272	Human Computer Interaction	-0.2153	442	0.3965	-1.2621
+0	2156 m^2	0.1566	basketball	Human Computer Interaction	0.2389	0.3878 m^3	600	-516	609	Games and Playable Media	0.728	425	0.8195	0.1798
+1	616 m^2	0.7741	boxing	Natural Language Processing	-0.0757	-0.2074 m^3	1138	344	-1015	Games and Playable Media	-0.5709	1210	0.2621	1.2611
+2	1775 m^2	1.2275	baseball	Technology and Information Management	0.8719	1.0486 m^3	-1700	1064	37	Natural Language Processing	-0.7167	1778	0.4089	0.4598
+2	1723 m^2	0.0018	baseball	Technology and Information Management	1.5273	0.9082 m^3	362	456	2022	Computer Game Design	1.4449	209	0.9568	0.9028
+6	796 m^2	1.0006	track & field	Biotechnology, Electrical Engineering	-0.32	0.74 m^3	29	-181	874	Computer Science	0.9911	-11	1.433	0.4816
+5	559 m^2	1.9469	ice hockey	Computer Engineering, Statistics	-0.117	-0.2317 m^3	-1367	-709	438	Computational Media	1.6347	186	-0.1328	1.0468
+4	1690 m^2	1.0428	motor sports	Data Science	1.7513	-0.3523 m^3	-1259	-334	588	Electrical Engineering	0.9955	207	0.7896	1.2198
+6	21 m^2	-0.9053	soccer	Electrical Engineering, Computer Science	0.4065	-0.3217 m^3	346	249	668	Computer Game Design	0.6387	859	1.4785	-0.079
+3	-1305 m^2	1.5652	track & field	Games and Playable Media	0.4582	1.026 m^3	-150	117	934	Bioengineering	1.0207	412	0.2058	1.3984
+3	514 m^2	-0.0517	tennis	Bioengineering	-0.5146	1.4275 m^3	-232	-1580	685	Bioengineering	-0.7418	660	-0.5208	-0.4403
+4	1044 m^2	0.4323	motor sports	Data Science	-0.2509	1.1374 m^3	1206	-1377	889	Bioinformatics	-0.2546	1006	0.2699	0.8422
+3	-35 m^2	1.1123	tennis	Games and Playable Media	0.5129	-0.0399 m^3	-684	-1430	2252	Bioengineering	0.1216	302	-0.7183	-0.5425
+6	210 m^2	None	SOCCER	Computer Science	0.1012	0.5966 m^3	-201	795	1415	Computer Science	1.5271	1762	1.1805	-0.5696
+2	-1291 m^2	-0.4074	volleyball	Computational Media		1.0331 m^3	-415	1212	517	Natural Language Processing	0.6553	954	0.8213	1.6799
+3	1943 m^2	-0.3064	track & field	Bioengineering	-0.8962	1.1739 m^3	-244	-238	363	Statistics	0.0163	1326	0.0639	0.1927
+0	-221 m^2	1.0875	motor sports	Human Computer Interaction	1.1082	1.006 m^3	674	816	1400	Games and Playable Media	-0.0759	-698	1.1737	0.5191
+4	-124 m^2	0.0472	motor sports	Data Science	-0.0189	0.5172 m^3	-1255	1920	587	Electrical Engineering	1.8128	440	0.0763	0.7921
+2	-665 m^2	0.6522	ice hockey	Technology and Information Management	-0.5071	-0.4511 m^3	-1444	487	1141	Natural Language Processing	0.8304	1223	0.0718	1.3427
+1	-1055 m^2	-0.1026	boxing	Natural Language Processing	-1.3556	-0.0487 m^3	2019	-35	1125	Games and Playable Media	0.6269	1631	1.496	0.2619
+0	565 m^2	0.3046	Running	Bioinformatics	0.6007	0.8317 m^3	-2106	-13	1487	Games and Playable Media	2.1019	902	1.8755	0.4133
+2	417 m^2	-1.1192	baseball	Technology and Information Management	-0.6533	0.3752 m^3	-1743	-87	-781	Natural Language Processing	0.8632	725	1.5851	1.248
+0	-246 m^2	-0.8303	football	rOBOTICS eNGINEERING, hUMAN cOMPUTER iNTERACTION	-0.0422	-0.5596 m^3	275	-1262	283	Games and Playable Media	0.507	-1807	0.1157	1.6602
+4	1028 m^2	0.4128	motor sports	Data Science	-0.1608	-0.544 m^3	-354	-161	-83	Applied Mathematics	1.8154	812	2.4195	1.3307
+1	-909 m^2	1.3721	badminton	Natural Language Processing	0.8676	1.4414 m^3	173	1075	214	Human Computer Interaction	0.3495	912	0.4201	0.6808
+4	674 m^2	0.0514	MOTOR SPORTS	Data Science	0.7033	1.1272 m^3	15	2255	-785	Applied Mathematics	0.7849	1006	1.4378	0.04
+0	-253 m^2	1.0858	running	Bioinformatics	1.5238	-0.0611 m^3	-578	-1257	226	Games and Playable Media	-0.5483	-481	2.262	-0.568
+5	666 m^2	0.432	golf	Computer Game Design, Computer Engineering	-0.9681	0.0415 m^3	NULL	-864	312	Computer Engineering	1.3913	-924	1.2953	1.0348
+5	-72 m^2	1.4018	ice hockey	Computer Engineering, Computer Game Design	0.9652	0.9785 m^3	625	1151	586	Robotics Engineering	1.3538	360	1.5724	0.0307
+2	1118 m^2	0.1558	baseball	Technology and Information Management	-0.5399	-0.7225 m^3	359	1129	848	Natural Language Processing	1.1837	1434	0.479	1.1687
+4	-459 m^2	-0.4901	motor sports	N/A	2.2463	0.0406 m^3	118	-1466	-478	Bioinformatics	-0.9292	587	0.0187	1.1313
+2	915 m^2	-0.9512	volleyball	Technology and Information Management	-0.3539	-1.5053 m^3	-365	345	-336	Natural Language Processing	0.2685	1540	0.4962	1.3692
+5	908 m^2	0.5309	ice hockey	Computer Game Design, Computer Engineering	-0.2092	0.0404 m^3	-821	1899	-514	Data Science	0.5301	944	0.3965	1.4528
+2	1932 m^2	-0.1766	baseball	Computational Media	0.1855	-0.4267 m^3	-585	-90	1455	Natural Language Processing	1.9819	1919	0.0634	0.3368
+4	8 m^2	-0.1564	MOTOR SPORTS	Data Science	0.1188	-0.3053 m^3	1111	1428	1590	Electrical Engineering	-0.1218	91	0.7263	1.6163
+5	-1018 m^2	1.5936	ice hockey	Computer Engineering, Statistics	-0.4601	2.525 m^3	1496	1026	966	Computer Engineering	1.2013	None	1.0026	0.5357
+1	527 m^2	-0.0165	badminton	Applied Mathematics	0.9095	-1.3026 m^3	783	236	87	Biotechnology	0.3693	2366	1.6703	1.2678
+4	527 m^2	0.3954	motor sports	Human Computer Interaction, Bioinformatics	0.0756	0.7429 m^3	1217	228	-362	Electrical Engineering	0.6716	-21	0.1983	1.1781
+6	818 m^2	-0.8483	soccer	Computer Science	0.8785	-0.5241 m^3	-251	-1506	425	Computer Science	0.2316	352	-0.0765	-0.2144
+0	-494 m^2	1.9427	football	Robotics Engineering, Human Computer Interaction	0.8838	1.0679 m^3	-904	-1601	1035	Games and Playable Media	1.9287	-122	0.5425	0.5256
+2	1466 m^2	0.3729	tennis	Technology and Information Management	0.7533	-0.4671 m^3	549	1288	1358	Natural Language Processing	1.9677	2	0.2024	-0.4474
+5	-471 m^2	-0.1627	ice hockey	Statistics, Computer Game Design	1.5949	0.5652 m^3	1850	931	801	Computer Engineering	0.41	269	0.0936	1.1667
+1	40 m^2	1.5429	boxing	Applied Mathematics	0.7002	0.6073 m^3	2468	-42	762	Technology and Information Management	1.1957	1363	0.8859	-0.8643
+3	1693 m^2	0.2912	tennis	Games and Playable Media	-0.3364	1.4612 m^3	612	1124	1223	STATISTICS	1.1369	-137	0.5592	-0.4111
+6	1361 m^2	0.0296	soccer	Computer Science, Biotechnology	-0.3312	2.2474 m^3	-728	1892	355	Bioinformatics	1.2651	318	1.0178	0.0744
+4	623 m^2	0.1691	motor sports	Data Science	0.1692	1.1747 m^3	-72	-8	-28	Bioinformatics	0.2986	582	0.2691	0.1892
+0	-733 m^2	-0.6333	basketball	Human Computer Interaction, Robotics Engineering	-0.1137	2.4235 m^3	83	1017	725	Games and Playable Media	1.0234	-862	1.2177	0.4108
+2	411 m^2	0.3314	soccer	Computational Media	-1.0615	0.163 m^3	724	1411	36	Natural Language Processing	0.6869	1172	1.7672	N/A
+6	1766 m^2	-0.5089	soccer	Biotechnology	0.6499	0.9868 m^3	2105	2390	429	Computer Science	0.4532	645	1.6108	0.1109
+1	2248 m^2	0.9224	boxing	Natural Language Processing	0.4666	0.0537 m^3	1311	70	1452	Human Computer Interaction	0.6315	-233	0.5357	0.0899
+4	-244 m^2	0.031	motor sports	DATA SCIENCE	-1.0851	0.665 m^3	1582	313	1184	Electrical Engineering	0.0678	245	0.249	-0.4393
+2	1390 m^2	0.6962	baseball	Technology and Information Management	1.2008	0.2531 m^3	-489	106	-1038	Natural Language Processing	-0.0043	964	1.3891	0.668
+0	-1124 m^2	-0.2815	running	Bioinformatics	2.3933	1.5343 m^3	185	-954	2446	Games and Playable Media	0.1787	-169	1.2753	1.033
+3	368 m^2	1.7848	tennis	Bioengineering	0.4543	1.8972 m^3	507	-667	485	Statistics	-0.2805	-93	-0.1655	1.1818
+0	558 m^2	0.5681	basketball	Bioinformatics	-1.2432	-0.083 m^3	1175	1798	992	Games and Playable Media	1.918	1175	1.7807	1.2266
+3	1113 m^2	0.5429	tennis	Bioengineering	0.4427	-0.2008 m^3	931	815	409	Bioengineering	-0.876	-536	-0.0854	0.0075
+3	512 m^2	0.8193	track & field	Games and Playable Media	0.4911	1.0498 m^3	-467	191	2092	Bioengineering	0.2232	160	0.6272	-0.5675
+5	754 m^2	0.9217	ice hockey	Computer Game Design, Statistics	-0.0382	0.4334 m^3	-1836	-142	1653	Computer Engineering	0.5163	-657	0.2375	1.6577
+3	1430 m^2	0.1711	tennis	Bioengineering	0.1062	1.858 m^3	1146	-408	914	Bioengineering	0.0908	7	-0.5766	1.3812
+1	-1313 m^2	0.8587	boxing	Applied Mathematics	0.4401	0.0773 m^3	1314	-359	-405	N/A	0.802	1553	0.0935	1.6512
+0	-979 m^2	0.236	running	Human Computer Interaction	1.9673	2.2584 m^3	1554	-1034	503	Games and Playable Media	0.4394	-447	-0.0162	0.1388
+2	1353 m^2	-0.0952	volleyball	Technology and Information Management	-0.3798	0.0005 m^3	296	1941	894	Natural Language Processing	0.9875	-59	1.9368	0.855
+1	321 m^2	0.346	boxing	Natural Language Processing	0.7881	-0.3959 m^3	1529	-576	196	Human Computer Interaction	0.4551	218	0.2339	1.1425
+0	-1099 m^2	0.6852	running	Human Computer Interaction, Robotics Engineering	-0.8878	-0.0212 m^3	-1032	1461	861	Applied Mathematics	0.5858	-12	0.7359	0.8137
+0	425 m^2	3.6512	basketball	Data Science	1.3238	1.111 m^3	-384	391	784	Games and Playable Media	-0.0579	-244	0.5632	-0.2611
+0	-472 m^2	0.2311	running	Robotics Engineering	-0.2518	1.4633 m^3	-760	650	1587	Games and Playable Media	-0.0174	-1609	0.8409	0.4018
+4	937 m^2	-0.2246	motor sports	Data Science	0.5884	1.0676 m^3	-1283	n/a	268	Bioinformatics	0.2762	2025	1.0244	0.9263
+1	296 m^2	0.1849	boxing	Natural Language Processing	1.7428	-0.0953 m^3	1705	338	1210	Biotechnology	-0.3966	139	0.6201	0.8465
+4	654 m^2	0.8403	motor sports	Data Science	0.4638	0.2626 m^3	-592	193	-1443	Bioinformatics	1.5983	-548	-1.0217	0.2868
+1	220 m^2		badminton	Natural Language Processing	0.5155	-2.2623 m^3	1428	563	-774	Human Computer Interaction	0.9604	418	0.8165	0.445
+0	-114 m^2	0.8345	basketball	Bioinformatics	0.3941	1.0667 m^3	-278	1125	1000	Games and Playable Media	0.4247	626	0.1927	-0.0565
+2	968 m^2	2.0119	baseball	Technology and Information Management	1.7891	0.7839 m^3	-501	-37	-263	Natural Language Processing	-1.4284	985	1.4117	-0.078
+2	None	-0.9182	volleyball	Computational Media	-0.8125	-1.0737 m^3	-1832	246	-215	Computer Science	0.5395	1992	0.5599	-0.687
+4	1259 m^2	1.2553	motor sports	Data Science	0.8815	0.2749 m^3	100	-411	-260	Bioinformatics	0.0007	-605	-0.0997	0.5478
+2	1222 m^2	0.8226	volleyball	computational media	0.1322	-0.0209 m^3	-956	-114	-112	Bioinformatics	0.6692	-249	0.7188	-0.4819
+2	1753 m^2	0.7357	baseball	Technology and Information Management	0.7894	0.6362 m^3	-882	1754	-78	Natural Language Processing	0.6616	940	1.7625	0.1784
+4	819 m^2	-1.2202	motor sports	Data Science	0.607	1.8305 m^3	645	1372	416	Bioinformatics	0.9985	441	0.1176	1.3725
+3	N/A	-0.32	track & field	Games and Playable Media	0.2542	0.7047 m^3	-241	1233	657	Statistics	-0.8267	1177	0.103	0.5601
+2	2203 m^2	0.3021	baseball	Technology and Information Management	-2.1674	-0.0964 m^3	-896	2296	456	Natural Language Processing	0.5443	635	0.6467	0.3347
+3	-1045 m^2	-0.1268	tennis	Games and Playable Media	0.4419	2.5177 m^3	750	-47	1864	Statistics	0.903	-250	0.991	0.0045
+2	898 m^2	1.5731		Robotics Engineering	-0.2171	0.5702 m^3	-1277	1698	165	Natural Language Processing	1.1184	719	0.0381	1.2896
+0	-760 m^2	0.0971	running	Human Computer Interaction	0.4169	1.802 m^3	290	-1429	1721	Games and Playable Media	1.3083	-707	1.0954	-0.0006
+3	419 m^2	-0.4524	track & field	Bioengineering	1.0221	0.7914 m^3	1518	n/a	513	Statistics	0.7042	343	0.3891	-1.1595
+1	243 m^2	1.2453	boxing	Natural Language Processing	1.3397	0.9716 m^3	793	1169	731	Games and Playable Media	-0.0236	906	0.9045	-1.6565
+1	-1954 m^2	1.9662	boxing	Applied Mathematics	1.6407	-0.7304 m^3	1964	-2153	-697	Human Computer Interaction	-0.6994	295	1.4332	-0.0855
+6	822 m^2	0.7115	golf	Games and Playable Media	0.3419	-0.095 m^3	1010	632	-422	Computer Game Design	0.8549	-728	?	0.0501
+4	368 m^2	0.9581	soccer	Data Science	1.0325	-1.3004 m^3	298	2027	-332	Technology and Information Management	1.7578	-1015	0.5069	0.0062
+0	906 m^2	0.5312	basketball	Human Computer Interaction, Robotics Engineering	1.8686	0.6052 m^3	-111	235	1273	games and playable media	0.0512	-1192	1.8435	-0.023
+2	15 m^2	-1.0913	volleyball	Computational Media	-0.4769	0.2416 m^3	-5	2251	37	Natural Language Processing	0.026	1669	0.3439	0.8388
+4	570 m^2	0.5925	motor sports	Data Science	1.4872	-1.3246 m^3	-108	844	987	Electrical Engineering	0.3596	600	0.8305	1.704
+3	-870 m^2	-0.239	tennis	Bioengineering	-0.5338	0.9037 m^3	-722	-194	-127	computer science	0.7555	559	1.6277	1.1359
+2	-187 m^2	1.6534	baseball	Technology and Information Management	-1.361	-0.191 m^3	-292	1746	157	Natural Language Processing	0.7211	525	1.2812	0.5003
+0	673 m^2	2.3703	basketball	Bioinformatics	0.636	-0.4297 m^3	-314	-413	1152	Games and Playable Media	1.2328	-57	0.7934	1.3158
+6	2075 m^2	2.0009	soccer	Electrical Engineering	-0.3311	1.723 m^3	768	667	-1808	?	1.3697	-950	0.0048	-0.1311
+6	1802 m^2	0.8909	soccer	Computer Science, Biotechnology	0.9918	2.628 m^3	684	2131	915	Computer Science	-0.5692	-410	-0.2955	-0.3241
+0	574 m^2	2.4581	football	Bioinformatics	1.4374	0.4285 m^3	537	435	120	Computer Engineering	1.1287	-1186	1.4156	0.2985
+3	1236 m^2	0.3894	tennis	Games and Playable Media	-1.0766	1.1877 m^3	1540	-540	706	Bioengineering	0.89	267	0.4885	1.622
+4	1343 m^2	0.7679	motor sports	Data Science	-0.3252	-0.4943 m^3	366	1564	492	Applied Mathematics	0.3878	827	0.6027	0.8744
+0	-455 m^2	0.0347	football	Robotics Engineering, Human Computer Interaction	-0.281	0.6856 m^3	136	-463	1141	Games and Playable Media	1.0679	435	1.3819	0.8181
+1	-648 m^2	-0.4897	badminton	natural language processing	0.7953	0.3549 m^3	654	-1112	333	Human Computer Interaction	1.1486	1666	-0.0531	0.8992
+2	858 m^2	0.2962	volleyball	Computational Media	0.1542	-0.6506 m^3	816	2027	502	Natural Language Processing	0.0609	-395	-0.4305	0.6869
+0	-530 m^2	2.4594	basketball	Robotics Engineering, Human Computer Interaction	-1.255	0.4836 m^3	1541	-1742	1196	Games and Playable Media	-0.6073	150	1.6826	0.9785
+4	391 m^2	1.0471	motor sports	Data Science	1.714	-0.3726 m^3	128	-1057	-951	Applied Mathematics	0.4657	565	2.1559	0.6419
+6	570 m^2	-0.6029	soccer	Biotechnology	0.4324	1.1934 m^3	1049	-163	749	Computer Game Design	N/A	638	0.5933	-0.7809
+1	-1281 m^2	0.5034	badminton	Natural Language Processing	-1.0897	-0.0543 m^3	184	273	745	BIOTECHNOLOGY	0.8732	706	0.0086	1.555
+3	709 m^2	-0.6078	track & field	Games and Playable Media	0.7212	-0.7299 m^3	-352	-95	988	Bioengineering	0.5084	-17	0.6664	-0.1057
+0	745 m^2	0.7865	basketball	Human Computer Interaction	-0.5358	-0.9344 m^3	1401	-1147	-158	Games and Playable Media	0.6814	-779	-0.1515	2.7208
+6	237 m^2	-0.2686	soccer	Biotechnology	1.2788	0.3486 m^3	-1425	1005	-1414	Computer Game Design	-0.0589	176	0.7981	0.5556
+4	1115 m^2	-0.5769	motor sports	Data Science	0.8024	0.1026 m^3	235	-1502	-340	Bioinformatics	-0.0955	473	1.9701	1.1445
+3	1518 m^2		tennis	Games and Playable Media	-0.1412	-0.2794 m^3	785	-186	478	?	0.4744	904	0.6715	-1.2475
+1	-74 m^2	0.5709	badminton	Applied Mathematics	-0.0808	-0.2528 m^3	92	-193	495	Human Computer Interaction	-0.413	464	0.5593	-0.7538
+3	259 m^2	1.1373	tennis	Games and Playable Media	1.6838	-0.5478 m^3	499	2104	884	Statistics	0.9857		0.1216	-0.5537
+1	553 m^2	0.6273	boxing	Applied Mathematics	0.4454	-1.0863 m^3	780	-778	891	Technology and Information Management	2.3205	662	1.2408	0.709
+0	610 m^2	0.7718	running	Robotics Engineering, Human Computer Interaction	1.0263	-0.3009 m^3	-690	-428	833	Games and Playable Media	0.5917	948	0.8761	1.0459
+4	1165 m^2	1.4031	motor sports	Data Science	0.8637	-0.0987 m^3	779	-1099	-936	Applied Mathematics	1.911	905	0.0996	0.042
+5	-600 m^2	1.3324	ice hockey	Computer Engineering	?	1.3145 m^3	1138	519	736	cOMPUTER eNGINEERING	1.5413	1504	0.9692	0.3159
+2	1987 m^2	1.4445	baseball	Statistics, Computer Game Design	0.1204	0.1565 m^3	-1505	209	462	nATURAL lANGUAGE pROCESSING	0.4546	-419	-0.0738	-0.3465
+3	-4 m^2	0.4759	tennis	Games and Playable Media	-0.0236	1.3901 m^3	156	-1336	1923	Statistics	0.7835	292	1.5217	-0.7841
+5	175 m^2	0.9371	ice hockey	Computer Game Design, Computer Engineering	0.3156	0.7204 m^3	-498	-1321	160	Robotics Engineering	-0.3457	1379	1.0929	0.6846
+2	1231 m^2	0.1829	volleyball	Technology and Information Management	0.5405	-0.0055 m^3	-1229	721	-986	Natural Language Processing	1.3189	1534	0.3547	1.2327
+3	993 m^2	-0.021	tennis	Games and Playable Media	1.0641	0.5136 m^3	-1237	1348	443	Bioengineering	1.0654	35	1.9574	0.7557
+1	521 m^2	-0.3053	boxing	Natural Language Processing	-0.9112	-0.2239 m^3	1452	390	1191	bIOTECHNOLOGY	0.684	-435	1.7812	1.1843
+6	220 m^2	-0.6605	SOCCER	Electrical Engineering	0.2806	0.9356 m^3	-807	677	34	Computer Game Design	0.2309	-138	1.4352	-0.2481
+4	718 m^2	-0.255	motor sports	Data Science	-0.1991	-0.6766 m^3	-156	-561	-954	Electrical Engineering	-0.2076	636	0.2687	1.3929
+3	-494 m^2	-0.5433	tennis	Bioengineering	0.4566	NULL	998	-1253	2533	Bioengineering	0.4594	382	-0.3355	-0.9154
+2	547 m^2	-0.2352	baseball	TECHNOLOGY AND INFORMATION MANAGEMENT	0.4764	0.6764 m^3	676	1903	503	Natural Language Processing	0.0315	393	1.334	0.2524
+5	176 m^2	-0.5666	ice hockey	Statistics	1.282	0.6339 m^3	-1097	-131	?	Data Science	1.0834	-316	0.9347	0.7564
+0	-503 m^2	1.6027	football	Bioinformatics	1.1724	0.3872 m^3	-1072	-288	2008	Games and Playable Media	1.0384	249	0.3015	0.3988
+3	1692 m^2	0.0113	tennis	Bioengineering	-0.4315	0.6634 m^3	-1839	468	526	Statistics	-0.1909	-743	0.0789	0.6473
+5	-1563 m^2	-0.3259	golf	Computer Engineering	1.1311	0.5024 m^3	1440	-746	1065	Computer Engineering	-0.2476	-922	0.655	2.4331
+0	1123 m^2	1.2018	Basketball	Human Computer Interaction	0.3361	-0.0013 m^3	-234	474	2377	Games and Playable Media	1.4782	11	3.1278	-0.5435
+3	1180 m^2	0.8934	motor sports	Games and Playable Media	-0.5489	1.3681 m^3	1114	423	-438	Technology and Information Management	0.7006	-433	-0.0439	0.2795
+0	363 m^2	1.3944	running	Robotics Engineering, Human Computer Interaction	-0.3704	0.1205 m^3	-556	2199	1233	Games and Playable Media	-0.0347	234	1.0752	0.5569
+6	652 m^2	0.7572	soccer	Computer Science, Biotechnology	-1.0601	1.2617 m^3	-1292	-1063	1287	Computer Game Design	0.2595	-725	0.3393	-0.9154
+5	266 m^2	0.3214	ice hockey	Computer Game Design	2.1097	-1.8845 m^3	1040	108	664	Data Science	0.9844	79	0.2245	0.341
+0	-158 m^2	1.031	basketball	Bioinformatics	0.4649	1.3095 m^3	849	-392	-334	Games and Playable Media	0.7635	138	0.9564	1.7041
+2	-509 m^2	1.3471	volleyball	Technology and Information Management	-1.2426	-0.2616 m^3	317	138	-90	NATURAL LANGUAGE PROCESSING	1.0277	1928	0.6006	-0.1407
+2	533 m^2	0.7074	volleyball	Computational Media	0.3113	0.1412 m^3	145	1442	177	Natural Language Processing	-0.1208	405	0.5371	1.4609
+6	1143 m^2	0.9171	soccer	Electrical Engineering, Biotechnology	0.5854	-1.3654 m^3	-2132	889	7	Computer Game Design	1.5887	326	0.2116	0.0902
+2	1207 m^2	0.2064	baseball	Technology and Information Management	0.5077	0.0568 m^3	99	1996	-405	Natural Language Processing	0.4676	511	1.9275	-0.5932
+3	93 m^2	-0.7875	track & field	Bioengineering	-0.7831	0.0318 m^3	-13	562	N/A	Bioengineering	0.062	-301	-0.8064	0.6849
+6	354 m^2	0.405	Soccer	Biotechnology	-0.0129	0.1672 m^3	-535	-381	-310	Computer Game Design	1.3305	-209	1.1041	-0.6628
+5	-131 m^2	-0.1481	ice hockey	Statistics	0.1924	-0.8656 m^3	-967	1198	1105	Computer Engineering	1.331	275	0.7381	1.7583
+3	-392 m^2	1.124	track & field	Games and Playable Media	-0.245	-0.76 m^3	1190	1227	30	Bioengineering	0.4314	-281	0.3237	-0.9643
+2	467 m^2	0.7642	baseball	Computational Media	-0.7029	0.1358 m^3	8	1207	-170	Natural Language Processing	-0.053	851	-0.7219	0.3246
+0	-830 m^2	2.3905	basketball	Bioinformatics, Human Computer Interaction	-1.2936	0.3519 m^3	1307	-762	910	Games and Playable Media	0.657	623	1.3017	-0.6348
+3	1226 m^2	1.4244	tennis	Games and Playable Media	0.1755	0.1328 m^3	744	-375	149	Statistics	0.6322	451	0.6549	0.0317
+4	1964 m^2	0.6978	motor sports	Data Science	0.527	-0.5339 m^3	2168	1684	539	Electrical Engineering	1.6596	1939	1.4634	1.2268
+6	1342 m^2	0.0328	soccer	Computer Science	-0.1441	1.1631 m^3	361	2602	1278	Computer Game Design	-0.0011	-639	1.3683	0.5542
+5	745 m^2	1.1911	golf	COMPUTER ENGINEERING, COMPUTER GAME DESIGN	-1.0767	1.453 m^3	-260	250	-605	Robotics Engineering	0.4158	126	1.0869	1.9778
+4	1116 m^2	0.7229	motor sports	Data Science	-0.7275	-0.4332 m^3	-1070	-757	689	Electrical Engineering	0.3366	-34	0.0999	0.2885
+0	-25 m^2	-1.7133	football	Robotics Engineering, Human Computer Interaction	0.5587	2.0198 m^3	-500	289	-506	Games and Playable Media	-0.0272	-200	-0.6872	0.6708
+2	291 m^2	0.6825	baseball	Computational Media	0.2345	-0.4406 m^3	-861	-146	387	Natural Language Processing	0.5914	-1179	2.1137	0.5332
+1	-134 m^2	0.3371	badminton	Applied Mathematics	-0.2864	-0.0268 m^3	1817	302	1139	Human Computer Interaction	-0.9934	1340	0.7391	-0.1202
+2	726 m^2	-1.8168	volleyball	Computational Media	-0.302	0.3708 m^3	498	350	1373	Natural Language Processing	0.2693	814	0.8016	0.5547
+4	389 m^2	0.7706	motor sports	Data Science	0.523	0.1682 m^3	-390	-719	645	Games and Playable Media	1.899	1397	0.721	0.6759
+6	1662 m^2	1.9445	soccer	Electrical Engineering	2.3834	0.9058 m^3	683	1446	894	Computer Science	0.3649	481	0.9845	-0.3
+2	-604 m^2	1.4249	baseball	Computational Media	0.5407	-0.6718 m^3	-958	1799	61	Natural Language Processing	-0.1954	735	0.4218	0.4175
+0	-211 m^2	2.2038	basketball	Human Computer Interaction	-0.7856	0.8254 m^3	925	1082	403	Games and Playable Media	0.4919	-430	0.692	0.2413
+4	249 m^2	0.1947	motor sports	data science	0.8313	0.4902 m^3	1042	-447	1265	Statistics	1.3274	895	0.0643	0.9452
+4	982 m^2	2.3099	motor sports	Data Science	-0.2692	-0.956 m^3	-750	263	-265	Electrical Engineering	0.7047	-181	0.8781	0.6425
+6	1930 m^2	0.1225	soccer	Electrical Engineering	0.8508	2.0075 m^3	1398	1219	91	Computer Science	1.434	-761	0.5036	NULL
+1	-263 m^2	2.7845	badminton	Applied Mathematics	1.2304	-1.0015 m^3	1362	-1104	1538	biotechnology	1.1003	-19	0.9732	-0.0926
+6	-1248 m^2	0.3224	soccer	Biotechnology, Electrical Engineering	-0.679	1.7379 m^3	-1264	1075	-486	Computer Science	1.3396	-389	0.9798	0.8005
+2	479 m^2	0.0266	volleyball	Computational Media	1.1089	-1.4102 m^3	-334	2022	375	Natural Language Processing	0.297	75	1.3875	0.9093
+3	875 m^2	0.4063	tennis	Games and Playable Media	-0.6111	-0.1019 m^3	1687	-30	1199	bioengineering	0.5547	-1047	0.8199	0.8789
+3	1287 m^2	-0.661	soccer	Bioengineering	1.1242	1.2393 m^3	-706	963	1504	Bioengineering	1.2737	-405	1.5134	0.6921
+1	-244 m^2	1.2655	badminton	Natural Language Processing	0.1067	-0.3828 m^3	1710	-652	-73	Technology and Information Management	1.3611	411	0.6074	0.6022
+0	-1783 m^2	2.4214	football	NULL	0.8635	-0.3397 m^3	1452	32	1495	Games and Playable Media	0.1053	-930	0.7129	-0.3178
+2	-36 m^2	-0.2413	volleyball	Technology and Information Management	0.5387	-0.4676 m^3	818	967	-559	Natural Language Processing	0.4094	76	1.345	0.9929
+6	-1174 m^2	-0.6081	soccer	Biotechnology	-0.2096	0.9306 m^3	-769	-364	-477	Computer Science	-0.4649	754	0.943	-0.0714
+4	201 m^2	-0.2503	motor sports	Data Science	0.3384	-0.4387 m^3	535	-1300	-818	Applied Mathematics	0.4155	-280	0.0816	1.4142
+6	1466 m^2	0.2307	soccer	Biotechnology, Computer Science	0.356	0.5657 m^3	1080	1602	-1127	Computer Game Design	0.2969	60	0.4444	-0.274
+4	603 m^2	0.0621	motor sports	DATA SCIENCE	0.8205	-0.4009 m^3	-664	695	387	Electrical Engineering	0.8142	285	1.0583	2.5327
+2	587 m^2	1.2719	baseball	Computational Media	0.7084	0.675 m^3	1163	-56	397	Natural Language Processing	-0.1765	1995	-0.0223	-0.2774
+3	114 m^2	0.4138	track & field	Games and Playable Media	0.8824	-0.3594 m^3	651	-980	63	Statistics	0.6142	13	1.1871	1.5536
+4	1170 m^2	1.2707	motor sports	Data Science	-0.2052	-0.2407 m^3	-1092	-1355	392	Electrical Engineering	1.3781	559	-0.078	0.8496
+1	-943 m^2	1.5919	badminton	Applied Mathematics	0.2012	0.9359 m^3	2626	444	1301	Human Computer Interaction	-0.5559	-176	2.3928	0.226
+3	-465 m^2	0.9364	tennis	Games and Playable Media	0.464	0.4324 m^3	998	1670	1184	Bioengineering	0.2521	-910	0.3991	0.6718
+1	-1186 m^2	2.8284	badminton	Applied Mathematics	0.4091	1.0323 m^3	2961	-604	477	Biotechnology	-0.4457	854	1.5142	-0.4136
+4	777 m^2	1.3965	motor sports	Data Science	-0.0101	0.2939 m^3	791	107	247	Electrical Engineering	0.8791	820	0.2407	1.071
+2	1134 m^2	0.9909	volleyball	Technology and Information Management	1.5005	-0.6786 m^3	20	1937	-698	Natural Language Processing	0.2975	-392	0.5641	2.0873
+6	1217 m^2	2.3623	soccer	Robotics Engineering	-0.1881	1.2081 m^3	67	1349	-110	Computer Science	0.4621	700	0.3705	0.5199
+6	1096 m^2	None	soccer	Biotechnology, Electrical Engineering	0.2246	-0.8335 m^3	593	306	1125	Computer Science	-0.0762	-832	-0.1102	0.6146
+2	352 m^2	0.6169	baseball	Computational Media	0.0539	-0.9685 m^3	-76	937	168	Natural Language Processing	0.7951	180	0.2037	0.5057
+5	-1391 m^2	0.207	ice hockey	Computer Game Design	1.3089	1.2804 m^3	-1253	443	1331	Data Science	0.4939	-365	-1.1606	-0.224
+0	805 m^2	0.798	football	Human Computer Interaction, Bioinformatics	0.78	1.014 m^3	1195	-58	823	Games and Playable Media	0.6861	638	1.1285	-0.6151
+3	690 m^2	0.6559	TENNIS	Bioengineering	0.0992	0.9687 m^3	1646	-2028	2445	Statistics	1.0395	582	0.57	0.9582
+5	281 m^2	0.0346	golf	Computer Engineering	0.4528	-0.2935 m^3	482	-1256	-650	Data Science	0.5434	-645	1.2384	1.6418
+5	153 m^2	0.2776	ice hockey	Computer Game Design, Computer Engineering	0.6442	0.7554 m^3	917	-582	1287	Data Science	-0.0625	311	0.6334	0.2903
+2	1800 m^2	-0.3189	volleyball	Technology and Information Management	0.1398	0.3281 m^3	-1364	2203	1505	Computer Science	-0.266	533	0.1727	1.6384
+3	793 m^2	-0.9611	track & field	Bioengineering	-0.2727	1.5275 m^3	-316	-1281	1415	Bioengineering	-0.5896	-496	0.3868	-0.3741
+4	2270 m^2	-0.0015	motor sports	Data Science	-0.3089	N/A	723	258	115	Electrical Engineering	2.5283	536	1.5621	0.4724
+1	-537 m^2	0.6363	boxing	Applied Mathematics	1.3314	0.605 m^3	2211	7	1314	Technology and Information Management	-0.0156	576	-0.1738	-0.5433
+6	1001 m^2	-1.2214	soccer	Electrical Engineering	-0.2589	-0.2696 m^3	1034	377	511	Computer Science	0.245	1296	1.3461	-0.211
+3	-881 m^2	0.7496	tennis	Bioengineering	1.1399	-0.4305 m^3	-508	-995	1401	Bioengineering	-0.5834	-60	-0.7733	0.5182
+0	98 m^2	1.4828	football	?	2.4202	-0.3022 m^3	-358	658	-34	Games and Playable Media	-0.0639	166	0.7907	0.3955
+4	892 m^2	-0.0252	track & field	Data Science	-0.9903	-0.0991 m^3	125	689	471	Bioinformatics	-0.1233	-181	1.7244	0.5583
+3	-1480 m^2	1.4872	tennis	Bioengineering	1.831	-0.4776 m^3	726	-318	-105	Statistics	0.5892	1344	1.4428	-0.1648
+0	348 m^2	1.3277	running	Human Computer Interaction	1.2071	1.0715 m^3	-1210	-858	1097	Games and Playable Media	-0.6382	-663	0.4377	1.2908
+3	411 m^2	-0.5914	tennis	bioengineering	-0.8928	-0.4977 m^3	-128	2598	219	Statistics	1.477	-21	None	-0.6581
+4	437 m^2	1.2558	motor sports	Data Science	0.6268	-0.9104 m^3	846	-1108	898	Electrical Engineering	1.4338	603	-0.0775	0.8696
+4	198 m^2	0.0373	motor sports	Data Science	-0.0299	1.7978 m^3	-408	1088	802	Applied Mathematics	0.182	2936	0.3292	0.4398
+4	831 m^2	0.1919	motor sports	Data Science	-0.2498	0.8818 m^3	-552	858	871	Electrical Engineering	-0.3772	722	0.7952	0.7528
+5	368 m^2	-0.9917	ice hockey	Computer Engineering	0.1651	1.0141 m^3	718	-351	55	Computer Engineering	1.7484	658	1.2378	2.3218
+6	1022 m^2	0.0997	soccer	Electrical Engineering, Biotechnology	-0.1748	1.8992 m^3	1524	460	-441	dATA sCIENCE	-0.2649	-93	1.0939	0.8004
+1	-2090 m^2	None	badminton	Natural Language Processing	0.5667	0.3085 m^3	552	NULL	1505	Technology and Information Management	0.0886	963	1.0832	0.851
+5	441 m^2	0.0869	golf	n/a	1.0733	-0.059 m^3	-1474	-605	1199	Computer Engineering	0.1596	191	0.308	1.9907
+6	160 m^2	0.438	motor sports	Electrical Engineering, Computer Science	0.1835	1.2951 m^3	-385	1296	261	Computer Game Design	-0.0917	285	0.3863	-0.1652
+3	377 m^2	0.5333	track & field	Games and Playable Media	1.1726	0.5268 m^3	979	695	1980	Bioengineering	1.4577	-349	1.0561	-0.5799
+0	None	2.5059	basketball	Bioinformatics	-1.2699	2.3499 m^3	-769	-1585	517	Games and Playable Media	1.1892	1670	0.4883	1.355
+6	253 m^2	0.1006	football	Computer Science	2.5467	2.2961 m^3	-1683	-232	-273	Computer Science	0.0692	-16	0.1254	0.3897
+4	1748 m^2	0.994	tennis	Data Science	1.2004	0.355 m^3	2089	-161	-453	Bioinformatics	1.1358	63	0.1909	0.1619
+6	1453 m^2	1.4653	soccer	Biotechnology, Electrical Engineering	0.7916	2.6738 m^3	-476	320	823	Computer Game Design	0.9791	-405	0.7329	1.1157
+5	1276 m^2	0.6864	golf	Statistics	0.0187	1.7272 m^3	230		475	Computational Media	0.5289	-638	0.5833	2.6648
+3	867 m^2	-1.3728	tennis	Games and Playable Media	-0.3693	-0.0222 m^3	222	421	1037	Bioengineering	-0.7563	450	1.3678	1.4438
+3	1213 m^2	-0.9541	motor sports	Bioengineering	-0.2166	-0.0823 m^3	1805	1205	667	Bioengineering	1.8164	-646	0.4675	-0.2103
+1	-468 m^2	0.75	badminton	Applied Mathematics	-1.5999	1.0579 m^3	1400	-1027	2299	Technology and Information Management	-0.1993	1050	0.1042	-0.0538
+1	108 m^2	0.0375	badminton	Natural Language Processing	0.6764	-0.7785 m^3	2332	-5	77	Human Computer Interaction	1.5454	1481	1.252	-0.9144
+5	-304 m^2	-0.0498	ice hockey	Computer Engineering	-0.3291	0.4331 m^3	-33	-395	1751	Data Science	0.4122	-1183	0.9912	0.8225
+5	-65 m^2	1.0684	ice hockey	Computer Game Design	0.1703	1.2873 m^3	904	-9	82	Computer Engineering	0.5457	436	1.0659	0.7796
+0	-1111 m^2	1.1796	football	Robotics Engineering, Human Computer Interaction	0.3571	-0.0749 m^3	-773	12	1644	Games and Playable Media	0.5029	43	2.6145	0.534
+3	1851 m^2	-1.5162	TENNIS	Games and Playable Media	-0.9735	0.4022 m^3	1118	-1064	1056	Bioengineering	-0.7984	339	1.5567	-0.6218
+0	-803 m^2	0.9948	running	Bioinformatics	1.6276	-0.7482 m^3	-976	-642	697	Games and Playable Media	0.8968	604	0.623	0.7155
+2	-1 m^2	0.2108	volleyball	Technology and Information Management	1.7881	0.5759 m^3	533	1023	995	Natural Language Processing	0.639	838	0.0939	0.7763
+4	766 m^2	-0.3666	running	Computer Game Design, Computer Engineering	0.9888	0.9231 m^3	264	-1386	775	Electrical Engineering	1.134	80	0.5093	0.5858
+1	636 m^2	1.2194	boxing	Natural Language Processing	-0.5024	1.1103 m^3	2881	-181	1829	Human Computer Interaction	0.1032	-777	0.7133	-0.1398
+3	-761 m^2	0.1988	track & field	Bioengineering	-0.0198	0.0396 m^3	707	-1452	-153	Statistics	0.3175	-592	0.8791	-1.4164
+4	283 m^2	0.0255	motor sports	Data Science	1.2699	0.8415 m^3	859	83	-537	aPPLIED mATHEMATICS	1.5054	1938	-0.377	0.0093
+0	320 m^2	0.8826	basketball	Bioinformatics, Human Computer Interaction	2.2006	0.3663 m^3	253	-1021	1184	Statistics	-0.446	-131	1.9474	0.9107
+2	-254 m^2	-0.8547	volleyball	Technology and Information Management	-0.1562	0.943 m^3	782	2107	1234	Natural Language Processing	1.3066	417	1.5318	0.9258
+5	-426 m^2	0.6115	ice hockey	Computer Game Design, Computer Engineering	1.0436	0.7257 m^3	863	320	-140	Technology and Information Management	1.4705	-1330	0.3477	1.264
+2	930 m^2	-1.3884	baseball	Computational Media	0.8501	-0.5961 m^3	273	716	33	nATURAL lANGUAGE pROCESSING	0.7709	?	0.8802	-0.9778
+2	751 m^2	0.5693	baseball	Computational Media	0.2157	-0.2146 m^3	209	647	10	Natural Language Processing	1.4944	209	1.1386	-0.3422
+0	-556 m^2	1.8459	running	Human Computer Interaction, Robotics Engineering	0.6469	0.9935 m^3	-1659	-2042	1988	Games and Playable Media	-0.6983	699	-0.4784	0.7883
+5	-848 m^2	-1.0581	motor sports	Statistics, Computer Game Design	0.6141	-0.6881 m^3	733	840	1425	Computational Media	1.648	730	0.4408	1.0078
+5	460 m^2	0.054	ice hockey	Computer Engineering	-0.2398	-0.5532 m^3	1303	648	800	Computer Engineering	0.3221	980	0.5629	1.1632
+4	349 m^2	0.3805	MOTOR SPORTS	Data Science	0.8655	0.1804 m^3	184	-1361	-887	Electrical Engineering	0.7428	81	-0.051	-0.4864
+2	1830 m^2	-0.2689	baseball	Computational Media	-0.5347	1.8923 m^3	-404	787	-696	NATURAL LANGUAGE PROCESSING	0.0285	1212	0.6101	0.5694
+6	963 m^2	0.8561	soccer	Computer Science, Electrical Engineering	1.134	1.1652 m^3	336	882	-126	None	0.3173	152	1.9682	-2.462
+2	1558 m^2	0.3929	volleyball	Technology and Information Management	1.3411	0.3375 m^3	910	2771	58	Natural Language Processing	-0.0148	1610	-0.6825	-0.8061
+6	746 m^2	0.4955	soccer	Electrical Engineering	0.2566	1.4477 m^3	115	646	87	Computer Game Design	1.0035	-106	0.4587	1.1059
+3	-517 m^2	0.0828	track & field	data science	0.1192	0.2591 m^3	1349	206	821	Bioengineering	0.1184	-664	1.5345	0.35
+2	1343 m^2	-0.0949	volleyball	Technology and Information Management	0.6222	-0.4803 m^3	-257	1870	1516	Natural Language Processing	0.3751	349	1.3723	1.1794
+6	1415 m^2	0.1691	soccer	Electrical Engineering, Biotechnology	1.0745	1.7269 m^3	1447	200	319	Computer Game Design	-0.7884	1129	0.0789	0.2711
+2	1225 m^2	0.5049	baseball	Technology and Information Management	0.7263	0.4814 m^3	-934	2237	-542	Natural Language Processing	0.2873	404		0.109
+0	-909 m^2	0.0282	football	Bioinformatics, Robotics Engineering	-1.0826	0.0919 m^3	1071	991	1612	Games and Playable Media	1.4622	-435	2.0714	1.2183
+5	197 m^2	-0.5714	ice hockey	Statistics, Computer Game Design	0.7635	-0.0808 m^3	55	1557	320	Computational Media	0.1805	-876	1.9861	0.5556
+4	847 m^2	-1.0432	NULL	Data Science	0.4905	0.3182 m^3	233	-112	414	Applied Mathematics	1.4586	1235	0.5563	0.354
+1	35 m^2	-0.0047	badminton	Applied Mathematics	2.3583	-1.3898 m^3	398	-67	875	Human Computer Interaction	-0.1819	-463	0.9701	1.4624
+1	-462 m^2	1.1941	boxing	Applied Mathematics	0.6595	-0.1968 m^3	1204	-378	286	Biotechnology	0.7039	1543	1.7782	0.4781
+4	283 m^2	1.0746	motor sports	Data Science	0.1556	-0.4104 m^3	-157	-1047	163	Bioinformatics	0.6285	220	0.3708	0.9139
+3	166 m^2	-0.0807	track & field	Games and Playable Media	0.3717	0.5719 m^3	514	688	1122	Bioengineering	-0.5494	313	0.2032	0.1092
+0	-768 m^2	1.2975	basketball	Robotics Engineering	-0.0388	-0.2783 m^3	536	595	79	Games and Playable Media	-0.1428	970	0.2064	1.1227
+0	973 m^2	0.7999	basketball	HUMAN COMPUTER INTERACTION	1.1574	-2.1549 m^3	-815	1559	1251	Games and Playable Media	0.9762	294	0.9219	0.9342
+0	-561 m^2	-0.9687	basketball	Robotics Engineering	2.3138	0.4379 m^3	-43	-86	820	Games and Playable Media	0.3465	251	2.1918	-0.8423
+5	1490 m^2	-0.165	ice hockey	Statistics	0.2519	0.4608 m^3	-316	-326	464	Robotics Engineering	0.1845	422	0.4678	0.4527
+0	139 m^2	0.7287	running	Bioinformatics	0.2295	0.0977 m^3	410	-723	685	Games and Playable Media	2.7536	-1524	1.9715	-0.5962
+1	-405 m^2	-0.7474	boxing	Applied Mathematics	-0.4151	1.4411 m^3	288	149	793	Applied Mathematics	-0.9398	247	NULL	-1.2992
+4	685 m^2	1.0302	motor sports	Data Science	0.3588	1.0866 m^3	67	1303	396	Bioinformatics	1.0744	-982	0.2035	0.3258
+2	1301 m^2	-0.4079	volleyball	Computational Media	0.9398	-0.9196 m^3	-1286	N/A	360	Natural Language Processing	1.0776	1085	1.652	-0.6049
+6	362 m^2	0.3752	soccer	Electrical Engineering	1.273	0.6711 m^3	-369	59	758	Computer Science	0.2161	1345	-0.3983	0.2583
+5	-244 m^2	-0.1981	None	Computer Engineering, Statistics	0.1419	-0.0661 m^3	1984	-305	1308	Computational Media	0.9214	-1178	1.0056	0.7243
+5	-1248 m^2	2.0477	golf	Statistics, Computer Engineering	0.027	0.4588 m^3	-1877	386	1200	Data Science	0.3118	810	0.2421	0.2376
+5	-393 m^2	0.7341	ice hockey	Computer Game Design, Computer Engineering	-1.1477	1.6165 m^3	-291	-937	1437	Computer Engineering	-0.6745	-78	0.6096	1.1511
+0	-150 m^2	0.6831	running	Robotics Engineering	0.6203	0.7356 m^3	-9	1713	589	Games and Playable Media	0.4833	1370	0.4258	n/a
+2	125 m^2	-0.1264	volleyball	Technology and Information Management	2.1396	-0.0207 m^3	-76	1386	83	Natural Language Processing	0.3735	2577	-0.1901	1.4981
+3	-943 m^2	-1.1601	tennis	Bioengineering	-1.3571	0.6033 m^3	895	-1126	3203	Statistics	0.853	-201	1.8128	0.5409
+2	1115 m^2	1.5692	volleyball	Computational Media	0.4208	-1.1233 m^3	833	1897	167	Natural Language Processing	-0.0435	328	0.5805	1.8304
+3	1155 m^2	1.0735	track & field	Bioengineering	0.5218	1.9724 m^3	-820	308	1655	Statistics	-0.6316	321	0.3655	1.3009
+1	933 m^2	2.0343	boxing	Applied Mathematics	-0.0035	-1.2156 m^3	736	2249	1169	Technology and Information Management	1.0601	286	1.655	1.2183
+6	-382 m^2	-0.7871	soccer	Electrical Engineering	0.0077	1.0312 m^3	232	118	-320	Computer Science	0.0541	36	-0.9517	-1.1352
+3	161 m^2	-0.0852	Tennis	Games and Playable Media	-1.5703	0.6316 m^3	-128	57	482	Statistics	-0.5984	641	0.1297	-1.2394
+3	-315 m^2	1.2531	tennis	Bioengineering	0.2952	0.5464 m^3	1120	242	-915	bIOENGINEERING	1.2409	-149	-0.3763	2.0879
+6	946 m^2	0.2791	soccer	Computer Science, Electrical Engineering	-0.0073	-0.6331 m^3	982	1288	-620	computer game design	0.1141	39	1.6603	2.0011
+6	1308 m^2	1.2856	soccer	Biotechnology, Computer Science	0.1104	-0.5496 m^3	1499	312	875	Computer Science	1.242	-774	0.3869	0.6646
+4	1984 m^2	-0.9172	motor sports	Data Science	0.6553	0.4984 m^3	-385	684	625	Electrical Engineering	0.1001	138	1.2197	0.945
+0	24 m^2	1.7612	basketball	Robotics Engineering, Human Computer Interaction	0.6599	0.3543 m^3	-1014	-434	537	Games and Playable Media	0.207	-1098	1.8845	1.7821
+0	-2018 m^2	0.9339	football	Bioinformatics, Robotics Engineering	1.4528	0.4433 m^3	-601	1884	871	Games and Playable Media	1.2169	96	1.0057	0.9307
+4	-493 m^2	0.77	motor sports	Data Science	1.12	-0.2047 m^3	1277	622	142	Bioinformatics	-0.2313	1618	0.6929	-1.1598
+5	-274 m^2	1.0654	ice hockey	Statistics	0.2704	-0.2742 m^3	-249	-950	1645	N/A	1.3779	37	0.262	0.313
+0	1106 m^2	0.7614	basketball	Bioinformatics, Robotics Engineering	0.4939	0.8935 m^3	-785	-342	515	Games and Playable Media	1.228	484	0.0414	0.798
+6	1260 m^2	0.9855	SOCCER	Electrical Engineering, Biotechnology	-0.8849	0.8293 m^3	510	331	-545	Computer Science	0.0284	32	1.0587	-1.5149
+4	2409 m^2	-0.8503	motor sports	Data Science	-0.3431	-0.2382 m^3	414	-557	-1231	Bioinformatics	-0.5971	1024	0.5214	0.3332
+3	1407 m^2	-1.0621	?	Bioengineering	0.3232	0.0808 m^3	-390	-287	1032	Bioengineering	-0.3908	-408	-0.345	-0.6981
