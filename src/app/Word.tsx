@@ -42,7 +42,7 @@ export default function Word() {
   const [word, setWord] = useState("");
   const [gameState, setGameState] = useState(true);
   useEffect(() => {
-    setWord("CRANES");
+    setWord("BEFORE");
   }, []);
 
   const countLetterOccurrences = (str) => {
