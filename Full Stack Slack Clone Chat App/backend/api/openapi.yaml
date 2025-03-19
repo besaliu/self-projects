@@ -1,0 +1,199 @@
+#
+# CSE186 Assignment 8 Backend
+#
+openapi: '3.0.3'
+
+info:
+  description: CSE186 Assignment 8 Backend
+  version: 0.2.0
+  title: CSE186 Assignment 8 Backend
+
+servers:
+  - url: http://localhost:3010/api/v0
+security:
+  - bearerAuth: []
+
+paths:
+  /login:
+    post:
+      summary: Authenticate user and return JWT
+      description: Authenticates user by checking email & password against the database.
+      # Override global security for this endpoint (empty array = no security)
+      security: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                email:
+                  type: string
+                  example: "molly@books.com"
+                password:
+                  type: string
+                  example: "mollymember"
+      responses:
+        200:
+          description: Successfully authenticated
+          content:
+            application/json:
+              schema:
+                properties:
+                  token:
+                    type: string
+        401:
+          description: Invalid credentials
+  /workspace:
+    get:
+      summary: Returns list of workspaces the user is in
+      parameters:
+        - in: query
+          name: username
+          required: true
+          example: "Anna Admin"
+          schema:
+            type: string
+          description: Name of the user to get workspaces for
+      responses:
+        200:
+          description: Workspaces retrieved successfully
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    workspace_id:
+                      type: string
+                    name:
+                      type: string
+        401:
+          description: Unauthorized - Invalid or missing token
+        403:
+          description: Access Denied
+        404:
+          description: User not found
+        500:
+          description: Internal server error
+  /workspace/owner:
+    get:
+      summary: Returns the owner of a workspace
+      parameters:
+        - in: query
+          name: workspace
+          required: true
+          example: "CSE186"
+          schema:
+            type: string
+          description: Name of the workspace to get the owner for
+      responses:
+        200:
+          description: Owner retrieved successfully
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  id:
+                    type: string
+                    format: uuid
+                  name:
+                    type: string
+                  email:
+                    type: string
+        401:
+          description: Unauthorized - Invalid or missing token
+        403:
+          description: Access Denied
+        404:
+          description: Workspace not found
+        500:
+          description: Internal server error
+  /channel:
+    get:
+      summary: Returns list of channels in the workspace
+      parameters:
+        - in: query
+          name: workspace
+          required: true
+          example: "CSE186"
+          schema:
+            type: string
+          description: Name of the workspace to get channels for
+      responses:
+        200:
+          description: channels retrieved successfully
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    channel_id:
+                      type: string
+                    messages:
+                      type: object
+        401:
+          description: Unauthorized - Invalid or missing token
+        403:
+          description: Access Denied
+        404:
+          description: Workspace not found
+        500:
+          description: Internal server error
+  /channel/{id}:
+    get:
+      summary: Returns a specific channel with its messages
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: string
+            format: uuid
+          description: The UUID of the channel to retrieve
+      responses:
+        200:
+          description: Channel retrieved successfully
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  name:
+                    type: string
+                  messages:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        id:
+                          type: string
+                          format: uuid
+                        user_id:
+                          type: string
+                          format: uuid
+                        content:
+                          type: string
+                        timestamp:
+                          type: string
+                          format: date-time
+        400:
+          description: Invalid request
+        401:
+          description: Unauthorized - Invalid or missing token
+        403:
+          description: Access Denied
+        404:
+          description: Channel not found
+        500:
+          description: Internal server error
+components:
+  securitySchemes:  
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
